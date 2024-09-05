@@ -29,7 +29,7 @@
 [Y](#y)
 [Z](#z)
 
-# <p style="text-align: center;">A</p>
+# A
 
 ## _ab_
 
