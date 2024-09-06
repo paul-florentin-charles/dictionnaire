@@ -31,7 +31,7 @@
 
 # A
 
-## _ab_
+## _ab_ [&uarr;](#a)
 
 **_abbaye_** _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du clergé régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
 
@@ -49,7 +49,7 @@
 
 **_absurde_** _(adjectif)_ illogique, qui n’a pas de sens, et ne pouvant être l’aboutissement d’un raisonnement cohérent.
 
-## _ac_
+## _ac_ [&uarr;](#a)
 
 **_acabit_** _(nom masculin)_ valeur d’un objet au sens large ; l’analogie entre un adversaire “à la hauteur” et “du même acabit” permet de mieux saisir ce substantif.
 
@@ -59,7 +59,7 @@
 
 **_acquitter_** _(verbe transitif)_ innocenter un accusé, le déclarer non coupable ; payer un dû, rembourser, littéralement se rendre quitte.
 
-## _ad_
+## _ad_ [&uarr;](#a)
 
 **_admonester_** _(verbe transitif)_ réprimander gravement, gronder avec sévérité.
 
@@ -69,7 +69,7 @@
 
 **_adversité_** _(nom féminin)_ infortune, aléas de la vie, menace extérieure.
 
-### _af_
+## _af_ [&uarr;](#a)
 
 **_affable_** _(adjectif)_ se dit d’une personne souriante, bienveillante envers son interlocuteur.
 
@@ -79,17 +79,17 @@
 
 **_affubler_** _(verbe transitif)_ accoutrer, habiller d’un vêtement farfelu ou mis d’une manière ridicule ou grotesque ; communément employé à la voix passive, voire pronominale.
 
-### _ag_
+## _ag_ [&uarr;](#a)
 
 **_agoniste_** _(adjectif)_ se dit d’un muscle dont l’action produit le mouvement que l’on souhaite obtenir.
 
-### _ai_
+## _ai_ [&uarr;](#a)
 
 **_aigrefin_** _(adjectif)_ se dit d’une personne rusée, habile pour parvenir à ses fins.
 
 **_aigri_** _(adjectif)_ plein de rancœur, d’amertume, de ressentiment.
 
-### _al_
+## _al_ [&uarr;](#a)
 
 **_alacrité_** _(nom féminin)_ caractérise la vigueur d’esprit ou de corps d’une personne ; engouement à l’égard
 d’un évènement, entrain, enjouement.
@@ -110,7 +110,7 @@ d’un évènement, entrain, enjouement.
 
 **_alvéole_** _(nom masculin/féminin)_ petite cavité, elle peut désigner le creux dans lequel s’enchâsse la dent mais aussi les cellules hexagonales qui constituent les ruches d’abeilles.
 
-### _am_
+## _am_ [&uarr;](#a)
 
 **_amalgame_** _(nom masculin)_ alliage de métaux, plus précisément de mercure avec un autre métal ; _(fig)_ association volontaire de deux aspects distincts d’un phénomène dans un but de discrédit, voire de discorde.
 
@@ -130,7 +130,7 @@ d’un évènement, entrain, enjouement.
 
 **_ample_** _(adjectif)_ plus que suffisant, important ; se dit d’un vêtement qui flotte, dont les coutures ne sont pas serrées, offrant ainsi une certaine liberté de mouvement.
 
-### _an_
+## _an_ [&uarr;](#a)
 
 **_anacéphaléose_** _(nom féminin)_ récapitulation des grandes lignes d’un discours, résumé chronologique d’une intervention orale.
 
@@ -170,7 +170,7 @@ d’un évènement, entrain, enjouement.
 
 **_anxiété_** _(nom féminin)_ malaise, tourment de l’esprit, stress, angoisse.
 
-### _ap_
+## _ap_ [&uarr;](#a)
 
 **_apaiser_** _(verbe transitif)_ calmer, rendre paisible, relâcher, relaxer ; peut concerner l’esprit comme le corps.
 
@@ -192,11 +192,11 @@ d’un évènement, entrain, enjouement.
 
 **_appréhension_** _(nom féminin)_ anxiété en vue d’un évènement proche, dont l’issue nous est floue et relève d’une certaine importance, on parle alors de “degré d’appréhension” d’une personne.
 
-### _aq_
+## _aq_ [&uarr;](#a)
 
 **_aquilin_** _(adjectif)_ qualifie un nez fin dont la courbe vue de profil, est cassée près de la base supérieure du nez, formant ainsi un angle obtus et rappelant la forme d’un bec d’aigle.
 
-### _ar_
+## _ar_ [&uarr;](#a)
 
 **_arabesque_** _(nom féminin)_ ornement constitué d’un motif répété, souvent peint ou sculpté, représentant un ou plusieurs végétaux ; en danse classique, désigne une position codifiée.
 
@@ -214,7 +214,7 @@ d’un évènement, entrain, enjouement.
 
 **_arrogance_** _(nom féminin)_ insolence, provocation ; comportement plutôt contrôlé d’une personne qui se caractérise par un étalage confiant de son savoir et intellect, avec une intention claire de déstabiliser et de provoquer son ou ses interlocuteurs, qui lui sont d’ordinaire aînés dans le domaine à propos duquel ils sont provoqués.
 
-## _as_
+## _as_ [&uarr;](#a)
 
 **_ascétique_** _(adjectif)_ qui évite tout plaisir, surtout s’ils sont matériels, et qui consomme juste assez pour survivre ; qui se revendique de l’ascèse, dont l’épicurisme est l’antithèse.
 
@@ -226,7 +226,7 @@ d’un évènement, entrain, enjouement.
 
 **_astiquer_** _(verbe transitif)_ frotter énergétiquement une surface, afin de la rendre particulièrement propre, pour la “faire briller”.
 
-## _at_
+## _at_ [&uarr;](#a)
 
 **_ataraxie_** _(nom féminin)_ situation de parfaite tranquillité de l’esprit, idéal des élèves du stoïcisme ; paix de l’âme, libérée de toute envie et de tout désir.
 
@@ -238,7 +238,7 @@ d’un évènement, entrain, enjouement.
 
 **_atypique_** _(adjectif)_ surprenant, étrange, littéralement qui n’est pas typique, peu commun, qui sort des normes.
 
-## _au_
+## _au_ [&uarr;](#a)
 
 **_audace_** _(nom féminin)_ courage habituellement spontané et situationnel, presque éphémère, qui voit son
 auteur tenter un coup dont il n’est pas assuré du succès.
@@ -247,9 +247,15 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 
 **_austère_** _(adjectif)_ peu accueillant, dépouillé de vie, parfois pauvre.
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # B
 
-## _ba_
+## _ba_ [&uarr;](#b)
 
 **_babiller_** _(verbe intransitif)_ bavarder, palabrer de manière infantile.
 
@@ -281,7 +287,7 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 
 **_bazarder_** _(verbe transitif)_ se débarrasser de quelque chose, vendre à un prix insignifiant, solder.
 
-## _be_
+## _be_ [&uarr;](#b)
 
 **_belligérant_** _(nom masculin)_ meneur d’une action guerrière, usuellement dans le cadre d’une guerre, ou parfois l’espace d’une bataille.
 
@@ -298,7 +304,7 @@ sociale, de tout code ; violence, agressivité.
 
 **_beuverie_** _(nom féminin)_ fête intensément alcoolisée, où la boisson coule à flots.
 
-## _bi_
+## _bi_ [&uarr;](#b)
 
 **_bienveillant_** _(adjectif)_ réconfortant, chaleureux, qui dégage un sentiment positif.
 
@@ -308,7 +314,7 @@ rancœur, colère bouillante, haine aveugle.
 **_biomasse_** _(nom féminin)_ ensemble des éléments biologiques, donc vivants, d’un environnement défini,
 on pourrait parler de “la faune et la flore”.
 
-## _bl_
+## _bl_ [&uarr;](#b)
 
 **_blackbouler_** _(verbe transitif)_ évincer par un vote un candidat ; rejeter quelque chose, écarter une issue.
 
@@ -318,7 +324,7 @@ sanction.
 **_blason_** _(nom masculin)_ armoiries, emblème, symbole d’une maison ou d’un lieu, et qui peut se trouver
 aussi bien sur une bannière que sur une armure ou un château ; son étude est l’héraldique.
 
-## _bo_
+## _bo_ [&uarr;](#b)
 
 **_bonifier_** _(verbe transitif)_ améliorer, littéralement rendre bon ; il n’est pas rare de l’employer à la forme
 pronominale, notamment pour le vin, dont on dit qu’il “se bonifie avec le temps”.
@@ -344,7 +350,7 @@ surdimensionné mais creux.
 **_boustrophédon_** _(nom masculin)_ technique d’écriture basée sur l’alternance du sens de lecture à chaque
 nouvelle ligne.
 
-## _br_
+## _br_ [&uarr;](#b)
 
 **_branquignole_** _(adjectif)_ maladroit d’esprit, qui ne pense pas trop ses actions, pas franchement doué.
 
@@ -355,6 +361,12 @@ nouvelle ligne.
 **_brumeux_** _(adjectif)_ assombri, enfoui dans la brume ; _(fig)_ peu clair, difficile à saisir, à comprendre.
 
 **_brutalité_** _(nom féminin)_ violence exacerbée, sans retenue, inouïe.
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # C
 
@@ -642,6 +654,12 @@ _cynique_ (adjectif) sarcastique, moqueur, désinvolte, méprisant ; l’adjecti
 philosophique grecque du cynisme fondée par Antisthène, dont Diogène de Sinope est l’un des
 plus célèbres représentants.
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # D
 
 ## _da_
@@ -769,6 +787,12 @@ anormal.
 _dystopie_ (nom féminin) œuvre littéraire qui dépeint un univers fictif où l’humanité est en proie au
 malheur et à la peur, en général subissant le joug de gouvernements totalitaristes, mais
 n’importe quel facteur peut être la raison de cette régression de l’humanité.
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # E
 
@@ -1006,6 +1030,12 @@ transposer.
 
 **_exulter_** _(verbe intransitif)_ exprimer une vive émotion de joie ; _e.g._ exulter de joie.
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # F
 
 ## _fa_
@@ -1165,6 +1195,12 @@ transposer.
 
 **_futile_** _(adjectif)_ superflu, d'une importance mineure, dont on peut se passer.
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # G
 
 ## _ga_
@@ -1258,6 +1294,12 @@ grandes expressions.
 
 **_gustatif_** _(adjectif)_ qui a trait au goût.
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # H
 
 ## _ha_
@@ -1338,6 +1380,12 @@ hypocondriaque
 
 hystérie
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # I
 
 ## _ic_
@@ -1393,6 +1441,12 @@ itération
 ivoire
 ivresse
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # J
 
 ## _ja_
@@ -1423,9 +1477,21 @@ jubiler
 jument
 judaïsme
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # K
 
 khan
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # L
 
@@ -1474,56 +1540,115 @@ lucratif
 lugubre
 luminescent
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # M
 
 macabre
+
 mâchicoulis
+
 magnificence
+
 maladif
+
 malandrin
+
 maléfique
+
 malice
+
 malotru
+
 malveillant
+
 manichéen
+
 manne
+
 maraud
+
 maraver
+
 marbre
+
 maroufle
+
 mascaret
+
 maternel
+
 matricule
+
 matrimonial
+
 matutinal
+
 mécène
+
 mécréant
+
 mélodie
+
 mélopée
+
 menuet
+
 méronyme
+
 merveille
+
 mesquinerie
+
 métaphore
+
 métèque
+
 méticuleux
+
 métonymie
+
 meurtrière
+
 miasme
+
 miroiter
+
 misandre
+
 miséricorde
+
 misogyne
+
 missive
+
 mitoyen
+
 mœurs
+
 moisissure
+
 monumental
+
 moulinet
+
 muqueuse
+
 musicalité
+
 musique
+
 musser
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # N
 
@@ -1572,6 +1697,12 @@ notoire
 nouer
 
 nouvelle
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # O
 
@@ -1623,6 +1754,12 @@ ouvrage
 
 ouvrier
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # P
 
 pagophile
@@ -1654,7 +1791,6 @@ pestilentiel
 petrichor
 
 pétrir
-
 
 pilastre
 
@@ -1718,6 +1854,12 @@ purulent
 
 putréfaction
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # Q
 
 qualité
@@ -1739,6 +1881,12 @@ quinoa
 quintaine
 
 quintessence
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # R
 
@@ -1799,6 +1947,12 @@ rouage
 roubignolle
 
 rustique
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # S
 
@@ -1875,6 +2029,12 @@ sylphe
 
 synonyme
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # T
 
 taillis
@@ -1917,6 +2077,12 @@ tumulus
 
 turpide
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # U
 
 ubuesque
@@ -1932,6 +2098,12 @@ urticaire
 ustensile
 
 utopie
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # V
 
@@ -1981,17 +2153,40 @@ vulgaire
 
 vulnérable
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
+
 # W
 
 wapiti
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # X
 
 xénophobe
 
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 # Y
 
 yourte
+
+---
+
+[Revenir au sommaire](#sommaire)
+
+---
 
 # Z
 
