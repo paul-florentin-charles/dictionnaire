@@ -370,7 +370,7 @@ nouvelle ligne.
 
 # C
 
-## _ca_
+## _ca_ [&uarr;](#c)
 
 **_cairn_** _(nom masculin)_ empilement artificiel de pierres abritant une sépulture ou servant à indiquer un
 lieu.
@@ -428,7 +428,7 @@ territoire plus étendu.
 **_caustique_** _(adjectif)_ corrosif, rongeant, agressif pour les tissus ; _(fig)_ dite d’une plaisanterie acerbe, mal
 intentionnée et piquante.
 
-## _ce_
+## _ce_ [&uarr;](#c)
 
 **_cécité_** _(nom féminin)_ absence permanente de la vue chez une personne.
 
@@ -437,7 +437,7 @@ certaines propriétés intéressantes pour l’être humain, sauf si elle prése
 
 **_cession_** _(nom féminin)_ arrêt, cessation, interruption.
 
-## _ch_
+## _ch_ [&uarr;](#c)
 
 **_chafouin_** _(adjectif)_ à l’air malveillant, comploteur, qui n’inspire nullement confiance.
 
@@ -481,42 +481,42 @@ _(verbe transitif)_ railler, se moquer avec légèreté.
 plaques d’ivoire et d’or assemblées sur une ossature en bois ; une statue conçue avec cette technique est
 appelée une chryséléphantine. _(adjectif)_ qui est composé d’or et d’ivoire.
 
-## _ci_
+## _ci_ [&uarr;](#c)
 
-_circoncision_ (nom féminin) ablation du prépuce, laissant le gland à découvert ; son contexte est
+**_circoncision_** _(nom féminin)_ ablation du prépuce, laissant le gland à découvert ; son contexte est
 presque nécessairement religieux, sous forme d’un rituel, notamment dans le Judaïsme ou
 l’islam.
 
-_cire_ (adjectif) substance grasse plastique, insoluble dans l’eau, utilisée notamment dans les
+**_cire_** _(adjectif)_ substance grasse plastique, insoluble dans l’eau, utilisée notamment dans les
 bougies ; originellement le terme faisait exclusivement référence à la cire sécrétée par les
 abeilles pour construire leur ruche.
 
-_cithare_ (nom féminin) instrument musical à cordes, particulièrement présent au sein du folklore
+**_cithare_** _(nom féminin)_ instrument musical à cordes, particulièrement présent au sein du folklore
 autrichien ; sa particularité est d’offrir des cordes individuelles “aiguës” dédiées à la mélodie, et
 des groupes de quatre cordes dédiés à l’harmonie, plus graves ; sa caisse de résonance est
 trapézoïdale.
 
-## _cl_
+## _cl_ [&uarr;](#c)
 
-_clairvoyance_ (nom féminin) lucidité, discernement, clarté d’esprit, finesse d’observation et de
+**_clairvoyance_** _(nom féminin)_ lucidité, discernement, clarté d’esprit, finesse d’observation et de
 déduction, intuition juste.
 
-_clepsydre_ (nom féminin) instrument archaïque de mesure du temps, par écoulement de l’eau au
+**_clepsydre_** _(nom féminin)_ instrument archaïque de mesure du temps, par écoulement de l’eau au
 compte-gouttes dans un vase.
 
-_clérical_ (adjectif) relatif au clergé, religieux, en lien avec l’institution religieuse catholique.
+**_clérical_** _(adjectif)_ relatif au clergé, religieux, en lien avec l’institution religieuse catholique.
 
-_clivage_ (nom masculin) fissure d’un cristal ; _(fig)_ séparation nette, disjonction, division au sein
+**_clivage_** _(nom masculin)_ fissure d’un cristal ; _(fig)_ séparation nette, disjonction, division au sein
 d’un groupe, état de sécession entre deux côtés.
 
-_clocher_ (nom masculin) œuvre architecturale située au sommet des tours d’un édifice religieux
+**_clocher_** _(nom masculin)_ œuvre architecturale située au sommet des tours d’un édifice religieux
 catholique, elle abrite les cloches qui tintent au gré des prières, des heures, des mariages et des
 enterrements.
 
-_cloître_ (nom masculin) galerie rectangulaire, bordée de colonnes du côté intérieur, entourant un
+**_cloître_** _(nom masculin)_ galerie rectangulaire, bordée de colonnes du côté intérieur, entourant un
 jardin, et située dans un monastère ou une abbaye.
 
-## _co_
+## _co_ [&uarr;](#c)
 
 _coercition_ (nom féminin) imposition d’une contrainte psychologique ou physique sur une
 personne, pour l’obliger à agir ou lui en empêcher.
@@ -606,11 +606,10 @@ face à l’adversité et une prise de risque mesurée.
 
 _courtois_ (adjectif) maniéré, respectueux, poli ; qui se revendique de la courtoisie.
 
-
 _coutume_ (nom féminin) tradition, habitude, rituel culturel ; “les us et coutumes” évoquent
 l’ensemble des pratiques d’une société.
 
-## _cr_
+## _cr_ [&uarr;](#c)
 
 _crainte_ (nom féminin) attente mêlée de peur, anxiété à l’idée d’une prise de décision néfaste,
 angoisse.
@@ -634,7 +633,7 @@ _crique_ (nom féminin) petite baie, anse, échancrure.
 _cristallin_ (adjectif) pur comme le cristal, transparent, lisse, régulier ; peut aussi bien caractériser
 une voix qu’une matière.
 
-## _cu_
+## _cu_ [&uarr;](#c)
 
 _cucurbitacé_ (nom masculin) membre de la famille des cucurbitacées qui regroupe des plantes
 herbacées produisant des fruits tels que les courges, les concombres, les melons, ou encore les
@@ -648,7 +647,7 @@ C. en Mésopotamie.
 
 _cutané_ (adjectif) relatif à la peau.
 
-## _cy_
+## _cy_ [&uarr;](#c)
 
 _cynique_ (adjectif) sarcastique, moqueur, désinvolte, méprisant ; l’adjectif est dérivé de l’école
 philosophique grecque du cynisme fondée par Antisthène, dont Diogène de Sinope est l’un des
