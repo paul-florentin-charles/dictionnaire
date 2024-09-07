@@ -518,38 +518,38 @@ jardin, et située dans un monastère ou une abbaye.
 
 ## _co_ [&uarr;](#c)
 
-_coercition_ (nom féminin) imposition d’une contrainte psychologique ou physique sur une
+**_coercition_** _(nom féminin)_ imposition d’une contrainte psychologique ou physique sur une
 personne, pour l’obliger à agir ou lui en empêcher.
 
-_collecter_ (verbe transitif) récupérer, extraire ; son acception est large, on peut tout aussi bien
+**_collecter_** _(verbe transitif)_ récupérer, extraire ; son acception est large, on peut tout aussi bien
 collecter des métaux, des déchets, des données, etc.
 
-_collusion_ (nom féminin) fusion, harmonie, connivence, intersection d’intérêts.
+**_collusion_** _(nom féminin)_ fusion, harmonie, connivence, intersection d’intérêts.
 
-_colossal_ (adjectif) immense, gigantesque, extrêmement imposant ; dérive de “colosse”, statue
+**_colossal_** _(adjectif)_ immense, gigantesque, extrêmement imposant ; dérive de “colosse”, statue
 démesurée dans ses proportions, _c.f._ colosse de Rhodes.
 
-_communauté_ (nom féminin) groupe d’individus liés par un point commun, qui ont des intérêts
+**_communauté_** _(nom féminin)_ groupe d’individus liés par un point commun, qui ont des intérêts
 convergents, en règle générale ; cette liaison peut être la religion, l’ethnie, le pouvoir, le travail, la
 parenté...
 
-_compagnon_ (nom masculin) camarade de voyage, quelqu’un qui nous accompagne, par
+**_compagnon_** _(nom masculin)_ camarade de voyage, quelqu’un qui nous accompagne, par
 extension, un ami, un copain ; peut également désigner le partenaire conjugal.
 
-_comploter_ (verbe intransitif) préparer un mauvais coup, fomenter contre quelqu’un ou contre
+**_comploter_** _(verbe intransitif)_ préparer un mauvais coup, fomenter contre quelqu’un ou contre
 une entité, manigancer ; comporte une notion collective, d’ordinaire on complote collectivement
 et non individuellement.
 
-_composant_ (nom masculin) pièce d’un ensemble, partie, fragment.
+**_composant_** _(nom masculin)_ pièce d’un ensemble, partie, fragment.
 
-_comptoir_ (nom masculin) commode longitudinale et haute située dans un bar, où les boissons et
+**_comptoir_** _(nom masculin)_ commode longitudinale et haute située dans un bar, où les boissons et
 diverses commandes sont servies, voire préparées ; ville coloniale marchande, servant
 d’entrepôt et d’escale, pour les bateaux dans le cas de comptoirs bordant un fleuve ou une mer.
 
-_concomitant_ (adjectif) coïncidant, deux évènements tombant simultanément sont dits
+**_concomitant_** _(adjectif)_ coïncidant, deux évènements tombant simultanément sont dits
 concomitant ; connexe, côte-à-côte, qui se touchent lorsqu’on parle de deux objets quelconques.
 
-_confin_ (nom masculin) bout, pointe, fin ; _(fig)_ extension maximale, origine, se rendre aux “confins
+**_confin_** _(nom masculin)_ bout, pointe, fin ; _(fig)_ extension maximale, origine, se rendre aux “confins
 de l’humanité” signifie se rendre aux débuts de celle-ci.
 
 **_conjuration_** _(nom féminin)_
@@ -661,7 +661,7 @@ plus célèbres représentants.
 
 # D
 
-## _da_
+## _da_ [&uarr;](#d)
 
 _dadaïsme_ (nom masculin) mouvement artistique, littéraire et intellectuel né au début du XXe
 siècle sous l’impulsion de deux allemands ; il prône un anticonformisme, une extravagance, une
@@ -670,7 +670,7 @@ liberté d’expression totale, un mépris du passé et un intérêt pour le pr�
 _dantesque_ (adjectif) infernal, apocalyptique, disproportionné, grandiose ; relatif à l’œuvre de
 Dante, et plus spécifiquement, à sa _Divine Comédie_.
 
-## _de_
+## _de_ [&uarr;](#d)
 
 _décadence_ (nom féminin) phase d’une société qui se traduit par un effondrement des moeurs,
 une immoralité omniprésente, aussi bien chez la classe politique que chez le peuple, un déclin
@@ -731,7 +731,7 @@ _détresse_ (nom féminin) désespoir, désarroi.
 _détrousser_ (verbe transitif) voler une cible mise hors d’état de nuire, dépouiller une victime en
 déplacement sur une voie de communication, faire les poches.
 
-## _di_
+## _di_ [&uarr;](#d)
 
 _diablotin_ (nom masculin) petit diable, concentré de malice et de mesquinerie.
 
@@ -753,7 +753,7 @@ _disparate_ (adjectif) séparé, clivé, disjoint.
 
 _dithyrambique_ (adjectif) élogieux, flatteur, laudatif ; du genre poétique du dithyrambe.
 
-## _do_
+## _do_ [&uarr;](#d)
 
 _docile_ (adjectif) obéissant, soumis, doux, tranquille, qui ne manifeste aucune agressivité et qui
 est disposé à se laisser conduire.
@@ -771,12 +771,12 @@ _doucereux_ (adjectif) très doux, sucré ; _(fig)_ mielleux, hypocritement agr�
 _douve_ (nom féminin) fossé rempli d’eau entourant les châteaux et servant à en entraver l’accès
 en cas de siège.
 
-## _du_
+## _du_ [&uarr;](#d)
 
 _dû_ (nom masculin) ce qui est dû, dette. (adjectif) indique la cause, la raison, l’élément
 déclencheur.
 
-## _dy_
+## _dy_ [&uarr;](#d)
 
 _dynamite_ (nom féminin) explosif inventé par Alfred Nobel.
 
@@ -795,14 +795,14 @@ n’importe quel facteur peut être la raison de cette régression de l’humani
 
 # E
 
-## _eb_
+## _eb_ [&uarr;](#e)
 
 _ébauche_ (nom féminin) approximation, esquisse, essai, squelette, tentative grossière, croquis.
 
 _ébriété_ (nom féminin) qualifie l’état d’une personne sous l’emprise de l’alcool, par opposition à la
 sobriété.
 
-## _ec_
+## _ec_ [&uarr;](#e)
 
 
 _ecclésiastique_ (adjectif) propre à l’Église.
@@ -823,7 +823,7 @@ système solaire, et l’astre recouvré ; une éclipse solaire se produit quand
 confond ou presque avec l’axe Terre-Soleil, et est entre les deux astres ; une éclipse lunaire se
 produit quand c’est la Terre qui est entre la Lune et le Soleil.
 
-## _ed_
+## _ed_ [&uarr;](#e)
 
 _édicule_ (nom masculin) terme générique en architecture qui désigne des constructions isolées de
 petite envergure disposées dans l’espace public ; dans la Rome antique, un édicule est une
@@ -832,18 +832,18 @@ pour y loger une tombe.
 
 _édifier_ (verbe transitif) ériger, construire, bâtir, élever un édifice ; _(fig)_ concevoir, composer, créer.
 
-## _ef_
+## _ef_ [&uarr;](#e)
 
 _effluve_ (nom féminin ou masculin) émanation issue d’un corps animal ou végétal, laissant une
 trace olfactive, matérielle et plus rarement visuelle.
 
-## _eg_
+## _eg_ [&uarr;](#e)
 
 _égoïsme_ (nom masculin) attitude humaine qui fait passer la satisfaction de l’ego avant toute
 chose, et en particulier avant la considération des connaissances, des amis, ou de toute
 personne affectée de près ou de loin par ces actions.
 
-## _el_
+## _el_ [&uarr;](#e)
 
 _élégance_ (nom féminin) classe, distinction, style, allure mesurée et apparence stylisée ; codes
 sociaux portrayant l’image d’un style vestimentaire gage de raffinement, de beauté et de bon
@@ -859,7 +859,7 @@ avec style.
 
 _élucubration_ (nom féminin) divagation, sottise, parole absurde, propos délirant.
 
-## _em_
+## _em_ [&uarr;](#e)
 
 _émanation_ (nom féminin) exhalaison, dégagement gazeux, échappement de fumée.
 
@@ -879,7 +879,7 @@ _embûche_ (nom féminin) obstacle, épreuve, difficulté.
 _émeraude_ (nom féminin) pierre précieuse communément verte (adjectif) d’un vert cristallin et
 pur comme l’émeraude.
 
-## _en_
+## _en_ [&uarr;](#e)
 
 _enchanter_ (verbe transitif) émerveiller, enjouer, euphoriser, rendre allègre.
 
@@ -908,7 +908,7 @@ mesurée par la distance entre les extrémités de ses membres supérieurs tenus
 
 _envieux_ (adjectif) jaloux, qui éprouve de l’envie.
 
-## _ep_
+## _ep_ [&uarr;](#e)
 
 _éparchie_ (nom féminin) équivalent d’un diocèse dans l’Église orthodoxe ; province de l’Empire
 romain sous la gouvernance d’un éparque, constamment située dans la zone orientale de
@@ -932,7 +932,7 @@ _épistolaire_ (adjectif) se dit d’une relation fondée sur l’échange de le
 
 _époustouflant_ (adjectif) ébahissant, stupéfiant, épatant, amplement déconcertant, extraordinaire.
 
-## _er_
+## _er_ [&uarr;](#e)
 
 **_érable_** _(nom masculin)_ arbre à fruits secs et feuilles opposées, dont la plupart des espèces sont hautes
 et dont certaines sont choisies pour leur eau d’érable récoltée pour produire le sirop d’érable.
@@ -943,7 +943,7 @@ l'hébergement des esclaves, ou des gladiateurs dans l’antiquité romaine.
 **_ériger_** _(verbe transitif)_ construire, bâtir, édifier, élever une œuvre architecturale ; mettre en place, créer,
 mettre sur pied.
 
-## _es_
+## _es_ [&uarr;](#e)
 
 **_escadrille_** _(nom féminin)_ unité militaire de base dans les différents corps armés : aérien, naval et
 terrestre ; sous-ensemble de l’escadron.
@@ -966,7 +966,7 @@ pétrole.
 **_estoc_** _(adjectif)_ en escrime, caractérise un coup porté par la pointe de l’épée (nom masculin) pointe d’une
 épée ; arme blanche frappant de pointe.
 
-## _et_
+## _et_ [&uarr;](#e)
 
 **_étayer_** _(verbe transitif)_ soutenir une construction par des étais _; (fig)_ supporter une hypothèse par des
 arguments, soutenir une idée par des preuves, en apportant des faits.
@@ -976,7 +976,7 @@ arguments, soutenir une idée par des preuves, en apportant des faits.
 **_étymologie_** _(nom féminin)_ étude de l’origine lexicale des mots, notamment via le découpage de ceux-ci
 en segments indépendants.
 
-## _eu_
+## _eu_ [&uarr;](#e)
 
 **_eucalyptus_** _(nom masculin)_ groupe d’arbres originaires d’Australie, à croissance rapide et
 majoritairement à feuilles persistantes.
@@ -984,7 +984,7 @@ majoritairement à feuilles persistantes.
 **_eucaryote_** _(nom masculin)_ organisme biologique dont la majeure partie du matériel génétique cellulaire
 est contenue dans un noyau délimité par une membrane nucléaire, par opposition aux procaryotes.
 
-## _ev_
+## _ev_ [&uarr;](#e)
 
 **_évangéliste_** _(nom masculin)_ apostolat, religieux chrétien qui recherche l’évangélisation des masses, à
 savoir la conversion à son Église des infidèles ou des croyants non chrétiens.
@@ -994,7 +994,7 @@ diocèse, on qualifie sa fonction d’épiscopale.
 
 **_évincer_** _(verbe transitif)_ écarter, expulser, dégager, virer quelqu’un, retirer une personne d’un projet.
 
-## _ex_
+## _ex_ [&uarr;](#e)
 
 **_excédent_** _(nom masculin)_ surplus, trop-plein, différence positive de quantité entre le seuil nécessaire et
 le seuil réellement atteint.
@@ -1037,7 +1037,7 @@ transposer.
 
 # F
 
-## _fa_
+## _fa_ [&uarr;](#f)
 
 **_facétieux_** _(adjectif_ ) espiègle, malicieux, taquin.
 
@@ -1081,7 +1081,7 @@ transposer.
 
 **_faussaire_** _(nom masculin)_ reproducteur d’œuvres ou d’objets originaux, créateur de faux.
 
-## _fe_
+## _fe_ [&uarr;](#f)
 
 **_fédéral_** _(adjectif)_ se dit d’une entité administrative composée de multiples sous-entités possédant chacune une certaine autonomie législative et judiciaire, mais soumises à une constitution commune.
 
@@ -1103,7 +1103,7 @@ transposer.
 
 **_feutre_** _(nom féminin)_ instrument de dessin et d’écriture, fonctionnant par dépôt permanent d’encre surune surface ; catégorie de chapeau ; textile non-tissé issu de fibres naturelles et éventuellement d’un traitement chimique supplémentaire.
 
-## _fi_
+## _fi_ [&uarr;](#f)
 
 **_fiduciaire_** _(adjectif)_ qualifie la monnaie dite “liquide”, dont le montant est indiqué sur le billet ou la pièce en circulation ; qui est basé sur la confiance.
 
@@ -1117,7 +1117,7 @@ transposer.
 
 **_fistule_** _(nom féminin)_ jonction anormale d’une cavité d’un corps animal, soit avec une autre cavité de ce corps ou avec l’extérieur directement.
 
-## _fl_
+## _fl_ [&uarr;](#f)
 
 **_flaccide_** _(adjectif)_ flasque, décrit un organe ou une partie du corps qui ne répond plus lentement ou moins intensément, suite à une pathologie.
 
@@ -1139,7 +1139,7 @@ transposer.
 
 **_fluorescent_** _(adjectif)_ qui brille dans l’obscurité, qui émet naturellement une lumière.
 
-## _fo_
+## _fo_ [&uarr;](#f)
 
 **_foison_** _(nom féminin)_ grande abondance.
 
@@ -1155,7 +1155,7 @@ transposer.
 
 **_foyer_** _(nom masculin)_ âtre, emplacement destiné au feu de cheminée ; par extension, pièce principale d’une habitation, la plus vivante, et où se trouvait systématiquement la cheminée à l’époque ; point d’origine d’un séisme, à partir duquel il se propage.
 
-## _fr_
+## _fr_ [&uarr;](#f)
 
 **_fragment_** _(nom masculin)_ morceau, pièce issue de la fission, souvent non prévue, d'un objet.
 
@@ -1178,7 +1178,7 @@ transposer.
 **_frustration_** _(nom féminin)_ sentiment désagréable lié à une situation irrésoluble, soit par manque de pouvoir, soit par manque de vouloir.
 
 
-## _fu_
+## _fu_ [&uarr;](#f)
 
 **_fulminant_** _(adjectif)_ se dit d'une substance dont l'explosion s'accompagne d'un bruit assourdissant et d'un éclair ; _(fig)_ rageur, proche de l'explosion, menaçant.
 
@@ -1202,7 +1202,7 @@ transposer.
 
 # G
 
-## _ga_
+## _ga_ [&uarr;](#g)
 
 **_galanterie_** _(nom féminin)_ ensemble de règles implicites qui dictent la conduite d'un homme envers une femme. Ladite conduite se caractérisant par une politesse particulière.
 
@@ -1236,7 +1236,7 @@ transposer.
 
 **_gazouiller_** _(verbe intransitif)_ émettre des gazouillements, chants aigus et saccadés produits par des petits oiseaux.
 
-## _ge_
+## _ge_ [&uarr;](#g)
 
 **_gemme_** _(nom féminin)_ petit pierre esthétique, souvent fine ou précieuse ; elle peut être remodelée (polie, taillée, etc.) puis incrustée par exemple.
 
@@ -1246,13 +1246,13 @@ transposer.
 
 **_gesticuler_** _(verbe intransitif)_ se mouvoir dans tous les sens sans cohérence particulière.
 
-## _gi_
+## _gi_ [&uarr;](#g)
 
 **_gibier_** _(nom masculin)_ espèces d’animaux habituellement chassées.
 
 **_ginseng_** _(nom masculin)_ plante d’origine est-asiatique.
 
-## _gl_
+## _gl_ [&uarr;](#g)
 
 **_glapir_** _(verbe intransitif)_ action correspondant au cri du renard.
 
@@ -1262,7 +1262,7 @@ transposer.
 
 **_glycine_** _(nom féminin)_ variété de plante grimpante.
 
-## _go_
+## _go_ [&uarr;](#g)
 
 **_goulet_** _(nom masculin)_ rétrécissement, accès étroit d’un port, allée exiguë ; _e.g._ goulet d’étranglement.
 
@@ -1270,7 +1270,7 @@ transposer.
 
 **_gourmet_** _(nom masculin)_ amateur culinaire, qui apprécie la finesse gastronomique.
 
-## _gr_
+## _gr_ [&uarr;](#g)
 
 **_grandiloquent_** _(adjectif)_ excessivement grandiose et solennel, se dit d’un discours pompeux, plein de
 grandes expressions.
@@ -1285,7 +1285,7 @@ grandes expressions.
 
 **_grossièreté_** _(nom féminin)_ juron ou insulte ; manque de finesse, de précision : grossièreté d’un travail bâclé ou de propos simplificateurs.
 
-## _gu_
+## _gu_ [&uarr;](#g)
 
 **_guigne_** _(nom féminin)_ poisse, manque de chance.
 
@@ -1301,7 +1301,7 @@ grandes expressions.
 
 # H
 
-## _ha_
+## _ha_ [&uarr;](#h)
 
 **_hagard_** _(adjectif)_ perdu, égaré, désorienté ; _e.g._ un individu à l’air hagard.
 
@@ -1317,7 +1317,7 @@ grandes expressions.
 
 **_hautain_** (adjectif) se dit de quelqu’un qui prend de haut, de pédant voire méprisant.
 
-## _he_
+## _he_ [&uarr;](#h)
 
 **_héraldique_** _(nom féminin)_ étude des armoiries, des blasons. (adjectif) relatif aux armoiries, aux blasons.
 
@@ -1327,7 +1327,7 @@ grandes expressions.
 
 **_hexakosioihexekontahexaphobie_** _(nom masculin)_ peur parodique du nombre de la Bête : 666.
 
-## _hi_
+## _hi_ [&uarr;](#h)
 
 **_hiémal_** _(adjectif)_ relatif à l’hiver.
 
@@ -1337,7 +1337,7 @@ grandes expressions.
 
 **_historique_** _(adjectif)_ qui a trait à l’Histoire ; _(par extension)_ mémorable, d’une importance exceptionnelle. _(nom masculin)_ récapitulatif de données compilées dans le temps ; _e.g._ un historique de recherches internet.
 
-## _ho_
+## _ho_ [&uarr;](#h)
 
 **_holonyme_** _(nom masculin)_ mot dont le sens englobe celui d’un autre mot donné, antonyme de méronyme ; _e.g._ bateau est un holonyme de coque.
 
@@ -1357,7 +1357,7 @@ grandes expressions.
 
 **_houspiller_** _(verbe transitif)_ gronder, réprimander, harceler quelqu’un de reproches.
 
-## _hu_
+## _hu_ [&uarr;](#h)
 
 **_hubris_** _(nom féminin)_ démesure, orgueil boursouflé, excès de confiance qui mène usuellement un individu à sa perte.
 
@@ -1365,15 +1365,15 @@ grandes expressions.
 
 **_hurluberlu_** _(nom masculin)_ individu fantasque, drôle de personnage.
 
-## _hy_
+## _hy_ [&uarr;](#h)
 
 **_hyalin_** _(adjectif)_ qui a la transparence du verre.
 
 **_hybris_** _(nom féminin) c.f._ hubris.
 
-hydrophobe
+**_hydrophobe_** _(adjectif)_ se dit d'une substance qui ne se mélange pas avec l'eau ; qualifie un individu ayant une peur irrationnelle de l'eau.
 
-hyperbole
+**_hyperbole_** _(nom féminin)_ figure de style qui consiste à exagérer un évènement ou une caractéristique, à grossir volontairement les traits. 
 
 hypocondriaque
 
@@ -1398,33 +1398,53 @@ illettrisme
 ## _im_
 
 immanent
+
 immarcescible
+
 implicite
+
 implosion
+
 impotent
 
 ## _in_
 
 incorrigible
+
 indécent
+
 indigeste
+
 indolore
+
 indulgent
+
 inflorescence
+
 infrastructure
+
 infundibuliforme
+
 insidieux
+
 insolence
+
 inspiration
+
 institution
+
 intransigeant
+
 intrépide
+
 intrinsèque
 
 ## _ir_
 
 irascible
+
 ire
+
 iris
 
 ## _is_
@@ -1438,6 +1458,7 @@ itération
 ## _iv_
 
 ivoire
+
 ivresse
 
 ---
@@ -1451,29 +1472,41 @@ ivresse
 ## _ja_
 
 jacquerie
+
 jacter
+
 jade
+
 jaillir
+
 jais
+
 jars
+
 jaser
+
 jasmin
 
 ## _je_
 
 jérémiade
+
 jeûne
 
 ## _jo_
 
 jouir
+
 journée
+
 jovial
 
 # _ju_
 
 jubiler
+
 jument
+
 judaïsme
 
 ---
@@ -1497,46 +1530,71 @@ khan
 ## _la_
 
 lacédémonien
+
 laconique
+
 ladre
+
 laminaire
+
 lancinant
+
 lanière
+
 lapidation
+
 lapis-lazuli
+
 lascar
+
 laxiste
 
 ## _le_
 
 lemme
+
 lépreux
+
 léthargique
+
 léviter
+
 lexique
 
 ## _li_
 
 libéralisme
+
 liberté
+
 liberticide
+
 lie
+
 litige
+
 littérature
+
 liturgie
 
 ## _lo_
 
 logorrhée
+
 louer
+
 loyauté
 
 ## _lu_
 
 lubie
+
 lucidité
+
 lucratif
+
 lugubre
+
 luminescent
 
 ---
