@@ -31,6 +31,10 @@
 
 ## _ab_ [&uarr;](#a)
 
+<details>
+
+<summary>afficher/cacher</summary>
+
 **_abbaye_** _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du clergé régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
 
 **_abdiquer_** _(verbe transitif)_ renoncer à son trône pour un roi, ou de manière plus élargie, se retirer volontairement d’une position de pouvoir. _(verbe intransitif)_ abandonner une entreprise, un projet en cours.
@@ -46,6 +50,8 @@
 **_absoudre_** _(verbe transitif)_ pardonner un péché, et par extension, une faute.
 
 **_absurde_** _(adjectif)_ illogique, qui n’a pas de sens, et ne pouvant être l’aboutissement d’un raisonnement cohérent.
+
+</details>
 
 ## _ac_ [&uarr;](#a)
 
