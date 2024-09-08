@@ -29,7 +29,7 @@
 [Y](#y)
 [Z](#z)
 
-# A
+# <a id="a"><p align="center">A</p></a>
 
 ## _ab_ [&uarr;](#a)
 
@@ -253,7 +253,7 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 
 ---
 
-# B
+# <a id="b"><p align="center">B</p></a>
 
 ## _ba_ [&uarr;](#b)
 
@@ -368,7 +368,7 @@ nouvelle ligne.
 
 ---
 
-# C
+# <a id="c"><p align="center">C</p></a>
 
 ## _ca_ [&uarr;](#c)
 
@@ -612,37 +612,37 @@ l’ensemble des pratiques d’une société.
 
 ## _cr_ [&uarr;](#c)
 
-_crainte_ (nom féminin) attente mêlée de peur, anxiété à l’idée d’une prise de décision néfaste,
+**_crainte_** _(nom féminin)_ attente mêlée de peur, anxiété à l’idée d’une prise de décision néfaste,
 angoisse.
 
-_créancier_ (nom masculin) prêteur, partie donneuse dans un prêt, individu faisant crédit ; la partie
+**_créancier_** _(nom masculin)_ prêteur, partie donneuse dans un prêt, individu faisant crédit ; la partie
 receveuse étant le débiteur.
 
-_création_ (nom féminin) formation, construction, apparition d’un nouvel objet découlant d’une
+**_création_** _(nom féminin)_ formation, construction, apparition d’un nouvel objet découlant d’une
 activité humaine ou naturelle.
 
-_créativité_ (nom féminin) habileté à créer, tendance à produire, fécondité d’esprit.
+**_créativité_** _(nom féminin)_ habileté à créer, tendance à produire, fécondité d’esprit.
 
-_créneau_ (nom masculin) ouverture façonnée au sommet des remparts d’une forteresse pour
+**_créneau_** _(nom masculin)_ ouverture façonnée au sommet des remparts d’une forteresse pour
 permettre aux archers de tirer sur les éventuels assaillants ; la partie intacte entre deux
 créneaux est appelé merlon.
 
-_crevasse_ (nom féminin) petit gouffre, ravin.
+**_crevasse_** _(nom féminin)_ petit gouffre, ravin.
 
-_crique_ (nom féminin) petite baie, anse, échancrure.
+**_crique_** _(nom féminin)_ petite baie, anse, échancrure.
 
-_cristallin_ (adjectif) pur comme le cristal, transparent, lisse, régulier ; peut aussi bien caractériser
+**_cristallin_** _(adjectif)_ pur comme le cristal, transparent, lisse, régulier ; peut aussi bien caractériser
 une voix qu’une matière.
 
 ## _cu_ [&uarr;](#c)
 
-_cucurbitacé_ (nom masculin) membre de la famille des cucurbitacées qui regroupe des plantes
+**_cucurbitacé_** _(nom masculin)_ membre de la famille des cucurbitacées qui regroupe des plantes
 herbacées produisant des fruits tels que les courges, les concombres, les melons, ou encore les
 cornichons.
 
-_culminer_ (verbe intransitif) atteindre une hauteur maximale, un plafond d’intensité.
+**_culminer_** _(verbe intransitif)_ atteindre une hauteur maximale, un plafond d’intensité.
 
-_cunéiforme_ (adjectif) se dit d’une écriture aux formes semblables à des clous ou à des coins ;
+**_cunéiforme_** _(adjectif)_ se dit d’une écriture aux formes semblables à des clous ou à des coins ;
 l’écriture cunéiforme désigne le système d’écriture mis au point à la fin du IVe millénaire avant J.-
 C. en Mésopotamie.
 
@@ -650,7 +650,7 @@ _cutané_ (adjectif) relatif à la peau.
 
 ## _cy_ [&uarr;](#c)
 
-_cynique_ (adjectif) sarcastique, moqueur, désinvolte, méprisant ; l’adjectif est dérivé de l’école
+**_cynique_** _(adjectif)_ sarcastique, moqueur, désinvolte, méprisant ; l’adjectif est dérivé de l’école
 philosophique grecque du cynisme fondée par Antisthène, dont Diogène de Sinope est l’un des
 plus célèbres représentants.
 
@@ -660,7 +660,7 @@ plus célèbres représentants.
 
 ---
 
-# D
+# <a id="d"><p align="center">D</p></a>
 
 ## _da_ [&uarr;](#d)
 
@@ -794,7 +794,7 @@ n’importe quel facteur peut être la raison de cette régression de l’humani
 
 ---
 
-# E
+# <a id="e"><p align="center">E</p></a>
 
 ## _eb_ [&uarr;](#e)
 
@@ -1036,7 +1036,7 @@ transposer.
 
 ---
 
-# F
+# <a id="f"><p align="center">F</p></a>
 
 ## _fa_ [&uarr;](#f)
 
@@ -1201,7 +1201,7 @@ transposer.
 
 ---
 
-# G
+# <a id="g"><p align="center">G</p></a>
 
 ## _ga_ [&uarr;](#g)
 
@@ -1300,7 +1300,7 @@ grandes expressions.
 
 ---
 
-# H
+# <a id="h"><p align="center">H</p></a>
 
 ## _ha_ [&uarr;](#h)
 
@@ -1376,9 +1376,10 @@ grandes expressions.
 
 **_hyperbole_** _(nom féminin)_ figure de style qui consiste à exagérer un évènement ou une caractéristique, à grossir volontairement les traits. 
 
-**_hypocondriaque_** _(adjectif)_ décrit une personne ayant une peur paranoïaque d'attraper une pathologie.
+**_hypocondriaque_** _(adjectif)_ décrit une personne ayant une peur paranoïaque d'attraper ou d'être affecté par une pathologie.
 
-**_hystérie_**
+**_hystérie_** _(nom féminin)_ état de grande ébullition psychique qui se caractèrise par un comportement irrationel et parfois violent,
+_e.g._ faire une crise d'hystérie.
 
 ---
 
@@ -1386,7 +1387,7 @@ grandes expressions.
 
 ---
 
-# I
+# <a id="i"><p align="center">I</p></a>
 
 ## _ic_
 
