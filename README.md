@@ -1,35 +1,33 @@
-# Dictionnaire
-
 ## Sommaire
 
-[A](#a)
-[B](#b)
-[C](#c)
-[D](#d)
-[E](#e)
-[F](#f)
-[G](#g)
-[H](#h)
-[I](#i)
-[J](#j)
-[K](#k)
-[L](#l)
-[M](#m)
-[N](#n)
-[O](#o)
-[P](#p)
-[Q](#q)
-[R](#r)
-[S](#s)
-[T](#t)
-[U](#u)
-[V](#v)
-[W](#w)
-[X](#x)
-[Y](#y)
+> [A](#a) ~
+[B](#b) ~
+[C](#c) ~
+[D](#d) ~
+[E](#e) ~
+[F](#f) ~
+[G](#g) ~
+[H](#h) ~
+[I](#i) ~
+[J](#j) ~
+[K](#k) ~
+[L](#l) ~
+[M](#m) ~
+[N](#n) ~
+[O](#o) ~
+[P](#p) ~
+[Q](#q) ~
+[R](#r) ~
+[S](#s) ~
+[T](#t) ~
+[U](#u) ~
+[V](#v) ~
+[W](#w) ~
+[X](#x) ~
+[Y](#y) ~
 [Z](#z)
 
-# <center><a id="a">A</a></center>
+# <a id="a"><center>A</center></a>
 
 ## _ab_ [&uarr;](#a)
 
@@ -664,72 +662,72 @@ plus célèbres représentants.
 
 ## _da_ [&uarr;](#d)
 
-_dadaïsme_ (nom masculin) mouvement artistique, littéraire et intellectuel né au début du XXe
+**_dadaïsme_** _(nom masculin)_ mouvement artistique, littéraire et intellectuel né au début du XXe
 siècle sous l’impulsion de deux allemands ; il prône un anticonformisme, une extravagance, une
 liberté d’expression totale, un mépris du passé et un intérêt pour le présent.
 
-_dantesque_ (adjectif) infernal, apocalyptique, disproportionné, grandiose ; relatif à l’œuvre de
+**_dantesque_** _(adjectif)_ infernal, apocalyptique, disproportionné, grandiose ; relatif à l’œuvre de
 Dante, et plus spécifiquement, à sa _Divine Comédie_.
 
 ## _de_ [&uarr;](#d)
 
-_décadence_ (nom féminin) phase d’une société qui se traduit par un effondrement des moeurs,
+**_décadence_** _(nom féminin)_ phase d’une société qui se traduit par un effondrement des moeurs,
 une immoralité omniprésente, aussi bien chez la classe politique que chez le peuple, un déclin
 économique évident, une éducation fragilisée, etc.
 
-_déceler_ (verbe transitif) détecter, repérer, trouver.
+**_déceler_** _(verbe transitif)_ détecter, repérer, trouver.
 
-_déclin_ (nom masculin) descente, diminution, affaiblissement, chute ; antagoniste de l’apogée.
+**_déclin_** _(nom masculin)_ descente, diminution, affaiblissement, chute ; antagoniste de l’apogée.
 
-_décret_ (nom masculin) amendement, loi, décision parlementaire.
+**_décret_** _(nom masculin)_ amendement, loi, décision parlementaire.
 
-_dédaigneux_ (adjectif) méprisant, hautain, snob, prétentieux.
+**_dédaigneux_** (adjectif) méprisant, hautain, snob, prétentieux.
 
-_défectueux_ (adjectif) dysfonctionnel, qualifie un objet dont au moins l’une des caractéristiques
+**_défectueux_** _(adjectif)_ dysfonctionnel, qualifie un objet dont au moins l’une des caractéristiques
 prévues lors de sa production n’est pas possédée ; un objet abîmé n’est pas nécessairement
 défectueux, tant qu’il est entièrement fonctionnel.
 
-_déférer_ (verbe transitif) inculper, porter une affaire au tribunal compétent, traduire un accusé en
+**_déférer_** _(verbe transitif)_ inculper, porter une affaire au tribunal compétent, traduire un accusé en
 justice.
 
-_dégénérescence_ (nom féminin) mort programmée des cellules ou d’un groupe de cellules d’un
+**_dégénérescence_** _(nom féminin)_ mort programmée des cellules ou d’un groupe de cellules d’un
 organisme ; détérioration, altération, dégradation, diminution.
 
-_délétère_ (adjectif) néfaste, nocif, mortifère.
+**_délétère_** _(adjectif)_ néfaste, nocif, mortifère.
 
-_denrée_ (nom féminin) ressource consommable, aliment.
+**_denrée_** _(nom féminin)_ ressource consommable, aliment.
 
-_dentelle_ (nom féminin) tissu formant des motifs raffinés, habituellement fait à partir de fil de
+**_dentelle_** _(nom féminin)_ tissu formant des motifs raffinés, habituellement fait à partir de fil de
 soie, lin ou nylon.
 
-_désarçonner_ (verbe transitif) faire chuter un cavalier de sa selle.
+**_désarçonner_** _(verbe transitif)_ faire chuter un cavalier de sa selle.
 
-_désarroi_ (nom masculin) désespoir, détresse.
+**_désarroi_** _(nom masculin)_ désespoir, détresse.
 
-_désespoir_ (nom masculin) absence d’espoir, désarroi, détresse ; situation de malheur aggravé, où
+**_désespoir_** _(nom masculin)_ absence d’espoir, désarroi, détresse ; situation de malheur aggravé, où
 la volonté de la victime est oblitérée, laissant place au doute et à la tristesse, parfois à la colère ;
 il est à noter que l’absence d’espoir peut être bien réelle, et pas seulement le produit d’un carcan
 psychologique qui induit une inexistence de la volonté chez le sujet.
 
-_desiderata_ (nom masculin) désir, requête, envie particulière.
+**_desiderata_** _(nom masculin)_ désir, requête, envie particulière.
 
-_désinvolture_ (nom féminin) insolence, provocation, arrogance, irrespect.
+**_désinvolture_** _(nom féminin)_ insolence, provocation, arrogance, irrespect.
 
-_dessein_ (nom masculin) intention, projet, plan.
+**_dessein_** _(nom masculin)_ intention, projet, plan.
 
-_destituer_ (verbe transitif) révoquer, retirer, faire abdiquer, littéralement “dé-instituer”, à savoir,
+**_destituer_** _(verbe transitif)_ révoquer, retirer, faire abdiquer, littéralement “dé-instituer”, à savoir,
 l’action inverse d’instituer.
 
-_destrier_ (nom masculin) monture hippique, cheval destiné à un usage militaire, qualificatif des
+**_destrier_** _(nom masculin)_ monture hippique, cheval destiné à un usage militaire, qualificatif des
 chevaux montés par les chevaliers.
 
-_désuet_ (adjectif) se dit d’un mot qui n’est plus employé dans la langue française
+**_désuet_** _(adjectif)_ se dit d’un mot qui n’est plus employé dans la langue française
 qu’anecdotiquement, tandis qu’il l’était couramment à une certaine époque ; qui n’est plus usité,
 passé de mode, vieilli.
 
-_détresse_ (nom féminin) désespoir, désarroi.
+**_détresse_** _(nom féminin)_ désespoir, désarroi.
 
-_détrousser_ (verbe transitif) voler une cible mise hors d’état de nuire, dépouiller une victime en
+**_détrousser_** _(verbe transitif)_ voler une cible mise hors d’état de nuire, dépouiller une victime en
 déplacement sur une voie de communication, faire les poches.
 
 ## _di_ [&uarr;](#d)
