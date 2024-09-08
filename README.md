@@ -29,7 +29,7 @@
 [Y](#y)
 [Z](#z)
 
-# <a id="a"><p align="center">A</p></a>
+# <center><a id="a">A</a></center>
 
 ## _ab_ [&uarr;](#a)
 
@@ -253,7 +253,7 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 
 ---
 
-# <a id="b"><p align="center">B</p></a>
+# <a id="b"><center>B</center></a>
 
 ## _ba_ [&uarr;](#b)
 
@@ -368,7 +368,7 @@ nouvelle ligne.
 
 ---
 
-# <a id="c"><p align="center">C</p></a>
+# <a id="c"><center>C</center></a>
 
 ## _ca_ [&uarr;](#c)
 
@@ -660,7 +660,7 @@ plus célèbres représentants.
 
 ---
 
-# <a id="d"><p align="center">D</p></a>
+# <a id="d"><center>D</center></a>
 
 ## _da_ [&uarr;](#d)
 
@@ -794,7 +794,7 @@ n’importe quel facteur peut être la raison de cette régression de l’humani
 
 ---
 
-# <a id="e"><p align="center">E</p></a>
+# <a id="e"><center>E</center></a>
 
 ## _eb_ [&uarr;](#e)
 
@@ -1036,7 +1036,7 @@ transposer.
 
 ---
 
-# <a id="f"><p align="center">F</p></a>
+# <a id="f"><center>F</center></a>
 
 ## _fa_ [&uarr;](#f)
 
@@ -1201,7 +1201,7 @@ transposer.
 
 ---
 
-# <a id="g"><p align="center">G</p></a>
+# <a id="g"><center>G</center></a>
 
 ## _ga_ [&uarr;](#g)
 
@@ -1300,7 +1300,7 @@ grandes expressions.
 
 ---
 
-# <a id="h"><p align="center">H</p></a>
+# <a id="h"><center>H</center></a>
 
 ## _ha_ [&uarr;](#h)
 
@@ -1387,7 +1387,7 @@ _e.g._ faire une crise d'hystérie.
 
 ---
 
-# <a id="i"><p align="center">I</p></a>
+# <a id="i"><center>I</center></a>
 
 ## _ic_
 
