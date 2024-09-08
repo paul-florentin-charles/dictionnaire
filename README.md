@@ -552,61 +552,62 @@ concomitant ; connexe, côte-à-côte, qui se touchent lorsqu’on parle de deux
 **_confin_** _(nom masculin)_ bout, pointe, fin ; _(fig)_ extension maximale, origine, se rendre aux “confins
 de l’humanité” signifie se rendre aux débuts de celle-ci.
 
-**_conjuration_** _(nom féminin)_
+**_conjuration_** _(nom féminin)_ complot, manigance, conspiration envers une organisation de pouvoir ;
+par extension, association de plusieurs éléments.
 
-_connivence_ (nom féminin) entente, amitié, lien relationnel entre individus, pas forcément solide
+**_connivence_** _(nom féminin)_ entente, amitié, lien relationnel entre individus, pas forcément solide
 et vieux.
 
-_consigner_ (verbe transitif) formuler des consignes à l’écrit, dans l’optique de les officialiser et d’en
+**_consigner_** _(verbe transitif)_ formuler des consignes à l’écrit, dans l’optique de les officialiser et d’en
 conserver une trace.
 
-_constriction_ (nom féminin) technique de chasse propre à certains serpents selon laquelle ils
+**_constriction_** _(nom féminin)_ technique de chasse propre à certains serpents selon laquelle ils
 étouffent leur proie en s’enroulant autour d’elle, puis l’asphyxiant en resserrant leur étreinte.
 
-_contenter_ (verbe transitif) satisfaire, rendre “content”, remplir ses attentes. (verbe pronominal) se
+**_contenter_** _(verbe transitif)_ satisfaire, rendre “content”, remplir ses attentes. (verbe pronominal) se
 satisfaire de, faire avec.
 
-_contrée_ (nom féminin) région, zone géographique mystérieuse et exotique.
+**_contrée_** _(nom féminin)_ région, zone géographique mystérieuse et exotique.
 
-_coopter_ (verbe transitif) faire entrer quelqu’un dans une organisation par une ou plusieurs
+**_coopter_** _(verbe transitif)_ faire entrer quelqu’un dans une organisation par une ou plusieurs
 personnes y siégeant.
 
-_copieux_ (adjectif) fourni, chargé, foisonnant, spécifiquement employé pour parler d’un repas ;
+**_copieux_** _(adjectif)_ fourni, chargé, foisonnant, spécifiquement employé pour parler d’un repas ;
 c’est l’antonyme de frugal.
 
-_corbeau_ (nom masculin) rapace au plumage noir, charognard et réputé pour son intelligence
+**_corbeau_** _(nom masculin)_ rapace au plumage noir, charognard et réputé pour son intelligence
 incongrue parmi les oiseaux ; il est présage de mauvais augure en Occident, par sa noirceur et
 son comportement de charognard.
 
-_cordial_ (adjectif) amical, sympathique, poli, courtois.
+**_cordial_** _(adjectif)_ amical, sympathique, poli, courtois.
 
-_cordillère_ (nom féminin) chaîne de montagnes effilée ; son instance la plus fameuse est la
+**_cordillère_** _(nom féminin)_ chaîne de montagnes effilée ; son instance la plus fameuse est la
 cordillère des Andes qui longe la fosse océanique à l’Ouest de l’Amérique du Sud.
 
-_corneille_ (nom féminin) oiseau de proie de la famille des corvidés, au même titre que les
+**_corneille_** _(nom féminin)_ oiseau de proie de la famille des corvidés, au même titre que les
 corbeaux, dont ils sont les homologues de plus petit gabarit.
 
-_corrosif_ (adjectif) qui ronge, caustique, propriété des acides qui fondent les tissus organiques
+**_corrosif_** _(adjectif)_ qui ronge, caustique, propriété des acides qui fondent les tissus organiques
 comme les minéraux.
 
-_coruscant_ (adjectif) brillant, scintillant, éclatant, nitide.
+**_coruscant_** _(adjectif)_ brillant, scintillant, éclatant, nitide.
 
-_cosmogonie_ (nom féminin) tradition religieuse racontant et expliquant l’origine du monde ; plus
+**_cosmogonie_** _(nom féminin)_ tradition religieuse racontant et expliquant l’origine du monde ; plus
 rarement, théorie scientifique sur la genèse de l’univers.
 
-_cosmos_ (nom masculin) monde, univers, espace ; désigne l’univers en astronomie.
+**_cosmos_** _(nom masculin)_ monde, univers, espace ; désigne l’univers en astronomie.
 
-_coterie_ (nom féminin) association d’individus aux desseins communs, ligués contre ceux qui y
+**_coterie_** _(nom féminin)_ association d’individus aux desseins communs, ligués contre ceux qui y
 sont étrangers.
 
-_couiner_ (verbe intransitif) glapir, émettre une plainte craintive, pousser des cris timides.
+**_couiner_** _(verbe intransitif)_ glapir, émettre une plainte craintive, pousser des cris timides.
 
-_courage_ (nom masculin) bravoure, faculté d’un homme qui démontre un fidélité à ses convictions
+**_courage_** _(nom masculin)_ bravoure, faculté d’un homme qui démontre un fidélité à ses convictions
 face à l’adversité et une prise de risque mesurée.
 
-_courtois_ (adjectif) maniéré, respectueux, poli ; qui se revendique de la courtoisie.
+**_courtois_** _(adjectif)_ maniéré, respectueux, poli ; qui se revendique de la courtoisie.
 
-_coutume_ (nom féminin) tradition, habitude, rituel culturel ; “les us et coutumes” évoquent
+**_coutume_** _(nom féminin)_ tradition, habitude, rituel culturel ; “les us et coutumes” évoquent
 l’ensemble des pratiques d’une société.
 
 ## _cr_ [&uarr;](#c)
@@ -881,56 +882,56 @@ pur comme l’émeraude.
 
 ## _en_ [&uarr;](#e)
 
-_enchanter_ (verbe transitif) émerveiller, enjouer, euphoriser, rendre allègre.
+**_enchanter_** _(verbe transitif)_ émerveiller, enjouer, euphoriser, rendre allègre.
 
-_enchâsser_ (verbe transitif) encastrer, enfoncer, incruster, insérer dans un châssis.
+**_enchâsser_** _(verbe transitif)_ encastrer, enfoncer, incruster, insérer dans un châssis.
 
-_enclin_ (adjectif) motivé à l’idée de, prédisposé à, volontaire.
+**_enclin_** _(adjectif)_ motivé à l’idée de, prédisposé à, volontaire.
 
-_encorbellement_ (nom masculin) disposition particulière des pierres d’un édifice en maçonnerie.
+**_encorbellement_** _(nom masculin)_ disposition particulière des pierres d’un édifice en maçonnerie.
 
-_encyclopédie_ (nom féminin) ouvrage contenant un ensemble exhaustif de définitions enrichies,
+**_encyclopédie_** _(nom féminin)_ ouvrage contenant un ensemble exhaustif de définitions enrichies,
 ou articles, sur à peu près tout ce que l’humanité a engrangé en terme de savoir ; c’est une sorte
 de dictionnaire enrichi synthétisant le savoir humain.
 
-_engouement_ (nom masculin) entrain, enjouement, alacrité, sentiment d’excitation à l’approche
+**_engouement_** _(nom masculin)_ entrain, enjouement, alacrité, sentiment d’excitation à l’approche
 d’un évènement attendu.
 
-_entériner_ (verbe transitif) approuver la validité d’une chose, admettre une requête ; ratifier un
+**_entériner_** _(verbe transitif)_ approuver la validité d’une chose, admettre une requête ; ratifier un
 acte juridique.
 
-_entrain_ (nom masculin) engouement, enjouement, motivation en vue d’une activité.
+**_entrain_** _(nom masculin)_ engouement, enjouement, motivation en vue d’une activité.
 
-_entraver_ (verbe transitif) gêner, perturber, ralentir, poser des entraves.
+**_entraver_** _(verbe transitif)_ gêner, perturber, ralentir, poser des entraves.
 
-_envergure_ (nom féminin) diamètre, taille, calibre, acabit ; dimension horizontale d’un être vivant
+**_envergure_** _(nom féminin)_ diamètre, taille, calibre, acabit ; dimension horizontale d’un être vivant
 mesurée par la distance entre les extrémités de ses membres supérieurs tenus parallèles au sol.
 
-_envieux_ (adjectif) jaloux, qui éprouve de l’envie.
+**_envieux_** _(adjectif)_ jaloux, qui éprouve de l’envie.
 
 ## _ep_ [&uarr;](#e)
 
-_éparchie_ (nom féminin) équivalent d’un diocèse dans l’Église orthodoxe ; province de l’Empire
+**_éparchie_** _(nom féminin)_ équivalent d’un diocèse dans l’Église orthodoxe ; province de l’Empire
 romain sous la gouvernance d’un éparque, constamment située dans la zone orientale de
 l’empire.
 
-_éperon_ (nom masculin) pièce boisé ou métallique située à l’avant d’un bateau au niveau de la
+**_éperon_** _(nom masculin)_ pièce boisé ou métallique située à l’avant d’un bateau au niveau de la
 quille, conçue pour éventrer les bateaux ennemis lors d’un assaut perpendiculaire et offrant
 alors la possibilité d’un abordage par l’avant ; pièce de métal en équitation se fixant sur la botte
 derrière le talon, utilisée à des fins de contrôle du cheval.
 
-_épicurien_ (adjectif) qui recherche, par dessus tout, les plaisirs ; se revendiquant de l’épicurisme.
+**_épicurien_** _(adjectif)_ qui recherche, par dessus tout, les plaisirs ; se revendiquant de l’épicurisme.
 
-_épineux_ (adjectif) recouvert d’épines ; _(fig)_ délicat, complexe, subtil et risqué, ardu.
+**_épineux_** _(adjectif)_ recouvert d’épines ; _(fig)_ délicat, complexe, subtil et risqué, ardu.
 
-_épiscopal_ (adjectif) qui relève de l’évêque, appartenant à un évêque.
+**_épiscopal_** _(adjectif)_ qui relève de l’évêque, appartenant à un évêque.
 
-_épistémologie_ (nom féminin) philosophie des sciences.
+**_épistémologie_** _(nom féminin)_ philosophie des sciences.
 
-_épistolaire_ (adjectif) se dit d’une relation fondée sur l’échange de lettres manuscrites, ou d’une
+**_épistolaire_** _(adjectif)_ se dit d’une relation fondée sur l’échange de lettres manuscrites, ou d’une
 œuvre littéraire reprenant un échange, fictif ou non, de lettres manuscrites.
 
-_époustouflant_ (adjectif) ébahissant, stupéfiant, épatant, amplement déconcertant, extraordinaire.
+**_époustouflant_** _(adjectif)_ ébahissant, stupéfiant, épatant, amplement déconcertant, extraordinaire.
 
 ## _er_ [&uarr;](#e)
 
@@ -1375,9 +1376,9 @@ grandes expressions.
 
 **_hyperbole_** _(nom féminin)_ figure de style qui consiste à exagérer un évènement ou une caractéristique, à grossir volontairement les traits. 
 
-hypocondriaque
+**_hypocondriaque_** _(adjectif)_ décrit une personne ayant une peur paranoïaque d'attraper une pathologie.
 
-hystérie
+**_hystérie_**
 
 ---
 
