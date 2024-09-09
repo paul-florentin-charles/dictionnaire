@@ -29,7 +29,21 @@
 
 # <a id="a"><center>A</center></a>
 
-> [ab](#ab) - [ac](#ac) - [ad](#ad) - [af](#af) - [ag](#ag) - [ai](#ai) - [al](#al) - [am](#am) - [an](#an) - [ap](#ap) - [aq](#aq) - [ar](#ar) - [as](#as) - [at](#at) - [au](#au)
+> [ab](#ab) -
+> [ac](#ac) -
+> [ad](#ad) -
+> [af](#af) -
+> [ag](#ag) -
+> [ai](#ai) -
+> [al](#al) -
+> [am](#am) -
+> [an](#an) -
+> [ap](#ap) -
+> [aq](#aq) -
+> [ar](#ar) -
+> [as](#as) -
+> [at](#at) -
+> [au](#au)
 
 ---
 
@@ -361,7 +375,12 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 
 # <a id="b"><center>B</center></a>
 
-> [ba](#ba) - [be](#be) - [bi](#bi) - [bl](#bl) - [bo](#bo) - [br](#br)
+> [ba](#ba) -
+> [be](#be) -
+> [bi](#bi) -
+> [bl](#bl) -
+> [bo](#bo) -
+> [br](#br)
 
 ---
 
@@ -525,7 +544,15 @@ nouvelle ligne.
 
 # <a id="c"><center>C</center></a>
 
-> [ca](#ca) - [ce](#ce) - [ch](#ch) - [ci](#ci) - [cl](#cl) - [co](#co) - [cr](#cr) - [cu](#cu) - [cy](#cy)
+> [ca](#ca) -
+> [ce](#ce) -
+> [ch](#ch) -
+> [ci](#ci) -
+> [cl](#cl) -
+> [co](#co) -
+> [cr](#cr) -
+> [cu](#cu) -
+> [cy](#cy)
 
 ---
 
@@ -924,7 +951,12 @@ plus célèbres représentants.
 
 # <a id="d"><center>D</center></a>
 
-> [da](#da) - [de](#de) - [di](#di) - [do](#do) - [du](#du) - [dy](#dy)
+> [da](#da) -
+> [de](#de) -
+> [di](#di) -
+> [do](#do) -
+> [du](#du) -
+> [dy](#dy)
 
 ---
 
@@ -1054,8 +1086,8 @@ sustentation du tout
 
 ## <a id="do">_do_</a> [&uarr;](#d)
 
-- **_docile_**
-> (adjectif) obéissant, soumis, doux, tranquille, qui ne manifeste aucune agressivité et qui
+- **_docile_** 
+> _(adjectif)_ obéissant, soumis, doux, tranquille, qui ne manifeste aucune agressivité et qui
 est disposé à se laisser conduire.
 
 - **_dogme_**
@@ -1095,7 +1127,7 @@ anormal.
 - **_dystopie_**
 > _(nom féminin)_ œuvre littéraire qui dépeint un univers fictif où l’humanité est en proie au
 malheur et à la peur, en général subissant le joug de gouvernements totalitaristes, mais
-n’importe quel facteur peut être la raison de cette régression de l’humanité.
+n’importe quel facteur peut-être la raison de cette régression de l’humanité.
 
 ---
 
@@ -1105,7 +1137,26 @@ n’importe quel facteur peut être la raison de cette régression de l’humani
 
 # <a id="e"><center>E</center></a>
 
-## _eb_ [&uarr;](#e)
+> [eb](#eb) -
+> [ec](#ec) -
+> [ed](#ed) -
+> [ef](#ef) -
+> [eg](#eg) -
+> [el](#el) -
+> [em](#em) -
+> [en](#en) -
+> [ep](#ep) -
+> [er](#er) -
+> [es](#es) -
+> [et](#et) -
+> [eu](#eu) -
+> [ev](#ev) -
+> [ex](#ex)
+
+---
+
+
+## <a id="eb">_eb_</a> [&uarr;](#e)
 
 - **_ébauche_**
 > _(nom féminin)_ approximation, esquisse, essai, squelette, tentative grossière, croquis.
@@ -1114,48 +1165,57 @@ n’importe quel facteur peut être la raison de cette régression de l’humani
 > _(nom féminin)_ qualifie l’état d’une personne sous l’emprise de l’alcool, par opposition à la
 sobriété.
 
-## _ec_ [&uarr;](#e)
+## <a id="ec">_ec_</a> [&uarr;](#e)
 
+- **_ecclésiastique_**
+> _(adjectif)_ propre à l’Église.
 
-_ecclésiastique_ (adjectif) propre à l’Église.
-
-_échancrure_ (nom féminin) enfoncement de la mer dans le rivage, crique, anse ; découpe faite sur
+- **_échancrure_**
+> _(nom féminin)_ enfoncement de la mer dans le rivage, crique, anse ; découpe faite sur
 le bord d’un vêtement.
 
-_échauffourée_ (nom féminin) émeute, bagarre dissipée, affrontement isolé.
+- **_échauffourée_** 
+> _(nom féminin)_ émeute, bagarre dissipée, affrontement isolé.
 
-_échauguette_ (nom féminin) petite loge construite dans un coin de château fort, surplombant le
+- **_échauguette_**
+> _(nom féminin)_ petite loge construite dans un coin de château fort, surplombant le
 sol en partie, et abritant un guetteur ou des lanceurs de projectiles.
 
-_éclectique_ (adjectif) varié, divers, hétérogène, qui est riche en éléments différentiables.
+- **_éclectique_**
+> _(adjectif)_ varié, divers, hétérogène, qui est riche en éléments différentiables.
 
-_éclipse_ (nom féminin) conséquence visuelle du recouvrement total ou partiel d’un astre par un
+- **_éclipse_** 
+> _(nom féminin)_ conséquence visuelle du recouvrement total ou partiel d’un astre par un
 autre astre, par interposition de cet astre entre la source de lumière principale, le Soleil pour le
 système solaire, et l’astre recouvré ; une éclipse solaire se produit quand le centre de la Lune se
 confond ou presque avec l’axe Terre-Soleil, et est entre les deux astres ; une éclipse lunaire se
 produit quand c’est la Terre qui est entre la Lune et le Soleil.
 
-## _ed_ [&uarr;](#e)
+## <a id="ed">_ed_</a> [&uarr;](#e)
 
-_édicule_ (nom masculin) terme générique en architecture qui désigne des constructions isolées de
+- **_édicule_**
+> _(nom masculin)_ terme générique en architecture qui désigne des constructions isolées de
 petite envergure disposées dans l’espace public ; dans la Rome antique, un édicule est une
 petite construction sur un mur faite pour accueillir des statuettes, ou une plus large construction
 pour y loger une tombe.
 
-_édifier_ (verbe transitif) ériger, construire, bâtir, élever un édifice ; _(fig)_ concevoir, composer, créer.
+- **_édifier_**
+> _(verbe transitif)_ ériger, construire, bâtir, élever un édifice ; _(fig)_ concevoir, composer, créer.
 
-## _ef_ [&uarr;](#e)
+## <a id="ef">_ef_</a> [&uarr;](#e)
 
-_effluve_ (nom féminin ou masculin) émanation issue d’un corps animal ou végétal, laissant une
+- **_effluve_**
+> _(nom féminin/masculin)_ émanation issue d’un corps animal ou végétal, laissant une
 trace olfactive, matérielle et plus rarement visuelle.
 
-## _eg_ [&uarr;](#e)
+## <a id="eg">_eg_</a> [&uarr;](#e)
 
-_égoïsme_ (nom masculin) attitude humaine qui fait passer la satisfaction de l’ego avant toute
+- **_égoïsme_**
+> _(nom masculin)_ attitude humaine qui fait passer la satisfaction de l’ego avant toute
 chose, et en particulier avant la considération des connaissances, des amis, ou de toute
 personne affectée de près ou de loin par ces actions.
 
-## _el_ [&uarr;](#e)
+## <a id="el">_el_</a> [&uarr;](#e)
 
 _élégance_ (nom féminin) classe, distinction, style, allure mesurée et apparence stylisée ; codes
 sociaux portrayant l’image d’un style vestimentaire gage de raffinement, de beauté et de bon
@@ -1171,7 +1231,7 @@ avec style.
 
 _élucubration_ (nom féminin) divagation, sottise, parole absurde, propos délirant.
 
-## _em_ [&uarr;](#e)
+## <a id="em">_em_</a> [&uarr;](#e)
 
 _émanation_ (nom féminin) exhalaison, dégagement gazeux, échappement de fumée.
 
@@ -1191,7 +1251,7 @@ _embûche_ (nom féminin) obstacle, épreuve, difficulté.
 _émeraude_ (nom féminin) pierre précieuse communément verte (adjectif) d’un vert cristallin et
 pur comme l’émeraude.
 
-## _en_ [&uarr;](#e)
+## <a id="en">_en_</a> [&uarr;](#e)
 
 - **_enchanter_**
 > _(verbe transitif)_ émerveiller, enjouer, euphoriser, rendre allègre.
@@ -1231,7 +1291,7 @@ mesurée par la distance entre les extrémités de ses membres supérieurs tenus
 - **_envieux_**
 > _(adjectif)_ jaloux, qui éprouve de l’envie.
 
-## _ep_ [&uarr;](#e)
+## <a id="ep">_ep_</a> [&uarr;](#e)
 
 - **_éparchie_**
 > _(nom féminin)_ équivalent d’un diocèse dans l’Église orthodoxe ; province de l’Empire
@@ -1264,7 +1324,7 @@ derrière le talon, utilisée à des fins de contrôle du cheval.
 - **_époustouflant_**
 > _(adjectif)_ ébahissant, stupéfiant, épatant, amplement déconcertant, extraordinaire.
 
-## _er_ [&uarr;](#e)
+## <a id="er">_er_</a> [&uarr;](#e)
 
 - **_érable_**
 > _(nom masculin)_ arbre à fruits secs et feuilles opposées, dont la plupart des espèces sont hautes
@@ -1278,7 +1338,7 @@ l'hébergement des esclaves, ou des gladiateurs dans l’antiquité romaine.
 > _(verbe transitif)_ construire, bâtir, édifier, élever une œuvre architecturale ; mettre en place, créer,
 mettre sur pied.
 
-## _es_ [&uarr;](#e)
+## <a id="es">_es_</a> [&uarr;](#e)
 
 - **_escadrille_**
 > _(nom féminin)_ unité militaire de base dans les différents corps armés : aérien, naval et
@@ -1309,7 +1369,7 @@ pétrole.
 > _(adjectif)_ en escrime, caractérise un coup porté par la pointe de l’épée (nom masculin) pointe d’une
 épée ; arme blanche frappant de pointe.
 
-## _et_ [&uarr;](#e)
+## <a id="et">_et_</a> [&uarr;](#e)
 
 - **_étayer_**
 > _(verbe transitif)_ soutenir une construction par des étais _; (fig)_ supporter une hypothèse par des
@@ -1322,7 +1382,7 @@ arguments, soutenir une idée par des preuves, en apportant des faits.
 > _(nom féminin)_ étude de l’origine lexicale des mots, notamment via le découpage de ceux-ci
 en segments indépendants.
 
-## _eu_ [&uarr;](#e)
+## <a id="eu">_eu_</a> [&uarr;](#e)
 
 - **_eucalyptus_**
 > _(nom masculin)_ groupe d’arbres originaires d’Australie, à croissance rapide et
@@ -1332,7 +1392,7 @@ majoritairement à feuilles persistantes.
 > _(nom masculin)_ organisme biologique dont la majeure partie du matériel génétique cellulaire
 est contenue dans un noyau délimité par une membrane nucléaire, par opposition aux procaryotes.
 
-## _ev_ [&uarr;](#e)
+## <a id="ev">_ev_</a> [&uarr;](#e)
 
 - **_évangéliste_**
 > _(nom masculin)_ apostolat, religieux chrétien qui recherche l’évangélisation des masses, à
@@ -1345,7 +1405,7 @@ diocèse, on qualifie sa fonction d’épiscopale.
 - **_évincer_**
 > _(verbe transitif)_ écarter, expulser, dégager, virer quelqu’un, retirer une personne d’un projet.
 
-## _ex_ [&uarr;](#e)
+## <a id="ex">_ex_</a> [&uarr;](#e)
 
 - **_excédent_**
 > _(nom masculin)_ surplus, trop-plein, différence positive de quantité entre le seuil nécessaire et
