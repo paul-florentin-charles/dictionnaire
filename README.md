@@ -361,7 +361,11 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 
 # <a id="b"><center>B</center></a>
 
-## _ba_ [&uarr;](#b)
+> [ba](#ba) - [be](#be) - [bi](#bi) - [bl](#bl) - [bo](#bo) - [br](#br)
+
+---
+
+## <a id="ba">_ba_</a> [&uarr;](#b)
 
 - **_babiller_**
 > _(verbe intransitif)_ bavarder, palabrer de manière infantile.
@@ -411,7 +415,7 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 - **_bazarder_**
 > _(verbe transitif)_ se débarrasser de quelque chose, vendre à un prix insignifiant, solder.
 
-## _be_ [&uarr;](#b)
+## <a id="be">_be_</a> [&uarr;](#b)
 
 - **_belligérant_**
 > _(nom masculin)_ meneur d’une action guerrière, usuellement dans le cadre d’une guerre, ou parfois l’espace d’une bataille.
@@ -435,7 +439,7 @@ sociale, de tout code ; violence, agressivité.
 - **_beuverie_**
 > _(nom féminin)_ fête intensément alcoolisée, où la boisson coule à flots.
 
-## _bi_ [&uarr;](#b)
+## <a id="bi">_bi_</a> [&uarr;](#b)
 
 - **_bienveillant_**
 > _(adjectif)_ réconfortant, chaleureux, qui dégage un sentiment positif.
@@ -448,7 +452,7 @@ sociale, de tout code ; violence, agressivité.
 > _(nom féminin)_ ensemble des éléments biologiques, donc vivants, d’un environnement défini,
 on pourrait parler de “la faune et la flore”.
 
-## _bl_ [&uarr;](#b)
+## <a id="bl">_bl_</a> [&uarr;](#b)
 
 - **_blackbouler_**
 > _(verbe transitif)_ évincer par un vote un candidat ; rejeter quelque chose, écarter une issue.
@@ -461,7 +465,7 @@ sanction.
 > _(nom masculin)_ armoiries, emblème, symbole d’une maison ou d’un lieu, et qui peut se trouver
 aussi bien sur une bannière que sur une armure ou un château ; son étude est l’héraldique.
 
-## _bo_ [&uarr;](#b)
+## <a id="bo">_bo_</a> [&uarr;](#b)
 
 - **_bonifier_**
 > _(verbe transitif)_ améliorer, littéralement rendre bon ; il n’est pas rare de l’employer à la forme
@@ -495,7 +499,7 @@ une branche, une feuille, une fleur ou un fruit ; le bourgeon germe au printemps
 > _(nom masculin)_ technique d’écriture basée sur l’alternance du sens de lecture à chaque
 nouvelle ligne.
 
-## _br_ [&uarr;](#b)
+## <a id="br">_br_</a> [&uarr;](#b)
 
 - **_branquignole_**
 > _(adjectif)_ maladroit d’esprit, qui ne pense pas trop ses actions, pas franchement doué.
@@ -521,7 +525,11 @@ nouvelle ligne.
 
 # <a id="c"><center>C</center></a>
 
-## _ca_ [&uarr;](#c)
+> [ca](#ca) - [ce](#ce) - [ch](#ch) - [ci](#ci) - [cl](#cl) - [co](#co) - [cr](#cr) - [cu](#cu) - [cy](#cy)
+
+---
+
+## <a id="ca">_ca_</a> [&uarr;](#c)
 
 - **_cairn_**
 > _(nom masculin)_ empilement artificiel de pierres abritant une sépulture ou servant à indiquer un
@@ -605,7 +613,7 @@ territoire plus étendu.
 > _(adjectif)_ corrosif, rongeant, agressif pour les tissus ;
 > _(fig)_ dite d’une plaisanterie acerbe, mal intentionnée et piquante.
 
-## _ce_ [&uarr;](#c)
+## <a id="ce">_ce_</a> [&uarr;](#c)
 
 - **_cécité_**
 > _(nom féminin)_ absence permanente de la vue chez une personne.
@@ -617,7 +625,7 @@ certaines propriétés intéressantes pour l’être humain, sauf si elle prése
 - **_cession_**
 > _(nom féminin)_ arrêt, cessation, interruption.
 
-## _ch_ [&uarr;](#c)
+## <a id="ch">_ch_</a> [&uarr;](#c)
 
 - **_chafouin_**
 > _(adjectif)_ à l’air malveillant, comploteur, qui n’inspire nullement confiance.
@@ -679,7 +687,7 @@ appelée une chryséléphantine.
 >
 > 3. _(adjectif)_ qui est composé d’or et d’ivoire.
 
-## _ci_ [&uarr;](#c)
+## <a id="ci">_ci_</a> [&uarr;](#c)
 
 - **_circoncision_**
 > _(nom féminin)_ ablation du prépuce, laissant le gland à découvert ; son contexte est
@@ -697,7 +705,7 @@ autrichien ; sa particularité est d’offrir des cordes individuelles “aiguë
 des groupes de quatre cordes dédiés à l’harmonie, plus graves ; sa caisse de résonance est
 trapézoïdale.
 
-## _cl_ [&uarr;](#c)
+## <a id="cl">_cl_</a> [&uarr;](#c)
 
 - **_clairvoyance_**
 > _(nom féminin)_ lucidité, discernement, clarté d’esprit, finesse d’observation et de
@@ -724,7 +732,7 @@ enterrements.
 > _(nom masculin)_ galerie rectangulaire, bordée de colonnes du côté intérieur, entourant un
 jardin, et située dans un monastère ou une abbaye.
 
-## _co_ [&uarr;](#c)
+## <a id="co">_co_</a> [&uarr;](#c)
 
 - **_coercition_**
 > _(nom féminin)_ imposition d’une contrainte psychologique ou physique sur une
@@ -851,7 +859,7 @@ face à l’adversité et une prise de risque mesurée.
 > _(nom féminin)_ tradition, habitude, rituel culturel ; “les us et coutumes” évoquent
 l’ensemble des pratiques d’une société.
 
-## _cr_ [&uarr;](#c)
+## <a id="cr">_cr_</a> [&uarr;](#c)
 
 - **_crainte_**
 > _(nom féminin)_ attente mêlée de peur, anxiété à l’idée d’une prise de décision néfaste,
@@ -883,7 +891,7 @@ créneaux est appelé merlon.
 > _(adjectif)_ pur comme le cristal, transparent, lisse, régulier ; peut aussi bien caractériser
 une voix qu’une matière.
 
-## _cu_ [&uarr;](#c)
+## <a id="cu">_cu_</a> [&uarr;](#c)
 
 - **_cucurbitacé_**
 > _(nom masculin)_ membre de la famille des cucurbitacées qui regroupe des plantes
@@ -901,7 +909,7 @@ C. en Mésopotamie.
 - **_cutané_**
 > _(adjectif)_ relatif à la peau.
 
-## _cy_ [&uarr;](#c)
+## <a id="cy">_cy_</a> [&uarr;](#c)
 
 - **_cynique_**
 > _(adjectif)_ sarcastique, moqueur, désinvolte, méprisant ; l’adjectif est dérivé de l’école
