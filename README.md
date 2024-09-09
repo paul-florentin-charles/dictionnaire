@@ -684,7 +684,7 @@ de toute remise en question.
 
 - **_cheikh_**
 > _(nom masculin)_ sage musulman, vieillard respecté en raison de son savoir religieux ou
-scientifiques, son expérience et sa sagesse.
+scientifique, son expérience et sa sagesse.
 
 - **_cheminement_**
 > _(nom masculin)_ parcours, itinéraire, notamment pour un processus de réflexion ; on
@@ -1217,19 +1217,24 @@ personne affectée de près ou de loin par ces actions.
 
 ## <a id="el">_el_</a> [&uarr;](#e)
 
-_élégance_ (nom féminin) classe, distinction, style, allure mesurée et apparence stylisée ; codes
+- **_élégance_** 
+> _(nom féminin)_ classe, distinction, style, allure mesurée et apparence stylisée ; codes
 sociaux portrayant l’image d’un style vestimentaire gage de raffinement, de beauté et de bon
 goût, combinés à une certaine dose de personnalité et de charisme.
 
-_élégiaque_ (adjectif) d’un style plaintif, triste, mélancolique ; qui a rapport à l’élégie.
+- **_élégiaque_**
+> _(adjectif)_ d’un style plaintif, triste, mélancolique ; qui a rapport à l’élégie.
 
-_ellipse_ (nom féminin) figure de style se définissant comme un saut temporel dans un récit
+- **_ellipse_** 
+> _(nom féminin)_ figure de style se définissant comme un saut temporel dans un récit
 littéraire.
 
-_éloquent_ (nom féminin) bon orateur, capable d’oraliser ses pensées clairement, fluidement et
+- **_éloquent_**
+> _(nom féminin)_ bon orateur, capable d’oraliser ses pensées clairement, fluidement et
 avec style.
 
-_élucubration_ (nom féminin) divagation, sottise, parole absurde, propos délirant.
+- **_élucubration_**
+> _(nom féminin)_ divagation, sottise, parole absurde, propos délirant.
 
 ## <a id="em">_em_</a> [&uarr;](#e)
 
