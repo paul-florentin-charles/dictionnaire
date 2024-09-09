@@ -924,7 +924,11 @@ plus célèbres représentants.
 
 # <a id="d"><center>D</center></a>
 
-## _da_ [&uarr;](#d)
+> [da](#da) - [de](#de) - [di](#di) - [do](#do) - [du](#du) - [dy](#dy)
+
+---
+
+## <a id="da">_da_</a> [&uarr;](#d)
 
 - **_dadaïsme_**
 > _(nom masculin)_ mouvement artistique, littéraire et intellectuel né au début du XXe
@@ -935,7 +939,7 @@ liberté d’expression totale, un mépris du passé et un intérêt pour le pr�
 > _(adjectif)_ infernal, apocalyptique, disproportionné, grandiose ; relatif à l’œuvre de
 Dante, et plus spécifiquement, à sa _Divine Comédie_.
 
-## _de_ [&uarr;](#d)
+## <a id="de">_de_</a> [&uarr;](#d)
 
 - **_décadence_**
 > _(nom féminin)_ phase d’une société qui se traduit par un effondrement des moeurs,
@@ -1018,7 +1022,7 @@ passé de mode, vieilli.
 > _(verbe transitif)_ voler une cible mise hors d’état de nuire, dépouiller une victime en
 déplacement sur une voie de communication, faire les poches.
 
-## _di_ [&uarr;](#d)
+## <a id="di">_di_</a> [&uarr;](#d)
 
 - **_diablotin_** 
 > _(nom masculin)_ petit diable, concentré de malice et de mesquinerie.
@@ -1048,30 +1052,36 @@ sustentation du tout
 - **_dithyrambique_**
 > _(adjectif)_ élogieux, flatteur, laudatif ; du genre poétique du dithyrambe.
 
-## _do_ [&uarr;](#d)
+## <a id="do">_do_</a> [&uarr;](#d)
 
-_docile_ (adjectif) obéissant, soumis, doux, tranquille, qui ne manifeste aucune agressivité et qui
+- **_docile_**
+> (adjectif) obéissant, soumis, doux, tranquille, qui ne manifeste aucune agressivité et qui
 est disposé à se laisser conduire.
 
-_dogme_ (nom masculin) précepte religieux, principe moral.
+- **_dogme_**
+> (nom masculin) précepte religieux, principe moral.
 
-_dolmen_ (nom masculin) agencement mégalithique de pierres, dont la structure principale est la
+- **_dolmen_**
+> (nom masculin) agencement mégalithique de pierres, dont la structure principale est la
 position d’une ou plusieurs larges dalles sur des pierres verticales, nommées orthostates.
 
-_dominion_ (nom masculin) ex-colonie indépendante de l’empire britannique, en revanche non
+- **_dominion_**
+> (nom masculin) ex-colonie indépendante de l’empire britannique, en revanche non
 entièrement souveraine.
 
-_doucereux_ (adjectif) très doux, sucré ; _(fig)_ mielleux, hypocritement agréable et flatteur.
+- **_doucereux_**
+> (adjectif) très doux, sucré ; _(fig)_ mielleux, hypocritement agréable et flatteur.
 
-_douve_ (nom féminin) fossé rempli d’eau entourant les châteaux et servant à en entraver l’accès
+- **_douve_**
+> (nom féminin) fossé rempli d’eau entourant les châteaux et servant à en entraver l’accès
 en cas de siège.
 
-## _du_ [&uarr;](#d)
+## <a id="du">_du_</a> [&uarr;](#d)
 
 _dû_ (nom masculin) ce qui est dû, dette. (adjectif) indique la cause, la raison, l’élément
 déclencheur.
 
-## _dy_ [&uarr;](#d)
+## <a id="dy">_dy_</a> [&uarr;](#d)
 
 _dynamite_ (nom féminin) explosif inventé par Alfred Nobel.
 
