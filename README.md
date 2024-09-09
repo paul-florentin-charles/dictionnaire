@@ -1078,17 +1078,22 @@ en cas de siège.
 
 ## <a id="du">_du_</a> [&uarr;](#d)
 
-_dû_ (nom masculin) ce qui est dû, dette. (adjectif) indique la cause, la raison, l’élément
+- **_dû_** 
+> 1. _(nom masculin)_ ce qui est dû, dette.
+> 2. (adjectif) indique la cause, la raison, l’élément
 déclencheur.
 
 ## <a id="dy">_dy_</a> [&uarr;](#d)
 
-_dynamite_ (nom féminin) explosif inventé par Alfred Nobel.
+- **_dynamite_**
+> _(nom féminin)_ explosif inventé par Alfred Nobel.
 
-_dysfonctionnement_ (nom masculin) souci de fonctionnement, défectuosité, comportement
+- **_dysfonctionnement_**
+> _(nom masculin)_ souci de fonctionnement, défectuosité, comportement
 anormal.
 
-_dystopie_ (nom féminin) œuvre littéraire qui dépeint un univers fictif où l’humanité est en proie au
+- **_dystopie_**
+> _(nom féminin)_ œuvre littéraire qui dépeint un univers fictif où l’humanité est en proie au
 malheur et à la peur, en général subissant le joug de gouvernements totalitaristes, mais
 n’importe quel facteur peut être la raison de cette régression de l’humanité.
 
@@ -1102,9 +1107,11 @@ n’importe quel facteur peut être la raison de cette régression de l’humani
 
 ## _eb_ [&uarr;](#e)
 
-_ébauche_ (nom féminin) approximation, esquisse, essai, squelette, tentative grossière, croquis.
+- **_ébauche_**
+> _(nom féminin)_ approximation, esquisse, essai, squelette, tentative grossière, croquis.
 
-_ébriété_ (nom féminin) qualifie l’état d’une personne sous l’emprise de l’alcool, par opposition à la
+- **_ébriété_**
+> _(nom féminin)_ qualifie l’état d’une personne sous l’emprise de l’alcool, par opposition à la
 sobriété.
 
 ## _ec_ [&uarr;](#e)
