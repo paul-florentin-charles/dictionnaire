@@ -29,7 +29,12 @@
 
 # <a id="a"><center>A</center></a>
 
-## _ab_ [&uarr;](#a)
+| [ab](#ab) | [ac](#ac) | [ad](#ad) | [af](#af) | [ag](#ag) | [ai](#ai) | [al](#al) | [am](#am) | [an](#an) | [ap](#ap) | [aq](#aq) | [ar](#ar) | [as](#as) | [at](#at) | [au](#au) |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | 
+
+---
+
+## <a id="ab">_ab_</a> [&uarr;](#a)
 
 - **_abbaye_**
 > _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du clergé régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
@@ -57,7 +62,7 @@
 - **_absurde_**
 > _(adjectif)_ illogique, qui n’a pas de sens, et ne pouvant être l’aboutissement d’un raisonnement cohérent.
 
-## _ac_ [&uarr;](#a)
+## <a id="ac">_ac_</a> [&uarr;](#a)
 
 - **_acabit_**
 > _(nom masculin)_ valeur d’un objet au sens large ; l’analogie entre un adversaire “à la hauteur” et “du même acabit” permet de mieux saisir ce substantif.
@@ -71,7 +76,7 @@
 - **_acquitter_**
 > _(verbe transitif)_ innocenter un accusé, le déclarer non coupable ; payer un dû, rembourser, littéralement se rendre quitte.
 
-## _ad_ [&uarr;](#a)
+## <a id="ad">_ad_</a> [&uarr;](#a)
 
 - **_admonester_**
 > _(verbe transitif)_ réprimander gravement, gronder avec sévérité.
@@ -85,7 +90,7 @@
 - **_adversité_**
 > _(nom féminin)_ infortune, aléas de la vie, menace extérieure.
 
-## _af_ [&uarr;](#a)
+## <a id="af">_af_</a> [&uarr;](#a)
 
 - **_affable_**
 > _(adjectif)_ se dit d’une personne souriante, bienveillante envers son interlocuteur.
@@ -99,12 +104,12 @@
 - **_affubler_**
 > _(verbe transitif)_ accoutrer, habiller d’un vêtement farfelu ou mis d’une manière ridicule ou grotesque ; communément employé à la voix passive, voire pronominale.
 
-## _ag_ [&uarr;](#a)
+## <a id="ag">_ag_</a> [&uarr;](#a)
 
 - **_agoniste_**
 > _(adjectif)_ se dit d’un muscle dont l’action produit le mouvement que l’on souhaite obtenir.
 
-## _ai_ [&uarr;](#a)
+## <a id="ai">_ai_</a> [&uarr;](#a)
 
 - **_aigrefin_**
 > _(adjectif)_ se dit d’une personne rusée, habile pour parvenir à ses fins.
@@ -112,7 +117,7 @@
 - **_aigri_**
 > _(adjectif)_ plein de rancœur, d’amertume, de ressentiment.
 
-## _al_ [&uarr;](#a)
+## <a id="al">_al_</a> [&uarr;](#a)
 
 - **_alacrité_**
 > _(nom féminin)_ caractérise la vigueur d’esprit ou de corps d’une personne ; engouement à l’égard
@@ -143,7 +148,7 @@ d’un évènement, entrain, enjouement.
 - **_alvéole_**
 > _(nom masculin/féminin)_ petite cavité, elle peut désigner le creux dans lequel s’enchâsse la dent mais aussi les cellules hexagonales qui constituent les ruches d’abeilles.
 
-## _am_ [&uarr;](#a)
+## <a id="am">_am_</a> [&uarr;](#a)
 
 - **_amalgame_**
 > _(nom masculin)_ alliage de métaux, plus précisément de mercure avec un autre métal ;
@@ -174,7 +179,7 @@ d’un évènement, entrain, enjouement.
 - **_ample_**
 > _(adjectif)_ plus que suffisant, important ; se dit d’un vêtement qui flotte, dont les coutures ne sont pas serrées, offrant ainsi une certaine liberté de mouvement.
 
-## _an_ [&uarr;](#a)
+## <a id="an">_an_</a> [&uarr;](#a)
 
 - **_anacéphaléose_**
 > _(nom féminin)_ récapitulation des grandes lignes d’un discours, résumé chronologique d’une intervention orale.
@@ -238,7 +243,7 @@ d’un évènement, entrain, enjouement.
 - **_anxiété_**
 > _(nom féminin)_ malaise, tourment de l’esprit, stress, angoisse.
 
-## _ap_ [&uarr;](#a)
+## <a id="ap">_ap_</a> [&uarr;](#a)
 
 - **_apaiser_**
 > _(verbe transitif)_ calmer, rendre paisible, relâcher, relaxer ; peut concerner l’esprit comme le corps.
@@ -270,12 +275,12 @@ d’un évènement, entrain, enjouement.
 - **_appréhension_**
 > _(nom féminin)_ anxiété en vue d’un évènement proche, dont l’issue nous est floue et relève d’une certaine importance, on parle alors de “degré d’appréhension” d’une personne.
 
-## _aq_ [&uarr;](#a)
+## <a id="aq">_aq_</a> [&uarr;](#a)
 
 - **_aquilin_**
 > _(adjectif)_ qualifie un nez fin dont la courbe vue de profil, est cassée près de la base supérieure du nez, formant ainsi un angle obtus et rappelant la forme d’un bec d’aigle.
 
-## _ar_ [&uarr;](#a)
+## <a id="ar">_ar_</a> [&uarr;](#a)
 
 - **_arabesque_**
 > _(nom féminin)_ ornement constitué d’un motif répété, souvent peint ou sculpté, représentant un ou plusieurs végétaux ; en danse classique, désigne une position codifiée.
@@ -301,7 +306,7 @@ d’un évènement, entrain, enjouement.
 - **_arrogance_**
 > _(nom féminin)_ insolence, provocation ; comportement plutôt contrôlé d’une personne qui se caractérise par un étalage confiant de son savoir et intellect, avec une intention claire de déstabiliser et de provoquer son ou ses interlocuteurs, qui lui sont d’ordinaire aînés dans le domaine à propos duquel ils sont provoqués.
 
-## _as_ [&uarr;](#a)
+## <a id="as">_as_</a> [&uarr;](#a)
 
 - **_ascétique_**
 > _(adjectif)_ qui évite tout plaisir, surtout s’ils sont matériels, et qui consomme juste assez pour survivre ; qui se revendique de l’ascèse, dont l’épicurisme est l’antithèse.
@@ -319,7 +324,7 @@ d’un évènement, entrain, enjouement.
 - **_astiquer_**
 > _(verbe transitif)_ frotter énergétiquement une surface, afin de la rendre particulièrement propre, pour la “faire briller”.
 
-## _at_ [&uarr;](#a)
+## <a id="at">_at_</a> [&uarr;](#a)
 
 - **_ataraxie_**
 > _(nom féminin)_ situation de parfaite tranquillité de l’esprit, idéal des élèves du stoïcisme ; paix de l’âme, libérée de toute envie et de tout désir.
@@ -336,7 +341,7 @@ d’un évènement, entrain, enjouement.
 - **_atypique_**
 > _(adjectif)_ surprenant, étrange, littéralement qui n’est pas typique, peu commun, qui sort des normes.
 
-## _au_ [&uarr;](#a)
+## <a id="au">_au_</a> [&uarr;](#a)
 
 - **_audace_**
 > _(nom féminin)_ courage habituellement spontané et situationnel, presque éphémère, qui voit son
