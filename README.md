@@ -1976,19 +1976,38 @@ _e.g._ faire une crise d'hystérie.
 
 # <a id="i"><center>I</center></a>
 
-## _ic_
+> [ic](#ic) -
+> [il](#il) -
+> [im](#im) -
+> [in](#in) -
+> [ir](#ir) -
+> [is](#is) -
+> [it](#it) -
+> [iv](#iv)
 
-iconoclaste
+---
 
-## _il_
+## <a id="ic">_ic_</a> [&uarr;](#i)
 
-illettrisme
+- **_icône_**
+> _(nom féminin)_ en religion, représentation d'un individu sacré ;
+> _(fig)_ individu célèbre pour son importance dans un domaine ; _(par extension)_ vedette. 
 
-## _im_
+- **_iconoclaste_**
+> _(adjectif)_ qui refuse toute représentation d'icônes religieuses ; _(par extension)_ qui rejette ou remet en question la norme.
 
-immanent
+## <a id="il">_il_</a> [&uarr;](#i)
 
-immarcescible
+- **_illettrisme_**
+> _(nom masculin)_ incapacité grande à écrire et à lire.
+
+## <a id="im">_im_</a> [&uarr;](#i)
+
+- **_immanent_**
+> _(adjectif)_ en philosophie, qui est propre à un objet, qui fait partie de son essence.
+
+- **_immarcescible_**
+> _(adjectif)_ qui ne peut être altéré ou corrompu.
 
 implicite
 
@@ -1996,7 +2015,7 @@ implosion
 
 impotent
 
-## _in_
+## <a id="in">_in_</a> [&uarr;](#i)
 
 incorrigible
 
@@ -2028,7 +2047,7 @@ intrépide
 
 intrinsèque
 
-## _ir_
+## <a id="ir">_ir_</a> [&uarr;](#i)
 
 irascible
 
@@ -2036,15 +2055,15 @@ ire
 
 iris
 
-## _is_
+## <a id="is">_is_</a> [&uarr;](#i)
 
 isthme
 
-## _it_
+## <a id="it">_it_</a> [&uarr;](#i)
 
 itération
 
-## _iv_
+## <a id="iv">_iv_</a> [&uarr;](#i)
 
 ivoire
 
