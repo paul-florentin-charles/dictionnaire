@@ -834,7 +834,7 @@ satisfaire de, faire avec.
 > _(verbe transitif)_ faire entrer quelqu’un dans une organisation par une ou plusieurs
 personnes y siégeant.
 
-- <a id="copieux">**_copieux_**</a>
+- **_<a id="copieux">copieux</a>_**
 > _(adjectif)_ fourni, chargé, foisonnant, spécifiquement employé pour parler d’un repas ;
 c’est l’antonyme de [frugal](#frugal).
 
@@ -1446,9 +1446,10 @@ même spirituels ; condamnation dans la Grèce antique, qui consiste à interdir
 cité dans laquelle il vit, ou même à la région administrative qui fait autorité sur lui.
 
 - **_explétif_**
-> _(adjectif)_
+> _(adjectif)_ en grammaire, qui n'est pas nécessaire sémantiquement à une phrase, mais en accentue un aspect,
+> par exemple : "Il fait beau, n'est-ce pas ?".
 
-- <a id="explicite">**_explicite_**</a>
+- **_<a id="explicite">explicite</a>_**
 > _(adjectif)_ clair, limpide, compréhensible de prime abord, énoncé explicitement ; contraire
 d’[implicite](#implicite).
 
@@ -1681,7 +1682,7 @@ transposer.
 - **_frivole_**
 > _(adjectif)_ se dit d'une personne peu réputée pour sa fidélité amoureuse, et son engagement relationnel ; futile, sans importance.
 
-- <a id="frugal">**_frugal_**</a>
+- **_<a id="frugal">frugal</a>_**
 > _(adjectif)_ sobre, peu fourni, pas bien garni ; antonyme de [copieux](#copieux).
 
 - **_frustration_**
@@ -2030,7 +2031,7 @@ _e.g._ faire une crise d'hystérie.
 - **_immarcescible_**
 > _(adjectif)_ qui ne peut être altéré ou corrompu.
 
-- <a id="implicite">**_implicite_**</a>
+- **_<a id="implicite">implicite</a>_**
 > _(adjectif)_ sous-entendu, qui est évoqué indirectement ; par opposition à [explicite](#explicite).
 
 - **_implosion_**
