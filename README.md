@@ -834,9 +834,9 @@ satisfaire de, faire avec.
 > _(verbe transitif)_ faire entrer quelqu’un dans une organisation par une ou plusieurs
 personnes y siégeant.
 
-- **_copieux_**
+- <a id="copieux">**_copieux_**</a>
 > _(adjectif)_ fourni, chargé, foisonnant, spécifiquement employé pour parler d’un repas ;
-c’est l’antonyme de frugal.
+c’est l’antonyme de [frugal](#frugal).
 
 - **_corbeau_**
 > _(nom masculin)_ rapace au plumage noir, charognard et réputé pour son intelligence
@@ -1238,22 +1238,29 @@ avec style.
 
 ## <a id="em">_em_</a> [&uarr;](#e)
 
-_émanation_ (nom féminin) exhalaison, dégagement gazeux, échappement de fumée.
+- **_émanation_**
+> _(nom féminin)_ exhalaison, dégagement gazeux, échappement de fumée.
 
-_émanciper_ (verbe transitif) expulser, évincer, libérer, écarter, éloigner.
+- **_émanciper_** 
+> _(verbe transitif)_ expulser, évincer, libérer, écarter, éloigner.
 
-_emblème_ (nom masculin) symbole, blason, représentation, signe de ralliement à une faction
+- **_emblème_**
+> _(nom masculin)_ symbole, blason, représentation, signe de ralliement à une faction
 généralement inscrit sur un étendard, un habit, un drapeau ou un bâtiment.
 
-_embrouillamini_ (nom masculin) embrouille, confusion, désordre, situation bordélique.
+- **_embrouillamini_**
+> _(nom masculin)_ embrouille, confusion, désordre, situation bordélique.
 
-_embryon_ (nom masculin) stade initial de développement d’un ovocyte fraîchement fécondé,
-d’une durée avoisinant deux mois; _(fig)_ ébauche, esquisse, prototype, se dit d’un projet à un
+- **_embryon_**
+> _(nom masculin)_ stade initial de développement d’un ovocyte fraîchement fécondé,
+d’une durée avoisinant deux mois ; _(fig)_ ébauche, esquisse, prototype, se dit d’un projet à un
 stade de développement prématuré.
 
-_embûche_ (nom féminin) obstacle, épreuve, difficulté.
+- **_embûche_**
+> _(nom féminin)_ obstacle, épreuve, difficulté.
 
-_émeraude_ (nom féminin) pierre précieuse communément verte (adjectif) d’un vert cristallin et
+- **_émeraude_**
+> _(nom féminin)_ pierre précieuse communément verte (adjectif) d’un vert cristallin et
 pur comme l’émeraude.
 
 ## <a id="en">_en_</a> [&uarr;](#e)
@@ -1441,9 +1448,9 @@ cité dans laquelle il vit, ou même à la région administrative qui fait autor
 - **_explétif_**
 > _(adjectif)_
 
-- **_explicite_**
+- <a id="explicite">**_explicite_**</a>
 > _(adjectif)_ clair, limpide, compréhensible de prime abord, énoncé explicitement ; contraire
-d’implicite.
+d’[implicite](#implicite).
 
 - **_exsuder_**
 > _(verbe intransitif)_ couler tel de la sueur, sortir par exsudation ;
@@ -1674,8 +1681,8 @@ transposer.
 - **_frivole_**
 > _(adjectif)_ se dit d'une personne peu réputée pour sa fidélité amoureuse, et son engagement relationnel ; futile, sans importance.
 
-- **_frugal_**
-> _(adjectif)_ sobre, peu fourni, pas bien garni ; antonyme de copieux.
+- <a id="frugal">**_frugal_**</a>
+> _(adjectif)_ sobre, peu fourni, pas bien garni ; antonyme de [copieux](#copieux).
 
 - **_frustration_**
 > _(nom féminin)_ sentiment désagréable lié à une situation irrésoluble, soit par manque de pouvoir, soit par manque de vouloir.
@@ -1852,7 +1859,16 @@ grandes expressions.
 
 # <a id="h"><center>H</center></a>
 
-## _ha_ [&uarr;](#h)
+> [ha](#ha) -
+> [he](#he) -
+> [hi](#hi) -
+> [ho](#ho) -
+> [hu](#hu) -
+> [hy](#hy)
+
+---
+
+## <a id="ha">_ha_</a> [&uarr;](#h)
 
 - **_hagard_**
 > _(adjectif)_ perdu, égaré, désorienté ; _e.g._ un individu à l’air hagard.
@@ -1877,7 +1893,7 @@ grandes expressions.
 - **_hautain_** 
 > _(adjectif)_ se dit de quelqu’un qui prend de haut, de pédant voire méprisant.
 
-## _he_ [&uarr;](#h)
+## <a id="he">_he_</a> [&uarr;](#h)
 
 - **_héraldique_**
 > _(nom féminin)_ étude des armoiries, des blasons. (adjectif) relatif aux armoiries, aux blasons.
@@ -1893,7 +1909,7 @@ grandes expressions.
 - **_hexakosioihexekontahexaphobie_**
 > _(nom masculin)_ peur parodique du nombre de la Bête : 666.
 
-## _hi_ [&uarr;](#h)
+## <a id="hi">_hi_</a> [&uarr;](#h)
 
 - **_hiémal_**
 > _(adjectif)_ relatif à l’hiver.
@@ -1910,7 +1926,7 @@ grandes expressions.
 > _(par extension)_ mémorable, d’une importance exceptionnelle.
 > 2. _(nom masculin)_ récapitulatif de données compilées dans le temps ; _e.g._ un historique de recherches internet.
 
-## _ho_ [&uarr;](#h)
+## <a id="ho">_ho_</a> [&uarr;](#h)
 
 - **_holonyme_**
 > _(nom masculin)_ mot dont le sens englobe celui d’un autre mot donné, antonyme de méronyme ; _e.g._ bateau est un holonyme de coque.
@@ -1940,7 +1956,7 @@ grandes expressions.
 - **_houspiller_**
 > _(verbe transitif)_ gronder, réprimander, harceler quelqu’un de reproches.
 
-## _hu_ [&uarr;](#h)
+## <a id="hu">_hu_</a> [&uarr;](#h)
 
 - **_hubris_**
 > _(nom féminin)_ démesure, orgueil boursouflé, excès de confiance qui mène usuellement un individu à sa perte.
@@ -1952,7 +1968,7 @@ grandes expressions.
 - **_hurluberlu_**
 > _(nom masculin)_ individu fantasque, drôle de personnage.
 
-## _hy_ [&uarr;](#h)
+## <a id="hy">_hy_</a> [&uarr;](#h)
 
 - **_hyalin_**
 > _(adjectif)_ qui a la transparence du verre.
@@ -2014,11 +2030,16 @@ _e.g._ faire une crise d'hystérie.
 - **_immarcescible_**
 > _(adjectif)_ qui ne peut être altéré ou corrompu.
 
-implicite
+- <a id="implicite">**_implicite_**</a>
+> _(adjectif)_ sous-entendu, qui est évoqué indirectement ; par opposition à [explicite](#explicite).
 
-implosion
+- **_implosion_**
+> _(nom féminin)_ rupture soudaine et brutale de la structure d'un objet, fruit d'une pression extérieure
+> sensiblement plus élevée que celle interne audit objet ; s'oppose à la notion d'explosion.
 
-impotent
+- **_impotent_**
+> _(adjectif)_ infirme, handicapé d'un ou de plusieurs membres ;
+> _(fig)_ impuissant, faible.
 
 ## <a id="in">_in_</a> [&uarr;](#i)
 
@@ -2080,7 +2101,7 @@ ivresse
 
 ---
 
-# J
+# <a id="j"><center>J</center></a>
 
 ## _ja_
 
