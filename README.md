@@ -50,7 +50,7 @@
 ## <a id="ab">_ab_</a> [&uarr;](#a)
 
 - **_abbaye_**
-> _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du clergé régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
+> _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du [clergé](#clergé) régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
 
 - **_abdiquer_**
 > 1. _(verbe transitif)_ renoncer à son trône pour un roi, ou de manière plus élargie, se retirer volontairement d’une position de pouvoir. 
@@ -78,13 +78,13 @@
 ## <a id="ac">_ac_</a> [&uarr;](#a)
 
 - **_acabit_**
-> _(nom masculin)_ valeur d’un objet au sens large ; l’analogie entre un adversaire “à la hauteur” et “du même acabit” permet de mieux saisir ce substantif.
+> _(nom masculin)_ valeur d’un objet au sens large ; l’[analogie](#analogie) entre un adversaire “à la hauteur” et “du même acabit” permet de mieux saisir ce substantif.
 
 - **_acception_**
 > _(nom féminin)_ sens courant d’un mot, signification communément admise.
 
-- **_accoutrer_**
-> _(verbe transitif)_ affubler, vêtir bizarrement, étrangement ; essentiellement employé à la voix passive.
+- **_<a id="accoutrer">accoutrer</a>_**
+> _(verbe transitif)_ [affubler](#affubler), vêtir bizarrement, étrangement ; essentiellement employé à la voix passive.
 
 - **_acquitter_**
 > _(verbe transitif)_ innocenter un accusé, le déclarer non coupable ; payer un dû, rembourser, littéralement se rendre quitte.
@@ -98,7 +98,7 @@
 > _(verbe transitif)_ se faire pénétrer en surface par un gaz ou un liquide, pour un solide.
 
 - **_aduler_**
-> _(verbe transitif)_ vénérer, idolâtrer, adorer, admirer excessivement, considérer infiniment une personne.
+> _(verbe transitif)_ vénérer, [idolâtrer](#idolâtrer), adorer, admirer excessivement, considérer infiniment une personne.
 
 - **_adversité_**
 > _(nom féminin)_ infortune, aléas de la vie, menace extérieure.
@@ -114,8 +114,8 @@
 - **_affect_**
 > _(nom masculin)_ émotion, entité psychique associée au cœur par opposition au rationnel incarné par le cerveau ; la somme des affects définit l’état émotionnel d’un individu.
 
-- **_affubler_**
-> _(verbe transitif)_ accoutrer, habiller d’un vêtement farfelu ou mis d’une manière ridicule ou grotesque ; communément employé à la voix passive, voire pronominale.
+- **_<a id="affubler">affubler</a>_**
+> _(verbe transitif)_ [accoutrer](#accoutrer), habiller d’un vêtement farfelu ou mis d’une manière ridicule ou grotesque ; communément employé à la voix passive, voire pronominale.
 
 ## <a id="ag">_ag_</a> [&uarr;](#a)
 
@@ -200,7 +200,7 @@ d’un évènement, entrain, enjouement.
 - **_analepse_**
 > _(nom féminin)_ figure de style qui correspond à un retour en arrière dans un récit, dans le passé de l’intrigue.
 
-- **_analogie_**
+- **_<a id="analogie">analogie</a>_**
 > _(nom féminin)_ comparaison, expression d’un concept en le mettant en lumière grâce à un autre concept avec lequel il partage certaines similarités.
 
 - **_analphabète_**
@@ -231,8 +231,8 @@ d’un évènement, entrain, enjouement.
 - **_anomie_**
 > _(nom féminin)_ état d’une société sans normes pour en assurer l’ordre.
 
-- **_anse_**
-> _(nom féminin)_ poignée sur une carafe, une amphore, sur un récipient en règle générale ; petite baie, équivalent d’une crique.
+- **_<a id="anse">anse</a>_**
+> _(nom féminin)_ poignée sur une carafe, une amphore, sur un récipient en règle générale ; petite baie, équivalent d’une [crique](#crique).
 
 - **_antagoniste_**
 > 1. _(nom masculin)_ ennemi, rival, individu dont la personnalité et les actes sont radicalement à l’opposé d’un autre individu.
@@ -742,8 +742,12 @@ déduction, intuition juste.
 > _(nom féminin)_ instrument archaïque de mesure du temps, par écoulement de l’eau au
 compte-gouttes dans un vase.
 
+- **_<a id="clergé">clergé</a>_**
+> _(nom masculin)_ ensemble des institutions cléricales de la religion chrétienne, dont on distingue souvent
+> le clergé dit "régulier" (isolé, proche de Dieu) et celui dit "séculier" (social, proche des croyants).
+
 - **_clérical_**
-> _(adjectif)_ relatif au clergé, religieux, en lien avec l’institution religieuse catholique.
+> _(adjectif)_ relatif au [clergé](#clergé), religieux, en lien avec l’institution religieuse catholique.
 
 - **_clivage_**
 > _(nom masculin)_ fissure d’un cristal ;
@@ -911,8 +915,8 @@ créneaux est appelé merlon.
 - **_crevasse_**
 > _(nom féminin)_ petit gouffre, ravin.
 
-- **_crique_**
-> _(nom féminin)_ petite baie, anse, échancrure.
+- **_<a id="crique">crique</a>_**
+> _(nom féminin)_ petite baie, [anse](#anse), [échancrure](#échancrure).
 
 - **_cristallin_**
 > _(adjectif)_ pur comme le cristal, transparent, lisse, régulier ; peut aussi bien caractériser
@@ -1170,9 +1174,9 @@ sobriété.
 - **_ecclésiastique_**
 > _(adjectif)_ propre à l’Église.
 
-- **_échancrure_**
-> _(nom féminin)_ enfoncement de la mer dans le rivage, crique, anse ; découpe faite sur
-le bord d’un vêtement.
+- **_<a id="échancrure">échancrure</a>_**
+> _(nom féminin)_ enfoncement de la mer dans le rivage, [crique](#crique), [anse](#anse) ;
+> découpe faite sur le bord d’un vêtement.
 
 - **_échauffourée_** 
 > _(nom féminin)_ émeute, bagarre dissipée, affrontement isolé.
@@ -1411,7 +1415,7 @@ est contenue dans un noyau délimité par une membrane nucléaire, par oppositio
 savoir la conversion à son Église des infidèles ou des croyants non chrétiens.
 
 - **_évêque_**
-> _(nom masculin)_ personnage du clergé séculier dans l’Église chrétienne, ayant autorité sur un
+> _(nom masculin)_ personnage du [clergé](#clergé) séculier dans l’Église chrétienne, ayant autorité sur un
 diocèse, on qualifie sa fonction d’épiscopale.
 
 - **_évincer_**
@@ -1722,7 +1726,17 @@ transposer.
 
 # <a id="g"><center>G</center></a>
 
-## _ga_ [&uarr;](#g)
+> [ga](#ga) -
+> [ge](#ge) -
+> [gi](#gi) -
+> [gl](#gl) -
+> [go](#go) -
+> [gr](#gr) -
+> [gu](#gu)
+
+---
+
+## <a id="ga">_ga_</a> [&uarr;](#g)
 
 - **_galanterie_**
 > _(nom féminin)_ ensemble de règles implicites qui dictent la conduite d'un homme envers une femme. Ladite conduite se caractérisant par une politesse particulière.
@@ -1761,7 +1775,7 @@ transposer.
 > _(nom féminin)_ aliment, généralement assez neutre au goût, que l'on ajoute en complément d'une pièce maîtresse, à base de viande ou de poisson ; en extrapolant, concerne tout ce qui est additionné à un objet, par exemple pour l'orner.
 
 - **_gastéropode_**
-> _(nom masculin)_ membre de la familles des gastéropodes, qui se caractérise par des mollusques spiralés avec des antennes et, dans certains cas, une coquille.
+> _(nom masculin)_ membre de la famille des gastéropodes, qui se caractérise par des mollusques spiralés avec des antennes et, dans certains cas, une coquille.
 
 - **_gastronomie_**
 > _(nom féminin)_ patrimoine culinaire d'une région, ensemble des pratiques liées à l'art de la bonne cuisine.
@@ -1772,7 +1786,7 @@ transposer.
 - **_gazouiller_**
 > _(verbe intransitif)_ émettre des gazouillements, chants aigus et saccadés produits par des petits oiseaux.
 
-## _ge_ [&uarr;](#g)
+## <a id="ge">_ge_</a> [&uarr;](#g)
 
 - **_gemme_**
 > _(nom féminin)_ petit pierre esthétique, souvent fine ou précieuse ; elle peut être remodelée (polie, taillée, etc.) puis incrustée par exemple.
@@ -1786,7 +1800,7 @@ transposer.
 - **_gesticuler_**
 > _(verbe intransitif)_ se mouvoir dans tous les sens sans cohérence particulière.
 
-## _gi_ [&uarr;](#g)
+## <a id="gi">_gi_</a> [&uarr;](#g)
 
 - **_gibier_**
 > _(nom masculin)_ espèces d’animaux habituellement chassées.
@@ -1794,7 +1808,7 @@ transposer.
 - **_ginseng_**
 > _(nom masculin)_ plante d’origine est-asiatique.
 
-## _gl_ [&uarr;](#g)
+## <a id="gl">_gl_</a> [&uarr;](#g)
 
 - **_glapir_**
 > _(verbe intransitif)_ action correspondant au cri du renard.
@@ -1809,7 +1823,7 @@ transposer.
 - **_glycine_**
 > _(nom féminin)_ variété de plante grimpante.
 
-## _go_ [&uarr;](#g)
+## <a id="go">_go_</a> [&uarr;](#g)
 
 - **_goulet_**
 > _(nom masculin)_ rétrécissement, accès étroit d’un port, allée exiguë ; _e.g._ goulet d’étranglement.
@@ -1820,7 +1834,7 @@ transposer.
 - **_gourmet_**
 > _(nom masculin)_ amateur culinaire, qui apprécie la finesse gastronomique.
 
-## _gr_ [&uarr;](#g)
+## <a id="gr">_gr_</a> [&uarr;](#g)
 
 - **_grandiloquent_**
 > _(adjectif)_ excessivement grandiose et solennel, se dit d’un discours pompeux, plein de
@@ -1841,7 +1855,7 @@ grandes expressions.
 - **_grossièreté_**
 > _(nom féminin)_ juron ou insulte ; manque de finesse, de précision : grossièreté d’un travail bâclé ou de propos simplificateurs.
 
-## _gu_ [&uarr;](#g)
+## <a id="gu">_gu_</a> [&uarr;](#g)
 
 - **_guigne_**
 > _(nom féminin)_ poisse, manque de chance.
@@ -1999,6 +2013,7 @@ _e.g._ faire une crise d'hystérie.
 # <a id="i"><center>I</center></a>
 
 > [ic](#ic) -
+> [id](#id) -
 > [il](#il) -
 > [im](#im) -
 > [in](#in) -
@@ -2017,6 +2032,11 @@ _e.g._ faire une crise d'hystérie.
 
 - **_iconoclaste_**
 > _(adjectif)_ qui refuse toute représentation d'icônes religieuses ; _(par extension)_ qui rejette ou remet en question la norme.
+
+## <a id="id">_id_</a> [&uarr;](#i)
+
+- **_<a id="idolâtrer">idolâtrer</a>_**
+> _(verbe transitif)_ _(péjoratif)_ vénérer aveuglément une idole, vouer un culte excessif à une entité.
 
 ## <a id="il">_il_</a> [&uarr;](#i)
 
@@ -2044,9 +2064,12 @@ _e.g._ faire une crise d'hystérie.
 
 ## <a id="in">_in_</a> [&uarr;](#i)
 
-incorrigible
+- **_incorrigible_**
+> _(adjectif)_ littéralement, qui ne peut être corrigé ;
+> _(fig)_ se dit de quelqu'un au comportement systématiquement entêté, voire pénible.
 
-indécent
+- **_indécent_**
+> _(adjectif)_ qui ne convient pas aux normes de la décence, _i.e._ de ce qui est acceptable moralement dans un contexte donné.
 
 indigeste
 
@@ -2136,7 +2159,7 @@ journée
 
 jovial
 
-# _ju_
+## _ju_
 
 jubiler
 
@@ -2151,6 +2174,8 @@ judaïsme
 ---
 
 # K
+
+## _kh_
 
 khan
 
@@ -2409,6 +2434,8 @@ obombrer
 obscurité
 
 obsession
+
+obsolète
 
 occidental
 
@@ -2803,7 +2830,7 @@ vaciller
 
 véhément
 
-veinal
+vénal
 
 vélocité
 
