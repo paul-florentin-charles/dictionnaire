@@ -72,7 +72,7 @@
 - **_absoudre_**
 > _(verbe transitif)_ pardonner un péché, et par extension, une faute.
 
-- **_absurde_**
+- **_<a id="absurde">absurde</a>_**
 > _(adjectif)_ illogique, qui n’a pas de sens, et ne pouvant être l’aboutissement d’un raisonnement cohérent.
 
 ## <a id="ac">_ac_</a> [&uarr;](#a)
@@ -1206,14 +1206,14 @@ petite envergure disposées dans l’espace public ; dans la Rome antique, un é
 petite construction sur un mur faite pour accueillir des statuettes, ou une plus large construction
 pour y loger une tombe.
 
-- **_édifier_**
-> _(verbe transitif)_ ériger, construire, bâtir, élever un édifice ; _(fig)_ concevoir, composer, créer.
+- **_<a id="édifier">édifier</a>_**
+> _(verbe transitif)_ [ériger](#ériger), construire, bâtir, élever un édifice ; _(fig)_ concevoir, composer, créer.
 
 ## <a id="ef">_ef_</a> [&uarr;](#e)
 
-- **_effluve_**
+- **_<a id="effluve">effluve</a>_**
 > _(nom féminin/masculin)_ émanation issue d’un corps animal ou végétal, laissant une
-trace olfactive, matérielle et plus rarement visuelle.
+trace [olfactive](#olfactif), matérielle et plus rarement visuelle.
 
 ## <a id="eg">_eg_</a> [&uarr;](#e)
 
@@ -1241,15 +1241,19 @@ littéraire.
 avec style.
 
 - **_élucubration_**
-> _(nom féminin)_ divagation, sottise, parole absurde, propos délirant.
+> _(nom féminin)_ divagation, sottise, parole [absurde](#absurde), propos délirant.
 
 ## <a id="em">_em_</a> [&uarr;](#e)
 
-- **_émanation_**
-> _(nom féminin)_ exhalaison, dégagement gazeux, échappement de fumée.
+- **_émacié_**
+> _(adjectif)_ très maigre, [famélique](#famélique), notamment en parlant du visage.
+
+- **_<a id="émanation">émanation</a>_**
+> _(nom féminin)_ [exhalaison](#exhalaison), dégagement gazeux, échappement de fumée.
 
 - **_émanciper_** 
-> _(verbe transitif)_ expulser, évincer, libérer, écarter, éloigner.
+> 1. _(verbe transitif)_ expulser, [évincer](#évincer), libérer, écarter, éloigner.
+> 2. _(forme pronominale)_ se libérer du joug d'une autorité ; _(fig)_ se développer personnellement, s'épanouir.
 
 - **_emblème_**
 > _(nom masculin)_ symbole, [blason](#blason), représentation, signe de ralliement à une faction
@@ -1353,8 +1357,8 @@ et dont certaines sont choisies pour leur eau d’érable récoltée pour produi
 > _(nom féminin)_ cachot, prison souterraine dans la Rome antique ; loge destinée à
 l'hébergement des esclaves, ou des gladiateurs dans l’antiquité romaine.
 
-- **_ériger_**
-> _(verbe transitif)_ construire, bâtir, édifier, élever une œuvre architecturale ; mettre en place, créer,
+- **_<a id="ériger">ériger</a>_**
+> _(verbe transitif)_ construire, bâtir, [édifier](#édifier), élever une œuvre architecturale ; mettre en place, créer,
 mettre sur pied.
 
 ## <a id="es">_es_</a> [&uarr;](#e)
@@ -1370,8 +1374,8 @@ mensonge et la manipulation.
 - **_esperluette_**
 > _(nom féminin)_ symbole stylisé se substituant à la conjonction de coordination “et”, e commercial ; &.
 
-- **_espiègle_**
-> _(adjectif)_ malicieux, facétieux, taquin, coquin.
+- **_<a id="espiègle">espiègle</a>_**
+> _(adjectif)_ malicieux, [facétieux](#facétieux), taquin, coquin.
 
 - **_esquisse_**
 > _(nom féminin)_ croquis, ébauche, approximation.
@@ -1421,7 +1425,7 @@ savoir la conversion à son Église des infidèles ou des croyants non chrétien
 > _(nom masculin)_ personnage du [clergé](#clergé) séculier dans l’Église chrétienne, ayant autorité sur un
 diocèse, on qualifie sa fonction d’épiscopale.
 
-- **_évincer_**
+- **_<a id="évincer">évincer</a>_**
 > _(verbe transitif)_ écarter, expulser, dégager, virer quelqu’un, retirer une personne d’un projet.
 
 ## <a id="ex">_ex_</a> [&uarr;](#e)
@@ -1437,8 +1441,8 @@ c’est une pratique essentiellement religieuse.
 - **_excroissance_**
 > _(nom féminin)_ protubérance, bosse, prolongement.
 
-- **_exhalaison_**
-> _(nom féminin)_ émanation, dégagement gazeux ou olfactif en provenance d’un corps, effluve.
+- **_<a id="exhalaison">exhalaison</a>_**
+> _(nom féminin)_ [émanation](#émanation), dégagement gazeux ou [olfactif](#olfactif) en provenance d’un corps, [effluve](#effluve).
 
 - **_exhibition_**
 > _(nom féminin)_ exposition, affichage, dévoilement.
@@ -1465,7 +1469,7 @@ d’[implicite](#implicite).
 > _(fig)_ afficher, transparaître,
 montrer à la vue de tous, exposer.
 
-- **_extrapoler_**
+- **_<a id="extrapoler">extrapoler</a>_**
 > _(verbe transitif)_ déduire, tirer des conclusions à partir de résultats précis ; généraliser,
 transposer.
 
@@ -1485,8 +1489,8 @@ transposer.
 
 ## _fa_ [&uarr;](#f)
 
-- **_facétieux_**
-> _(adjectif_ ) espiègle, malicieux, taquin.
+- **_<a id="facétieux">facétieux</a>_**
+> _(adjectif)_ [espiègle](#espiègle), malicieux, taquin.
 
 - **_facultatif_**
 > _(adjectif)_ optionnel, non nécessaire, que l’on peut ne pas faire.
@@ -1500,8 +1504,8 @@ transposer.
 - **_fallacieux_**
 > _(adjectif)_ mensonger, faux, traître.
 
-- **_famélique_**
-> _(adjectif)_ maigrichon, d’une extrême maigreur, qui a la peau sur les os.
+- **_<a id="famélique">famélique</a>_**
+> _(adjectif)_ [rachitique](#rachitique), d’une extrême maigreur, qui a la peau sur les os.
 
 - **_fanfaronnade_**
 > _(nom féminin)_ plastronnade, exhibition passagère de vanité, parole prétentieuse ; acte de fanfaronner.
@@ -1668,7 +1672,7 @@ transposer.
 > _(nom masculin)_ morceau, pièce issue de la fission, souvent non prévue, d'un objet.
 
 - **_fragrance_**
-> _(nom féminin)_ parfum, odeur agréable émanant de plantes ou de compositions olfactives.
+> _(nom féminin)_ parfum, odeur agréable émanant de plantes ou de compositions [olfactives](#olfactif).
 
 - **_franc_**
 > _(adjectif)_ honnête, sincère ; se dit de quelqu'un dont les paroles correspondent aux pensées, qui ne ment point.
@@ -1742,7 +1746,7 @@ transposer.
 ## <a id="ga">_ga_</a> [&uarr;](#g)
 
 - **_galanterie_**
-> _(nom féminin)_ ensemble de règles implicites qui dictent la conduite d'un homme envers une femme. Ladite conduite se caractérisant par une politesse particulière.
+> _(nom féminin)_ ensemble de règles [implicites](#implicite) qui dictent la conduite d'un homme envers une femme. Ladite conduite se caractérisant par une politesse particulière.
 
 - **_galéjade_**
 > _(nom féminin)_ plaisanterie légère dans le Midi, histoire fabriquée de toute pièce pour tromper quelqu'un.
@@ -1775,7 +1779,7 @@ transposer.
 > _(nom féminin)_ troupe de soldats présente dans une place forte pour la défendre en cas d'affrontements.
 
 - **_garniture_**
-> _(nom féminin)_ aliment, généralement assez neutre au goût, que l'on ajoute en complément d'une pièce maîtresse, à base de viande ou de poisson ; en extrapolant, concerne tout ce qui est additionné à un objet, par exemple pour l'orner.
+> _(nom féminin)_ aliment, généralement assez neutre au goût, que l'on ajoute en complément d'une pièce maîtresse, à base de viande ou de poisson ; en [extrapolant](#extrapoler), concerne tout ce qui est additionné à un objet, par exemple pour l'orner.
 
 - **_gastéropode_**
 > _(nom masculin)_ membre de la famille des gastéropodes, qui se caractérise par des mollusques spiralés avec des antennes et, dans certains cas, une coquille.
@@ -2384,6 +2388,8 @@ nation
 
 naturalisme
 
+naumachie
+
 nébuleux
 
 négligent
@@ -2449,6 +2455,8 @@ occidental
 œuvre
 
 oisif
+
+<a id="olfactif">olfactif</a>
 
 oligarchie
 
@@ -2615,6 +2623,8 @@ quintessence
 ---
 
 # R
+
+<a id="rachitique">rachitique</a>
 
 racoleur
 
