@@ -30,20 +30,20 @@
 # <a id="a"><center>A</center></a>
 
 > [ab](#ab) -
-> [ac](#ac) -
-> [ad](#ad) -
-> [af](#af) -
-> [ag](#ag) -
-> [ai](#ai) -
-> [al](#al) -
-> [am](#am) -
-> [an](#an) -
-> [ap](#ap) -
-> [aq](#aq) -
-> [ar](#ar) -
-> [as](#as) -
-> [at](#at) -
-> [au](#au)
+[ac](#ac) -
+[ad](#ad) -
+[af](#af) -
+[ag](#ag) -
+[ai](#ai) -
+[al](#al) -
+[am](#am) -
+[an](#an) -
+[ap](#ap) -
+[aq](#aq) -
+[ar](#ar) -
+[as](#as) -
+[at](#at) -
+[au](#au)
 
 ---
 
@@ -376,11 +376,11 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 # <a id="b"><center>B</center></a>
 
 > [ba](#ba) -
-> [be](#be) -
-> [bi](#bi) -
-> [bl](#bl) -
-> [bo](#bo) -
-> [br](#br)
+[be](#be) -
+[bi](#bi) -
+[bl](#bl) -
+[bo](#bo) -
+[br](#br)
 
 ---
 
@@ -545,14 +545,14 @@ nouvelle ligne.
 # <a id="c"><center>C</center></a>
 
 > [ca](#ca) -
-> [ce](#ce) -
-> [ch](#ch) -
-> [ci](#ci) -
-> [cl](#cl) -
-> [co](#co) -
-> [cr](#cr) -
-> [cu](#cu) -
-> [cy](#cy)
+[ce](#ce) -
+[ch](#ch) -
+[ci](#ci) -
+[cl](#cl) -
+[co](#co) -
+[cr](#cr) -
+[cu](#cu) -
+[cy](#cy)
 
 ---
 
@@ -956,11 +956,11 @@ plus célèbres représentants.
 # <a id="d"><center>D</center></a>
 
 > [da](#da) -
-> [de](#de) -
-> [di](#di) -
-> [do](#do) -
-> [du](#du) -
-> [dy](#dy)
+[de](#de) -
+[di](#di) -
+[do](#do) -
+[du](#du) -
+[dy](#dy)
 
 ---
 
@@ -1142,20 +1142,20 @@ n’importe quel facteur peut-être la raison de cette régression de l’humani
 # <a id="e"><center>E</center></a>
 
 > [eb](#eb) -
-> [ec](#ec) -
-> [ed](#ed) -
-> [ef](#ef) -
-> [eg](#eg) -
-> [el](#el) -
-> [em](#em) -
-> [en](#en) -
-> [ep](#ep) -
-> [er](#er) -
-> [es](#es) -
-> [et](#et) -
-> [eu](#eu) -
-> [ev](#ev) -
-> [ex](#ex)
+[ec](#ec) -
+[ed](#ed) -
+[ef](#ef) -
+[eg](#eg) -
+[el](#el) -
+[em](#em) -
+[en](#en) -
+[ep](#ep) -
+[er](#er) -
+[es](#es) -
+[et](#et) -
+[eu](#eu) -
+[ev](#ev) -
+[ex](#ex)
 
 ---
 
@@ -1727,12 +1727,12 @@ transposer.
 # <a id="g"><center>G</center></a>
 
 > [ga](#ga) -
-> [ge](#ge) -
-> [gi](#gi) -
-> [gl](#gl) -
-> [go](#go) -
-> [gr](#gr) -
-> [gu](#gu)
+[ge](#ge) -
+[gi](#gi) -
+[gl](#gl) -
+[go](#go) -
+[gr](#gr) -
+[gu](#gu)
 
 ---
 
@@ -1875,11 +1875,11 @@ grandes expressions.
 # <a id="h"><center>H</center></a>
 
 > [ha](#ha) -
-> [he](#he) -
-> [hi](#hi) -
-> [ho](#ho) -
-> [hu](#hu) -
-> [hy](#hy)
+[he](#he) -
+[hi](#hi) -
+[ho](#ho) -
+[hu](#hu) -
+[hy](#hy)
 
 ---
 
@@ -2013,14 +2013,14 @@ _e.g._ faire une crise d'hystérie.
 # <a id="i"><center>I</center></a>
 
 > [ic](#ic) -
-> [id](#id) -
-> [il](#il) -
-> [im](#im) -
-> [in](#in) -
-> [ir](#ir) -
-> [is](#is) -
-> [it](#it) -
-> [iv](#iv)
+[id](#id) -
+[il](#il) -
+[im](#im) -
+[in](#in) -
+[ir](#ir) -
+[is](#is) -
+[it](#it) -
+[iv](#iv)
 
 ---
 
