@@ -49,7 +49,7 @@
 
 ## <a id="ab">_ab_</a> [&uarr;](#a)
 
-- **_abbaye_**
+- **_<a id="abbaye">abbaye</a>_**
 > _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du [clergé](#clergé) régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
 
 - **_abdiquer_**
@@ -149,7 +149,7 @@ d’un évènement, entrain, enjouement.
 - **_allégeance_**
 > _(nom féminin)_ soumission volontaire envers une autorité supérieure souvent par nécessité politique, s’emploie communément dans les expressions “prêter allégeance à”, “faire serment d’allégeance envers”.
 
-- **_allégresse_**
+- **_<a id="allégresse">allégresse</a>_**
 > _(nom féminin)_ euphorie, sentiment de bonheur complet, jouissance pure de l’instant présent.
 
 - **_alliciant_**
@@ -764,7 +764,7 @@ enterrements.
 
 - **_cloître_**
 > _(nom masculin)_ galerie rectangulaire, bordée de colonnes du côté intérieur, entourant un
-jardin, et située dans un monastère ou une abbaye.
+jardin, et située dans un monastère ou une [abbaye](#abbaye).
 
 ## <a id="co">_co_</a> [&uarr;](#c)
 
@@ -793,7 +793,7 @@ parenté...
 extension, un ami, un copain ; peut également désigner le partenaire conjugal.
 
 - **_comploter_**
-> _(verbe intransitif)_ préparer un mauvais coup, fomenter contre quelqu’un ou contre
+> _(verbe intransitif)_ préparer un mauvais coup, [fomenter](#fomenter) contre quelqu’un ou contre
 une entité, manigancer ; comporte une notion collective, d’ordinaire on complote collectivement
 et non individuellement.
 
@@ -876,7 +876,7 @@ rarement, théorie scientifique sur la genèse de l’univers.
 > _(nom masculin)_ monde, univers, espace ; désigne l’univers en astronomie.
 
 - **_coterie_**
-> _(nom féminin)_ association d’individus aux desseins communs, ligués contre ceux qui y
+> _(nom féminin)_ association d’individus aux [desseins](#dessein) communs, ligués contre ceux qui y
 sont étrangers.
 
 - **_couiner_**
@@ -1038,7 +1038,7 @@ psychologique qui induit une inexistence de la volonté chez le sujet.
 - **_désinvolture_**
 > _(nom féminin)_ insolence, provocation, arrogance, irrespect.
 
-- **_dessein_**
+- **_<a id="dessein">dessein</a>_**
 > _(nom masculin)_ intention, projet, plan.
 
 - **_destituer_**
@@ -1277,7 +1277,7 @@ pur comme l’émeraude.
 ## <a id="en">_en_</a> [&uarr;](#e)
 
 - **_enchanter_**
-> _(verbe transitif)_ émerveiller, enjouer, euphoriser, rendre allègre.
+> _(verbe transitif)_ émerveiller, enjouer, euphoriser, rendre [allègre](#allégresse).
 
 - **_enchâsser_**
 > _(verbe transitif)_ encastrer, enfoncer, incruster, insérer dans un châssis.
@@ -1537,7 +1537,7 @@ transposer.
 
 - **_faste_**
 > 1. _(nom masculin)_ luxe, richesse, somptuosité.
-> 2. _(adjectif)_ joyeux, allègre, propice, baigné de réussite.
+> 2. _(adjectif)_ joyeux, [allègre](#allégresse), propice, baigné de réussite.
 
 - **_fastidieux_**
 > _(adjectif)_ laborieux, pénible, complexe et fatigant, éreintant de difficulté.
@@ -1648,8 +1648,9 @@ transposer.
 - **_foison_**
 > _(nom féminin)_ grande abondance.
 
-- **_fomenter_**
-> _(verbe transitif)_ exciter, stimuler, entretenir.
+- **_<a id="fomenter">fomenter</a>_**
+> _(verbe transitif)_ exciter, stimuler ; _(fig)_ entretenir des [desseins](#dessein) déstabilisateurs,
+> _e.g._ fomenter un coup d'État.
 
 - **_forfanterie_**
 > _(nom féminin)_ plastonnerie, fanfaronnerie, crânerie ; attitude de désinvolture et d’intarissable vanité, vue comme un trait de caractère s’appliquant à une personne.
@@ -1761,7 +1762,7 @@ transposer.
 > _(verbe transitif)_ dégrader, corrompre, détériorer ; adopter un usage altéré de celui auquel une entité était destinée, la gâchant sur le moyen à long terme.
 
 - **_gambader_**
-> _(verbe intransitif)_ se promener en sautillant, bondir allègrement.
+> _(verbe intransitif)_ se promener en sautillant, bondir [allègrement](#allégresse).
 
 - **_gargantuesque_**
 > _(adjectif)_ immense, démesuré, gigantesque ; référence à Gargantua, personnage géant de l'univers de François Rabelais.
@@ -2033,12 +2034,12 @@ _e.g._ faire une crise d'hystérie.
 
 ## <a id="ic">_ic_</a> [&uarr;](#i)
 
-- **_icône_**
+- **_<a id="icône">icône</a>_**
 > _(nom féminin)_ en religion, représentation d'un individu sacré ;
 > _(fig)_ individu célèbre pour son importance dans un domaine ; _(par extension)_ vedette. 
 
 - **_iconoclaste_**
-> _(adjectif)_ qui refuse toute représentation d'icônes religieuses ; _(par extension)_ qui rejette ou remet en question la norme.
+> _(adjectif)_ qui refuse toute représentation d'[icônes](#icône) religieuses ; _(par extension)_ qui rejette ou remet en question la norme.
 
 ## <a id="id">_id_</a> [&uarr;](#i)
 
