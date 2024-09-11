@@ -53,7 +53,7 @@
 > _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du [clergé](#clergé) régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
 
 - **_abdiquer_**
-> 1. _(verbe transitif)_ renoncer à son trône pour un roi, ou de manière plus élargie, se retirer volontairement d’une position de pouvoir. 
+> 1. _(verbe transitif)_ renoncer à son [trône](#trône) pour un roi, ou de manière plus élargie, se retirer volontairement d’une position de pouvoir. 
 >
 > 2. _(verbe intransitif)_ abandonner une entreprise, un projet en cours.
 
@@ -92,7 +92,7 @@
 ## <a id="ad">_ad_</a> [&uarr;](#a)
 
 - **_admonester_**
-> _(verbe transitif)_ réprimander gravement, gronder avec sévérité.
+> _(verbe transitif)_ [réprimander](#réprimander) gravement, gronder avec sévérité.
 
 - **_adsorber_**
 > _(verbe transitif)_ se faire pénétrer en surface par un gaz ou un liquide, pour un solide.
@@ -115,7 +115,7 @@
 > _(nom masculin)_ émotion, entité psychique associée au cœur par opposition au rationnel incarné par le cerveau ; la somme des affects définit l’état émotionnel d’un individu.
 
 - **_<a id="affubler">affubler</a>_**
-> _(verbe transitif)_ [accoutrer](#accoutrer), habiller d’un vêtement farfelu ou mis d’une manière ridicule ou grotesque ; communément employé à la voix passive, voire pronominale.
+> _(verbe transitif)_ [accoutrer](#accoutrer), habiller d’un vêtement [farfelu](#farfelu) ou mis d’une manière ridicule ou grotesque ; communément employé à la voix passive, voire pronominale.
 
 ## <a id="ag">_ag_</a> [&uarr;](#a)
 
@@ -222,8 +222,8 @@ d’un évènement, entrain, enjouement.
 - **_anesthésie_**
 > _(nom féminin)_ privation complète ou partielle de la sensation de douleur chez un hôte ; procédé médical par lequel on endort totalement ou localement un patient, en préalable à une opération de chirurgie.
 
-- **_angoisse_**
-> _(nom féminin)_ inquiétude disproportionnée à l’origine d’un profond malaise, anxiété, peur, panique.
+- **_<a id="angoisse">angoisse</a>_**
+> _(nom féminin)_ inquiétude disproportionnée à l’origine d’un profond malaise, [anxiété](#anxiété), peur, panique.
 
 - **_annihiler_**
 > _(verbe transitif)_ réduire au néant, anéantir.
@@ -253,8 +253,8 @@ d’un évènement, entrain, enjouement.
 - **_antre_**
 > _(nom féminin)_ repaire, tanière, avec une indéniable connotation péjorative, notamment par un sous-entendu d’isolement et couramment, de lieu de préparation de vils projets.
 
-- **_anxiété_**
-> _(nom féminin)_ malaise, tourment de l’esprit, stress, angoisse.
+- **_<a id="anxiété">anxiété</a>_**
+> _(nom féminin)_ malaise, tourment de l’esprit, stress, [angoisse](#angoisse).
 
 ## <a id="ap">_ap_</a> [&uarr;](#a)
 
@@ -310,8 +310,8 @@ d’un évènement, entrain, enjouement.
 - **_arithmancie_**
 > _(nom féminin)_ branche de la divination basée sur la numérologie.
 
-- **_armoiries_**
-> _(nom féminin)_ blason, emblème, armes d’une famille, d’une dynastie, d’une ville, d’un territoire, etc. ; elles sont couramment représentés sur un écu, _c.f._ l’héraldique.
+- **_<a id="armoiries">armoiries</a>_**
+> _(nom féminin)_ [blason](#blason), emblème, armes d’une famille, d’une dynastie, d’une ville, d’un territoire, etc. ; elles sont couramment représentés sur un écu, _c.f._ l’[héraldique](#héraldique).
 
 - **_arriviste_**
 > _(adjectif)_ profiteur, opportuniste, doté d’une ambition évidente fréquemment orientée vers un objectif d’ascension sociale.
@@ -404,8 +404,8 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 - **_bandit_**
 > _(nom masculin)_ vaurien, hors-la-loi, qui fait de son activité illégale sa principale source de revenue.
 
-- **_bannière_**
-> _(nom féminin)_ étendard, morceau de tissu attaché sur un support mobile ou non, sur lequel est tissé un blason, un logo, ou n’importe quel signe distinctif. Ce peut être évidemment un autre matériau que du tissu, comme du carton, du plastique, du bois, etc.
+- **_<a id="bannière">bannière</a>_**
+> _(nom féminin)_ [étendard](#étendard), morceau de tissu attaché sur un support mobile ou non, sur lequel est tissé un [blason](#blason), un logo, ou n’importe quel signe distinctif. Ce peut être évidemment un autre matériau que du tissu, comme du carton, du plastique, du bois, etc.
 
 - **_barbare_**
 > 1. _(nom masculin)_ étranger, précisément, n’appartenant pas au peuple grec.
@@ -480,9 +480,9 @@ on pourrait parler de “la faune et la flore”.
 > _(nom masculin)_ reproche sévère, souvent pour une raison grave ; condamnation solennelle,
 sanction.
 
-- **_blason_**
-> _(nom masculin)_ armoiries, emblème, symbole d’une maison ou d’un lieu, et qui peut se trouver
-aussi bien sur une bannière que sur une armure ou un château ; son étude est l’héraldique.
+- **_<a id="blason">blason</a>_**
+> _(nom masculin)_ [armoiries](#armoiries), emblème, symbole d’une maison ou d’un lieu, et qui peut se trouver
+aussi bien sur une [bannière](#bannière) que sur une armure ou un château ; son étude est l’[héraldique](#héraldique).
 
 ## <a id="bo">_bo_</a> [&uarr;](#b)
 
@@ -512,7 +512,7 @@ une branche, une feuille, une fleur ou un fruit ; le bourgeon germe au printemps
 > _(fig)_ se dit péjorativement d’un objet surdimensionné, mais creux.
 
 - **_boustifaille_**
-> _(nom féminin)_ repas copieux, fourni ; nourriture, bouffe.
+> _(nom féminin)_ repas [copieux](#copieux), fourni ; nourriture, bouffe.
 
 - **_boustrophédon_**
 > _(nom masculin)_ technique d’écriture basée sur l’alternance du sens de lecture à chaque
@@ -523,11 +523,14 @@ nouvelle ligne.
 - **_branquignole_**
 > _(adjectif)_ maladroit d’esprit, qui ne pense pas trop ses actions, pas franchement doué.
 
-- **_bravoure_**
-> _(nom féminin)_ courage, héroïsme au combat.
+- **_<a id="bravoure">bravoure</a>_**
+> _(nom féminin)_ [courage](#courage), héroïsme au combat.
 
 - **_brigand_**
 > _(nom masculin)_ bandit, voleur évoluant en bande, détrousseur.
+
+- **_brinicle_**
+> _(nom féminin)_ stalactite de glace formée par l'écoulement de [saumure](#saumure) extrêmement froide depuis la banquise dans l'eau qui se trouve dessous. 
 
 - **_brumeux_**
 > _(adjectif)_ assombri, enfoui dans la brume ;
@@ -660,8 +663,8 @@ certaines propriétés intéressantes pour l’être humain, sauf si elle prése
 - **_chahuter_**
 > _(verbe intransitif)_ s’amuser en pagaillant, semer le désordre, s’agiter excessivement.
 
-- **_charabia_**
-> _(nom masculin)_ galimatias, discours incompréhensible, qui n’a ni queue ni tête.
+- **_<a id="charabia">charabia</a>_**
+> _(nom masculin)_ [galimatias](#galimatias), discours incompréhensible, qui n’a ni queue ni tête.
 
 - **_charivari_**
 > _(nom masculin)_ coutume occidentale, fête associée à un mariage où lesdits mariés sont
@@ -877,10 +880,10 @@ rarement, théorie scientifique sur la genèse de l’univers.
 sont étrangers.
 
 - **_couiner_**
-> _(verbe intransitif)_ glapir, émettre une plainte craintive, pousser des cris timides.
+> _(verbe intransitif)_ [glapir](#glapir), émettre une plainte craintive, pousser des cris timides.
 
-- **_courage_**
-> _(nom masculin)_ bravoure, faculté d’un homme qui démontre un fidélité à ses convictions
+- **_<a id="courage">courage</a>_**
+> _(nom masculin)_ [bravoure](#bravoure), faculté d’un homme qui démontre une fidélité à ses convictions
 face à l’adversité et une prise de risque mesurée.
 
 - **_courtois_**
@@ -972,7 +975,7 @@ siècle sous l’impulsion de deux allemands ; il prône un anticonformisme, une
 liberté d’expression totale, un mépris du passé et un intérêt pour le présent.
 
 - **_dantesque_**
-> _(adjectif)_ infernal, apocalyptique, disproportionné, grandiose ; relatif à l’œuvre de
+> _(adjectif)_ infernal, apocalyptique, disproportionné, [grandiose](#grandiose) ; relatif à l’œuvre de
 Dante, et plus spécifiquement, à sa _Divine Comédie_.
 
 ## <a id="de">_de_</a> [&uarr;](#d)
@@ -1249,8 +1252,8 @@ avec style.
 > _(verbe transitif)_ expulser, évincer, libérer, écarter, éloigner.
 
 - **_emblème_**
-> _(nom masculin)_ symbole, blason, représentation, signe de ralliement à une faction
-généralement inscrit sur un étendard, un habit, un drapeau ou un bâtiment.
+> _(nom masculin)_ symbole, [blason](#blason), représentation, signe de ralliement à une faction
+généralement inscrit sur un [étendard](#étendard), un habit, un drapeau ou un bâtiment.
 
 - **_embrouillamini_**
 > _(nom masculin)_ embrouille, confusion, désordre, situation bordélique.
@@ -1391,8 +1394,8 @@ pétrole.
 > _(verbe transitif)_ soutenir une construction par des étais _; (fig)_ supporter une hypothèse par des
 arguments, soutenir une idée par des preuves, en apportant des faits.
 
-- **_étendard_**
-> _(nom masculin)_ drapeau, bannière.
+- **_<a id="étendard">étendard_</a>**
+> _(nom masculin)_ drapeau, [bannière](#bannière).
 
 - **_étymologie_**
 > _(nom féminin)_ étude de l’origine lexicale des mots, notamment via le découpage de ceux-ci
@@ -1519,7 +1522,7 @@ transposer.
 - **_farce_**
 > _(nom féminin)_ plaisanterie légère qui consiste en une mise en scène ridicule et grossière, acte de bouffonnerie ; genre théâtral mettant en scène un comique bas et grossier ; préparation culinaire constituée d’un hachis introduit dans un animal, un légume, ou un pâté, et cuit avec.
 
-- **_farfelu_**
+- **_<a id="farfelu">farfelu<a/>_**
 > _(adjectif)_ loufoque, extravagant, bizarre, fantaisiste, fantasque.
 
 - **_fascination_**
@@ -1602,8 +1605,8 @@ transposer.
 
 ## _fl_ [&uarr;](#f)
 
-- **_flaccide_**
-> _(adjectif)_ flasque, décrit un organe ou une partie du corps qui ne répond plus lentement ou moins intensément, suite à une pathologie.
+- **_<a id="flaccide">flaccide</a>_**
+> _(adjectif)_ [flasque](#flasque), décrit un organe ou une partie du corps qui ne répond plus lentement ou moins intensément, suite à une pathologie.
 
 - **_flacon_**
 > _(nom masculin)_ petite bouteille, communément faite de verre, qui est utilisée pour stocker du parfum, un liquide thérapeutique ou une substance destinée à l’expérimentation en chimie.
@@ -1612,8 +1615,8 @@ transposer.
 > _(verbe transitif)_ entourer une cible, se déplacer sur ses flancs ;
 > _(argot)_ foutre, mettre.
 
-- **_flasque_**
-> 1. _(adjectif)_ mou, flaccide, sans consistance ;
+- **_<a id="flasque">flasque</a>_**
+> 1. _(adjectif)_ mou, [flaccide](#flaccide), sans consistance ;
 > _(fig)_ se dit d’un être qui n’a que peu de caractère et de personnalité, qui est effacé et dépourvu d’énergie.
 > 2. _(nom féminin)_ petite bouteille plate servant à transporter de l’alcool sur soi.
 
@@ -1712,8 +1715,8 @@ transposer.
 > _(verbe transitif)_ battre quelqu'un à l'aide d'un bâton ;
 > _(fig)_ critiquer violemment, pointer du doigt sévèrement.
 
-- **_futaie_**
-> _(nom féminin)_ forêt composée de grands arbres dont les graines ont été semées, elle peut être naturelle comme artificielle ; elle s'oppose au taillis.
+- **_<a id="futaie">futaie</a>_**
+> _(nom féminin)_ forêt composée de grands arbres dont les graines ont été semées, elle peut être naturelle comme artificielle ; elle s'oppose au [taillis](#taillis).
 
 - **_futile_**
 > _(adjectif)_ superflu, d'une importance mineure, dont on peut se passer.
@@ -1744,8 +1747,8 @@ transposer.
 - **_galéjade_**
 > _(nom féminin)_ plaisanterie légère dans le Midi, histoire fabriquée de toute pièce pour tromper quelqu'un.
 
-- **_galimatias_**
-> _(nom masculin)_ propos incompréhensible, confus sémantiquement et incohérent ; charabia.
+- **_<a id="galimatias">galimatias</a>_**
+> _(nom masculin)_ propos incompréhensible, confus sémantiquement et incohérent ; [charabia](#charabia).
 
 - **_galvaniser_**
 > _(verbe transitif)_ déclencher l'enthousiasme d'un être ou d'un groupe, encourager une foule à l'action par un discours basé sur l'émotion.
@@ -1810,11 +1813,11 @@ transposer.
 
 ## <a id="gl">_gl_</a> [&uarr;](#g)
 
-- **_glapir_**
+- **_<a id="glapir">glapir</a>_**
 > _(verbe intransitif)_ action correspondant au cri du renard.
 
 - **_glauque_**
-> _(adjectif)_ malsain voire macabre, se dit d’un objet provocant un mal-être excessif ; de couleur proche du vert bleu, apparentée à la mer.
+> _(adjectif)_ malsain, voire [macabre](#macabre), se dit d’un objet provocant un mal-être excessif ; de couleur proche du vert bleu, apparentée à la mer.
 
 - **_glousser_**
 > _(verbe intransitif)_ correspond au cri de la poule ;
@@ -1837,10 +1840,10 @@ transposer.
 ## <a id="gr">_gr_</a> [&uarr;](#g)
 
 - **_grandiloquent_**
-> _(adjectif)_ excessivement grandiose et solennel, se dit d’un discours pompeux, plein de
+> _(adjectif)_ excessivement [grandiose](#grandiose) et solennel, se dit d’un discours pompeux, plein de
 grandes expressions.
 
-- **_grandiose_**
+- **_<a id="grandiose">grandiose</a>_**
 > _(adjectif)_ qui a de la grandeur en abondance, majestueux.
 
 - **_gravats_**
@@ -1899,19 +1902,19 @@ grandes expressions.
 > _(fig)_ faire la morale longuement et péniblement.
 
 - **_hardiesse_**
-> _(nom féminin)_ bravoure, courage, qualité de celui ou celle qui ose affronter le péril, de quelqu’un qui « n’a pas froid aux yeux ».
+> _(nom féminin)_ [bravoure](#bravoure), [courage](#courage), qualité de celui ou celle qui ose affronter le péril, de quelqu’un qui « n’a pas froid aux yeux ».
 
 - **_harmonie_**
 > _(nom féminin)_ enchaînement d’accords musicaux, combinaison de sonorités plaisante à l’écoute ;
-> _(fig)_ osmose, grande stabilité, qualité de ce qui va bien ensemble.
+> _(fig)_ [osmose](#osmose), grande stabilité, qualité de ce qui va bien ensemble.
 
 - **_hautain_** 
 > _(adjectif)_ se dit de quelqu’un qui prend de haut, de pédant voire méprisant.
 
 ## <a id="he">_he_</a> [&uarr;](#h)
 
-- **_héraldique_**
-> _(nom féminin)_ étude des armoiries, des blasons. (adjectif) relatif aux armoiries, aux blasons.
+- **_<a id="héraldique">héraldique</a>_**
+> _(nom féminin)_ étude des [armoiries](#armoiries), des [blasons](#blason). (adjectif) relatif aux armoiries, aux blasons.
 
 - **_hérétique_**
 > 1. _(adjectif)_ qui transgresse la foi institutionnelle et est condamné par l’Église ;
@@ -1969,7 +1972,7 @@ grandes expressions.
 > _(nom féminin)_ agitation de la mer après le passage d’une tempête.
 
 - **_houspiller_**
-> _(verbe transitif)_ gronder, réprimander, harceler quelqu’un de reproches.
+> _(verbe transitif)_ gronder, [réprimander](#réprimander), harceler quelqu’un de reproches.
 
 ## <a id="hu">_hu_</a> [&uarr;](#h)
 
@@ -2071,7 +2074,9 @@ _e.g._ faire une crise d'hystérie.
 - **_indécent_**
 > _(adjectif)_ qui ne convient pas aux normes de la décence, _i.e._ de ce qui est acceptable moralement dans un contexte donné.
 
-indigeste
+- **_indigeste_**
+> _(adjectif)_ qui se digère mal ou pas du tout pour un aliment ;
+> _(fig)_ lourd, pénible, en particulier pour un texte.
 
 indolore
 
@@ -2265,7 +2270,7 @@ luminescent
 
 # M
 
-macabre
+<a id="macabre">macabre</a>
 
 mâchicoulis
 
@@ -2465,6 +2470,8 @@ oriflamme
 
 ornement
 
+<a id="osmose">osmose</a>
+
 ostentatoire
 
 oubliette
@@ -2615,7 +2622,7 @@ rafistoler
 
 raillerie
 
-rancoeur
+rancœur
 
 rapière
 
@@ -2633,7 +2640,7 @@ réflexion
 
 régicide
 
-réprimander
+<a id="réprimander">réprimander</a>
 
 répudier
 
@@ -2691,9 +2698,13 @@ sarabande
 
 satiété
 
+<a id="saumure">saumure</a>
+
 scaphandrier
 
 scintiller
+
+séculaire
 
 sémantique
 
@@ -2704,7 +2715,6 @@ serpe
 silence
 
 sinople
-
 
 smaragdin
 
@@ -2738,6 +2748,8 @@ suif
 
 sultanat
 
+superflu
+
 suppurer
 
 svelte
@@ -2756,7 +2768,7 @@ synonyme
 
 # T
 
-taillis
+<a id="taillis">taillis</a>
 
 talent
 
@@ -2787,6 +2799,8 @@ tintinnabuler
 tradition
 
 trille
+
+<a id="trône">trône</a>
 
 truculent
 
