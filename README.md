@@ -1394,7 +1394,7 @@ pétrole.
 > _(verbe transitif)_ soutenir une construction par des étais _; (fig)_ supporter une hypothèse par des
 arguments, soutenir une idée par des preuves, en apportant des faits.
 
-- **_<a id="étendard">étendard_</a>**
+- **_<a id="étendard">étendard</a>_**
 > _(nom masculin)_ drapeau, [bannière](#bannière).
 
 - **_étymologie_**
