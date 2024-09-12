@@ -283,7 +283,7 @@ d’un évènement, entrain, enjouement.
 > _(nom féminin)_ goût pour un domaine, inclination pour une discipline.
 
 - **_appoggiature_**
-> _(nom féminin)_ ornement musical qui consiste à retarder une note, en jouant une très courte note, ordinairement étrangère à l’harmonie du morceau, juste avant celle-ci, par exemple une triple croche.
+> _(nom féminin)_ [ornement](#ornement) musical qui consiste à retarder une note, en jouant une très courte note, ordinairement étrangère à l’harmonie du morceau, juste avant celle-ci, par exemple une triple croche.
 
 - **_appréhension_**
 > _(nom féminin)_ anxiété en vue d’un évènement proche, dont l’issue nous est floue et relève d’une certaine importance, on parle alors de “degré d’appréhension” d’une personne.
@@ -296,7 +296,7 @@ d’un évènement, entrain, enjouement.
 ## <a id="ar">_ar_</a> [&uarr;](#a)
 
 - **_arabesque_**
-> _(nom féminin)_ ornement constitué d’un motif répété, souvent peint ou sculpté, représentant un ou plusieurs végétaux ; en danse classique, désigne une position codifiée.
+> _(nom féminin)_ [ornement](#ornement) constitué d’un motif répété, souvent peint ou sculpté, représentant un ou plusieurs végétaux ; en danse classique, désigne une position codifiée.
 
 - **_arborescence_**
 > _(nom féminin)_ structure hiérarchique en arbre, utilisée en théorie des graphes, qui comporte une racine, des nœuds et des feuilles ; en informatique, elle est notamment utilisée pour représenter l’organisation du système de fichiers, ou des données en mémoire.
@@ -1386,11 +1386,11 @@ est débarrassé de son enveloppe et de tout artifice, et qui définit ce corps 
 pétrole.
 
 - **_esthétique_**
-> _(adjectif)_ beau, plaisant visuellement, recherché ; décoratif, ornemental.
+> _(adjectif)_ beau, plaisant visuellement, recherché ; décoratif, [ornemental](#ornement).
 
 - **_estoc_**
-> _(adjectif)_ en escrime, caractérise un coup porté par la pointe de l’épée (nom masculin) pointe d’une
-épée ; arme blanche frappant de pointe.
+> 1. _(adjectif)_ en escrime, caractérise un coup porté par la pointe de l’épée.
+> 2. _(nom masculin)_ pointe d’une épée ; arme blanche frappant de pointe.
 
 ## <a id="et">_et_</a> [&uarr;](#e)
 
@@ -1447,7 +1447,7 @@ c’est une pratique essentiellement religieuse.
 - **_exhibition_**
 > _(nom féminin)_ exposition, affichage, dévoilement.
 
-- **_exigu_**
+- **_<a id="exigu">exigu</a>_**
 > _(adjectif)_ très étroit, réduit, petit, limité, restreint.
 
 - **_exil_**
@@ -1487,7 +1487,15 @@ transposer.
 
 # <a id="f"><center>F</center></a>
 
-## _fa_ [&uarr;](#f)
+> [fa](#fa) -
+[fe](#fe) -
+[fi](#fi) -
+[fl](#fl) -
+[fo](#fo) -
+[fr](#fr) -
+[fu](#fu)
+
+## _<a id="fa">fa</a>_ [&uarr;](#f)
 
 - **_<a id="facétieux">facétieux</a>_**
 > _(adjectif)_ [espiègle](#espiègle), malicieux, taquin.
@@ -1507,6 +1515,10 @@ transposer.
 - **_<a id="famélique">famélique</a>_**
 > _(adjectif)_ [rachitique](#rachitique), d’une extrême maigreur, qui a la peau sur les os.
 
+- **_<a id="faner">faner</a>_**
+> 1. _(verbe transitif)_ faire perdre de son éclat à une fleur, par les rayons d'un Soleil écrasant par exemple.
+> 2. _(forme pronominale)_ se [flétrir](#flétrir) pour une fleur ; _(fig)_ dépérir, vieillir.
+
 - **_fanfaronnade_**
 > _(nom féminin)_ plastronnade, exhibition passagère de vanité, parole prétentieuse ; acte de fanfaronner.
 
@@ -1517,7 +1529,7 @@ transposer.
 - **_fanion_**
 > _(nom masculin)_ petit drapeau triangulaire attaché en série à une ficelle.
 
-- **_fantasque_**
+- **_<a id="fantasque">fantasque</a>_**
 > _(adjectif)_ d’humeur fantaisiste et imprévisible, lunatique, capricieux.
 
 - **_faquin_**
@@ -1527,7 +1539,7 @@ transposer.
 > _(nom féminin)_ plaisanterie légère qui consiste en une mise en scène ridicule et grossière, acte de bouffonnerie ; genre théâtral mettant en scène un comique bas et grossier ; préparation culinaire constituée d’un hachis introduit dans un animal, un légume, ou un pâté, et cuit avec.
 
 - **_<a id="farfelu">farfelu</a>_**
-> _(adjectif)_ loufoque, extravagant, bizarre, fantaisiste, fantasque.
+> _(adjectif)_ loufoque, extravagant, bizarre, fantaisiste, [fantasque](#fantasque).
 
 - **_fascination_**
 > _(nom féminin)_ intérêt excessif pour une chose, à l’origine d’un profond sentiment de désir et d’inexorable attirance pour ladite chose ; la fascination n’est pas une forme d’admiration exacerbée, en effet, l’on peut être fasciné par la puissance destructrice d’une bombe nucléaire sans pour autant l’admirer.
@@ -1555,7 +1567,7 @@ transposer.
 - **_faussaire_**
 > _(nom masculin)_ reproducteur d’œuvres ou d’objets originaux, créateur de faux.
 
-## _fe_ [&uarr;](#f)
+## _<a id="fe">fe</a>_ [&uarr;](#f)
 
 - **_fédéral_**
 > _(adjectif)_ se dit d’une entité administrative composée de multiples sous-entités possédant chacune une certaine autonomie législative et judiciaire, mais soumises à une constitution commune.
@@ -1587,7 +1599,7 @@ transposer.
 - **_feutre_**
 > _(nom féminin)_ instrument de dessin et d’écriture, fonctionnant par dépôt permanent d’encre surune surface ; catégorie de chapeau ; textile non-tissé issu de fibres naturelles et éventuellement d’un traitement chimique supplémentaire.
 
-## _fi_ [&uarr;](#f)
+## _<a id="fi">fi</a>_ [&uarr;](#f)
 
 - **_fiduciaire_**
 > _(adjectif)_ qualifie la monnaie dite “liquide”, dont le montant est indiqué sur le billet ou la pièce en circulation ; qui est basé sur la confiance.
@@ -1602,12 +1614,12 @@ transposer.
 > _(verbe transitif)_ comprendre, saisir, trouver, découvrir, mettre à jour ; faire de la figuration.
 
 - **_fioriture_**
-> _(nom féminin)_ ornement, décoration, qui surcharge la pièce d’origine ; par extension, détail sans importance.
+> _(nom féminin)_ [ornement](#ornement), décoration, qui surcharge la pièce d’origine ; par extension, détail sans importance.
 
 - **_fistule_**
 > _(nom féminin)_ jonction anormale d’une cavité d’un corps animal, soit avec une autre cavité de ce corps ou avec l’extérieur directement.
 
-## _fl_ [&uarr;](#f)
+## _<a id="fl">fl</a>_ [&uarr;](#f)
 
 - **_<a id="flaccide">flaccide</a>_**
 > _(adjectif)_ [flasque](#flasque), décrit un organe ou une partie du corps qui ne répond plus lentement ou moins intensément, suite à une pathologie.
@@ -1627,11 +1639,13 @@ transposer.
 - **_flavescent_**
 > _(adjectif)_ qui tire sur le blond, mordoré.
 
-- **_flétrir_**
-> _(verbe intransitif)_ châtier, punir, battre ; faner, dépérir, diminuer.
+- **_<a id="flétrir">flétrir</a>_**
+> _(verbe intransitif)_
+> 1. châtier, punir, battre.
+> 2. [faner](#faner), dépérir, diminuer.
 
 - **_fleuron_**
-> _(nom masculin)_ ornement dépeignant une fleur ;
+> _(nom masculin)_ [ornement](#ornement) dépeignant une fleur ;
 > _(fig)_ le meilleur élément d’un domaine, d’une catégorie.
 
 - **_flore_**
@@ -1643,7 +1657,7 @@ transposer.
 - **_fluorescent_**
 > _(adjectif)_ qui brille dans l’obscurité, qui émet naturellement une lumière.
 
-## _fo_ [&uarr;](#f)
+## _<a id="fo">fo</a>_ [&uarr;](#f)
 
 - **_foison_**
 > _(nom féminin)_ grande abondance.
@@ -1667,7 +1681,7 @@ transposer.
 - **_foyer_**
 > _(nom masculin)_ âtre, emplacement destiné au feu de cheminée ; par extension, pièce principale d’une habitation, la plus vivante, et où se trouvait systématiquement la cheminée à l’époque ; point d’origine d’un séisme, à partir duquel il se propage.
 
-## _fr_ [&uarr;](#f)
+## _<a id="fr">fr</a>_ [&uarr;](#f)
 
 - **_fragment_**
 > _(nom masculin)_ morceau, pièce issue de la fission, souvent non prévue, d'un objet.
@@ -1701,7 +1715,7 @@ transposer.
 > _(nom féminin)_ sentiment désagréable lié à une situation irrésoluble, soit par manque de pouvoir, soit par manque de vouloir.
 
 
-## _fu_ [&uarr;](#f)
+## _<a id="fu">fu</a>_ [&uarr;](#f)
 
 - **_fulminant_**
 > _(adjectif)_ se dit d'une substance dont l'explosion s'accompagne d'un bruit assourdissant et d'un éclair ;
@@ -1834,7 +1848,7 @@ transposer.
 ## <a id="go">_go_</a> [&uarr;](#g)
 
 - **_goulet_**
-> _(nom masculin)_ rétrécissement, accès étroit d’un port, allée exiguë ; _e.g._ goulet d’étranglement.
+> _(nom masculin)_ rétrécissement, accès étroit d’un port, allée [exiguë](#exigu) ; _e.g._ goulet d’étranglement.
 
 - **_goupil_**
 > _(nom masculin)_ ancien nom du renard.
@@ -1989,7 +2003,7 @@ grandes expressions.
 > _(fig)_ en vogue, prisé, chez les classes sociales les plus aisées.
 
 - **_hurluberlu_**
-> _(nom masculin)_ individu fantasque, drôle de personnage.
+> _(nom masculin)_ individu [fantasque](#fantasque), drôle de personnage.
 
 ## <a id="hy">_hy_</a> [&uarr;](#h)
 
@@ -2083,11 +2097,15 @@ _e.g._ faire une crise d'hystérie.
 > _(adjectif)_ qui se digère mal ou pas du tout pour un aliment ;
 > _(fig)_ lourd, pénible, en particulier pour un texte.
 
-indolore
+- **_indolore_**
+> _(adjectif)_ qui ne provoque aucune douleur, _e.g._ un procédé indolore.
 
-indulgent
+- **_indulgent_**
+> _(adjectif)_ se dit de quelqu'un de patient avec les erreurs et de pardonnant avec les torts ;
+> laxiste.
 
-inflorescence
+- **_inflorescence_**
+> _(nom féminin)_ mode de regroupement des fleurs d'une plante.
 
 infrastructure
 
@@ -2252,6 +2270,8 @@ liturgie
 logorrhée
 
 louer
+
+loufoque
 
 loyauté
 
@@ -2477,7 +2497,7 @@ orifice
 
 oriflamme
 
-ornement
+<a id="ornement">ornement</a>
 
 <a id="osmose">osmose</a>
 
