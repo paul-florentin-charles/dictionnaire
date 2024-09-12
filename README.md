@@ -1526,7 +1526,7 @@ transposer.
 - **_farce_**
 > _(nom féminin)_ plaisanterie légère qui consiste en une mise en scène ridicule et grossière, acte de bouffonnerie ; genre théâtral mettant en scène un comique bas et grossier ; préparation culinaire constituée d’un hachis introduit dans un animal, un légume, ou un pâté, et cuit avec.
 
-- **_<a id="farfelu">farfelu<a/>_**
+- **_<a id="farfelu">farfelu</a>_**
 > _(adjectif)_ loufoque, extravagant, bizarre, fantaisiste, fantasque.
 
 - **_fascination_**
