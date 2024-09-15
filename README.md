@@ -50,11 +50,10 @@
 ## <a id="ab">_ab_</a> [&uarr;](#a)
 
 - **_<a id="abbaye">abbaye</a>_**
-> _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du [clergé](#clergé) régulier, par opposition au clergé séculier qui fait le lien entre Dieu et la population.
+> _(nom féminin)_ complexe religieux catholique dédié à la vie d’isolement du [clergé](#clergé) régulier, par opposition au clergé [séculier](#séculier) qui fait le lien entre Dieu et la population.
 
 - **_abdiquer_**
-> 1. _(verbe transitif)_ renoncer à son [trône](#trône) pour un roi, ou de manière plus élargie, se retirer volontairement d’une position de pouvoir. 
->
+> 1. _(verbe transitif)_ renoncer à son [trône](#trône) pour un roi, ou de manière plus élargie, se retirer volontairement d’une position de pouvoir.
 > 2. _(verbe intransitif)_ abandonner une entreprise, un projet en cours.
 
 - **_abominable_**
@@ -283,7 +282,7 @@ d’un évènement, entrain, enjouement.
 > _(nom féminin)_ goût pour un domaine, inclination pour une discipline.
 
 - **_appoggiature_**
-> _(nom féminin)_ [ornement](#ornement) musical qui consiste à retarder une note, en jouant une très courte note, ordinairement étrangère à l’harmonie du morceau, juste avant celle-ci, par exemple une triple croche.
+> _(nom féminin)_ [ornement](#ornement) musical qui consiste à retarder une note, en jouant une très courte note, ordinairement étrangère à l’[harmonie](#harmonie) du morceau, juste avant celle-ci, par exemple une triple croche.
 
 - **_appréhension_**
 > _(nom féminin)_ anxiété en vue d’un évènement proche, dont l’issue nous est floue et relève d’une certaine importance, on parle alors de “degré d’appréhension” d’une personne.
@@ -586,7 +585,7 @@ musulman.
 > _(fig)_ étroit d’esprit, manquant de clairvoyance.
 
 - **_callipyge_** 
-> _(adjectif)_ se dit d'un être aux belles fesses, aux proportions harmonieuses.
+> _(adjectif)_ se dit d'un être aux belles fesses, aux proportions [harmonieuses](#harmonie).
 
 - **_candaulisme_**
 > _(nom masculin)_ pratique sexuelle à travers laquelle un homme prend du plaisir en
@@ -732,7 +731,7 @@ abeilles pour construire leur ruche.
 - **_cithare_**
 > _(nom féminin)_ instrument musical à cordes, particulièrement présent au sein du folklore
 autrichien ; sa particularité est d’offrir des cordes individuelles “aiguës” dédiées à la mélodie, et
-des groupes de quatre cordes dédiés à l’harmonie, plus graves ; sa caisse de résonance est
+des groupes de quatre cordes dédiés à l’[harmonie](#harmonie), plus graves ; sa caisse de résonance est
 trapézoïdale.
 
 ## <a id="cl">_cl_</a> [&uarr;](#c)
@@ -746,11 +745,11 @@ déduction, intuition juste.
 compte-gouttes dans un vase.
 
 - **_<a id="clergé">clergé</a>_**
-> _(nom masculin)_ ensemble des institutions cléricales de la religion chrétienne, dont on distingue souvent
-> le clergé dit "régulier" (isolé, proche de Dieu) et celui dit "séculier" (social, proche des croyants).
+> _(nom masculin)_ ensemble des institutions [cléricales](#clérical) de la religion chrétienne, dont on distingue souvent
+> le clergé dit "régulier" (isolé, proche de Dieu) et celui dit "[séculier](#séculier)" (social, proche des croyants).
 
-- **_clérical_**
-> _(adjectif)_ relatif au [clergé](#clergé), religieux, en lien avec l’institution religieuse catholique.
+- **_<a id="clérical">clérical</a>_**
+> _(adjectif)_ [ecclésiastique](#ecclésiastique), relatif au [clergé](#clergé), en lien avec l’Église.
 
 - **_clivage_**
 > _(nom masculin)_ fissure d’un cristal ;
@@ -777,7 +776,7 @@ personne, pour l’obliger à agir ou lui en empêcher.
 collecter des métaux, des déchets, des données, etc.
 
 - **_collusion_**
-> _(nom féminin)_ fusion, harmonie, connivence, intersection d’intérêts.
+> _(nom féminin)_ fusion, [harmonie](#harmonie), connivence, intersection d’intérêts.
 
 - **_colossal_**
 > _(adjectif)_ immense, gigantesque, extrêmement imposant ; dérive de “colosse”, statue
@@ -921,7 +920,7 @@ créneaux est appelé merlon.
 - **_<a id="crique">crique</a>_**
 > _(nom féminin)_ petite baie, [anse](#anse), [échancrure](#échancrure).
 
-- **_cristallin_**
+- **_<a id="cristallin">cristallin</a>_**
 > _(adjectif)_ pur comme le cristal, transparent, lisse, régulier ; peut aussi bien caractériser
 une voix qu’une matière.
 
@@ -1165,8 +1164,8 @@ n’importe quel facteur peut-être la raison de cette régression de l’humani
 
 ## <a id="eb">_eb_</a> [&uarr;](#e)
 
-- **_ébauche_**
-> _(nom féminin)_ approximation, esquisse, essai, squelette, tentative grossière, croquis.
+- **_<a id="ébauche">ébauche</a>_**
+> _(nom féminin)_ approximation, [esquisse](#esquisse), essai, squelette, tentative grossière, croquis.
 
 - **_ébriété_**
 > _(nom féminin)_ qualifie l’état d’une personne sous l’emprise de l’alcool, par opposition à la
@@ -1174,8 +1173,8 @@ sobriété.
 
 ## <a id="ec">_ec_</a> [&uarr;](#e)
 
-- **_ecclésiastique_**
-> _(adjectif)_ propre à l’Église.
+- **_<a id="ecclésiastique">ecclésiastique</a>_**
+> _(adjectif)_ propre à l’Église, relatif au [clergé](#clergé).
 
 - **_<a id="échancrure">échancrure</a>_**
 > _(nom féminin)_ enfoncement de la mer dans le rivage, [crique](#crique), [anse](#anse) ;
@@ -1264,15 +1263,15 @@ généralement inscrit sur un [étendard](#étendard), un habit, un drapeau ou u
 
 - **_embryon_**
 > _(nom masculin)_ stade initial de développement d’un ovocyte fraîchement fécondé,
-d’une durée avoisinant deux mois ; _(fig)_ ébauche, esquisse, prototype, se dit d’un projet à un
+d’une durée avoisinant deux mois ; _(fig)_ [ébauche](#ébauche), [esquisse](#esquisse), prototype, se dit d’un projet à un
 stade de développement prématuré.
 
 - **_embûche_**
 > _(nom féminin)_ obstacle, épreuve, difficulté.
 
 - **_émeraude_**
-> _(nom féminin)_ pierre précieuse communément verte (adjectif) d’un vert cristallin et
-pur comme l’émeraude.
+> 1. _(nom féminin)_ pierre précieuse communément verte.
+> 2. _(adjectif)_ d’un vert [cristallin](#cristallin) et pur comme la pierre éponyme.
 
 ## <a id="en">_en_</a> [&uarr;](#e)
 
@@ -1377,8 +1376,9 @@ mensonge et la manipulation.
 - **_<a id="espiègle">espiègle</a>_**
 > _(adjectif)_ malicieux, [facétieux](#facétieux), taquin, coquin.
 
-- **_esquisse_**
-> _(nom féminin)_ croquis, ébauche, approximation.
+- **_<a id="esquisse">esquisse</a>_**
+> _(nom féminin)_ dans les arts picturaux, premiers essais d'une œuvre afin d'en former une base, un squelette ;
+> croquis, [ébauche](#ébauche), approximation.
 
 - **_essence_**
 > _(nom féminin)_ substance fondamentale, cœur même d’un objet, ce qui subsiste lorsqu’un corps
@@ -1422,7 +1422,7 @@ est contenue dans un noyau délimité par une membrane nucléaire, par oppositio
 savoir la conversion à son Église des infidèles ou des croyants non chrétiens.
 
 - **_évêque_**
-> _(nom masculin)_ personnage du [clergé](#clergé) séculier dans l’Église chrétienne, ayant autorité sur un
+> _(nom masculin)_ personnage du [clergé](#clergé) [séculier](#séculier) dans l’Église chrétienne, ayant autorité sur un
 diocèse, on qualifie sa fonction d’épiscopale.
 
 - **_<a id="évincer">évincer</a>_**
@@ -1825,7 +1825,7 @@ transposer.
 ## <a id="gi">_gi_</a> [&uarr;](#g)
 
 - **_gibier_**
-> _(nom masculin)_ espèces d’animaux habituellement chassées.
+> _(nom masculin)_ espèces d’animaux habituellement chassées, produit de la chasse.
 
 - **_ginseng_**
 > _(nom masculin)_ plante d’origine est-asiatique.
@@ -1923,12 +1923,12 @@ grandes expressions.
 - **_hardiesse_**
 > _(nom féminin)_ [bravoure](#bravoure), [courage](#courage), qualité de celui ou celle qui ose affronter le péril, de quelqu’un qui « n’a pas froid aux yeux ».
 
-- **_harmonie_**
+- **_<a id="harmonie">harmonie</a>_**
 > _(nom féminin)_ enchaînement d’accords musicaux, combinaison de sonorités plaisante à l’écoute ;
 > _(fig)_ [osmose](#osmose), grande stabilité, qualité de ce qui va bien ensemble.
 
 - **_hautain_** 
-> _(adjectif)_ se dit de quelqu’un qui prend de haut, de pédant voire méprisant.
+> _(adjectif)_ se dit de quelqu’un qui prend de haut, de pédant, voire méprisant.
 
 ## <a id="he">_he_</a> [&uarr;](#h)
 
@@ -2107,7 +2107,13 @@ _e.g._ faire une crise d'hystérie.
 - **_inflorescence_**
 > _(nom féminin)_ mode de regroupement des fleurs d'une plante.
 
-infrastructure
+- **_infrastructure_**
+> _(nom féminin)_ 
+> 1. fondations d'une structure.
+> 2. nom générique donné à un groupement d'édifices ayant une finalité commune,
+> _e.g._ l'infrastructure sportive d'une ville peut comprendre une piscine, un gymnase, un terrain de football, etc. ;
+> _(par extension)_ peut concerner tout groupement d'équipements techniques ou sociaux-économiques,
+> _e.g._ l'infrastructure réseau d'une entreprise.
 
 infundibuliforme
 
@@ -2593,6 +2599,11 @@ prodigieux
 
 prodigue
 
+- **_<a id="profane">profane</a>_**
+> 1. _(adjectif)_ qui n'est pas sacré.
+> 2. _(nom masculin/féminin)_ quelqu'un ne faisant pas partie du [clergé](#clergé) ;
+> _(fig)_ quelqu'un qui n'est pas initié à une activité ou qui n'a pas la connaissance d'une chose.
+
 prolepse
 
 prosélytisme
@@ -2711,7 +2722,21 @@ rustique
 
 ---
 
-# S
+# <a id="s"><center>S</center></a>
+
+> [sa](#sa) -
+[sc](#sc) -
+[se](#se) -
+[si](#si) -
+[sm](#sm) -
+[sp](#sp) -
+[so](#so) -
+[st](#st) -
+[su](#su) -
+[sv](#sv) -
+[sy](#sy)
+
+## _<a id="sa">sa</a>_ [&uarr;](#s)
 
 sacrement
 
@@ -2731,11 +2756,19 @@ satiété
 
 <a id="saumure">saumure</a>
 
+## _<a id="sc">sc</a>_ [&uarr;](#s)
+
 scaphandrier
 
 scintiller
 
+## _<a id="se">se</a>_ [&uarr;](#s)
+
 séculaire
+
+- **_<a id="séculier">séculier</a>_**
+> _(adjectif)_ se dit du [clergé](#clergé) qui "vit dans le siècle", proche des croyants, par opposition au clergé régulier ;
+> _(par extension)_ [profane](#profane), laïc.
 
 sémantique
 
@@ -2743,13 +2776,21 @@ sentient
 
 serpe
 
+## _<a id="si">si</a>_ [&uarr;](#s)
+
 silence
 
 sinople
 
+## _<a id="sm">sm</a>_ [&uarr;](#s)
+
 smaragdin
 
+## _<a id="sp">sp</a>_ [&uarr;](#s)
+
 spiritueux
+
+## _<a id="so">so</a>_ [&uarr;](#s)
 
 sobriété
 
@@ -2763,11 +2804,13 @@ soupirer
 
 sournois
 
-supputer
+## _<a id="st">st</a>_ [&uarr;](#s)
 
 stellaire
 
 stoïque
+
+## _<a id="su">su</a>_ [&uarr;](#s)
 
 suave
 
@@ -2783,7 +2826,13 @@ superflu
 
 suppurer
 
+supputer
+
+## _<a id="sv">sv</a>_ [&uarr;](#s)
+
 svelte
+
+## _<a id="sy">sy</a>_ [&uarr;](#s)
 
 sycomore
 
