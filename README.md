@@ -272,8 +272,8 @@ d’un évènement, entrain, enjouement.
 - **_apostasie_**
 > _(nom féminin)_ désertion par un pratiquant de sa religion, rejet public de sa foi.
 
-- **_apostolat_**
-> _(nom masculin)_ évangéliste, religieux voyageant afin de transmettre sa foi à des non-croyants ou “mal-croyants”, et ayant pour finalité la conversion solennelle de ceux-ci.
+- **_<a id="apostolat">apostolat</a>_**
+> _(nom masculin)_ [évangéliste](#évangéliste), religieux voyageant afin de transmettre sa foi à des non-croyants ou “mal-croyants”, et ayant pour finalité la conversion solennelle de ceux-ci.
 
 - **_apothéose_**
 > _(nom féminin)_ paroxysme, apogée, point culminant qui frôle la perfection.
@@ -503,7 +503,7 @@ puissant, souvent corrélé avec un état de tristesse, de vide, qui suit ledit 
 “bouleversifiant”, est à ce jour inconnue du grand public.
 
 - **_bourgeon_**
-> _(nom masculin)_ excroissance situé sur l’une des extrémités d’une plante, et qui donnera lieu à
+> _(nom masculin)_ excroissance située sur l’une des extrémités d’une plante, et qui donnera lieu à
 une branche, une feuille, une fleur ou un fruit ; le bourgeon germe au printemps.
 
 - **_boursouflé_**
@@ -565,13 +565,14 @@ nouvelle ligne.
 lieu.
 
 - **_calcaire_**
-> 1. _(nom masculin)_ roche sédimentaire soluble dans l’eau ;
->
-> 2. _(adjectif)_ qui contient du carbonate de
-sodium.
+> 1. _(nom masculin)_ roche sédimentaire soluble dans l’eau.
+> 2. _(adjectif)_ qui contient du carbonate de sodium.
 
 - **_calcifier_**
 > _(verbe transitif)_ transformer en sels de calcium.
+
+- **_calciner_**
+> _(verbe transitif)_ 
 
 - **_calfeutrer_**
 > _(verbe transitif)_ boucher, obstruer.
@@ -607,19 +608,17 @@ particulièrement à la moindre envie refoulée ; décrit ordinairement un compo
 d’un clavier ; c’est un instrument religieux que l’on retrouve fréquemment dans des clochers.
 
 - **_carmin_**
-> 1. _(adjectif)_ rouge foncé, de la couleur de la chair ;
->
-> 2. _(nom masculin)_ pigment de couleur rouge
-bordeaux.
+> 1. _(adjectif)_ rouge foncé, de la couleur de la chair.
+> 2. _(nom masculin)_ pigment de couleur rouge bordeaux.
 
 - **_carnaval_**
 > _(nom masculin)_ fête populaire de tradition occidentale chrétienne, où il est commun de
-déambuler dans les rues accoutré d’un costume adapté au thème présent ; un des plus célèbres
+déambuler dans les rues, accoutré d’un costume adapté au thème présent ; un des plus célèbres
 carnavals a lieu le Mardi gras.
 
 - **_caste_**
 > _(nom féminin)_ ensemble de personnes partageant les mêmes privilèges, et se définissant par
-rapport à d’autres castes, placées au dessus ou en dessous d’elle en terme de hiérarchie.
+rapport à d’autres castes, placées au-dessus ou en dessous d’elle en termes de hiérarchie.
 
 - **_castel_**
 > _(nom masculin)_ forme ancienne du mot château.
@@ -670,7 +669,7 @@ certaines propriétés intéressantes pour l’être humain, sauf si elle prése
 bruyamment chahutés ; par extension, vacarme, brouhaha.
 
 - **_charlatan_**
-> _(nom masculin)_ escroc, arnaqueur, entubeur, homme qui ment à des fins commerciales,
+> _(nom masculin)_ [escroc](#escroc), arnaqueur, entubeur, homme qui ment à des fins commerciales,
 extirpant l’argent de ses crédules clients.
 
 - **_charnel_**
@@ -980,14 +979,14 @@ Dante, et plus spécifiquement, à sa _Divine Comédie_.
 ## <a id="de">_de_</a> [&uarr;](#d)
 
 - **_décadence_**
-> _(nom féminin)_ phase d’une société qui se traduit par un effondrement des moeurs,
-une immoralité omniprésente, aussi bien chez la classe politique que chez le peuple, un déclin
+> _(nom féminin)_ phase d’une société qui se traduit par un effondrement des mœurs,
+une immoralité omniprésente, aussi bien chez la classe politique que chez le peuple, un [déclin](#déclin)
 économique évident, une éducation fragilisée, etc.
 
 - **_déceler_**
 > _(verbe transitif)_ détecter, repérer, trouver.
 
-- **_déclin_**
+- **_<a id="déclin">déclin</a>_**
 > _(nom masculin)_ descente, diminution, affaiblissement, chute ; antagoniste de l’apogée.
 
 - **_décret_**
@@ -1051,7 +1050,7 @@ chevaux montés par les chevaliers.
 - **_désuet_**
 > _(adjectif)_ se dit d’un mot qui n’est plus employé dans la langue française
 qu’anecdotiquement, tandis qu’il l’était couramment à une certaine époque ; qui n’est plus usité,
-passé de mode, vieilli.
+passé de mode, vieilli, [suranné](#suranné).
 
 - **_détresse_**
 > _(nom féminin)_ désespoir, désarroi.
@@ -1271,7 +1270,10 @@ stade de développement prématuré.
 
 - **_émeraude_**
 > 1. _(nom féminin)_ pierre précieuse communément verte.
-> 2. _(adjectif)_ d’un vert [cristallin](#cristallin) et pur comme la pierre éponyme.
+> 2. _(adjectif)_ d’un vert [cristallin](#cristallin) et pur comme la pierre [éponyme](#éponyme).
+
+- **_empirique_**
+> _(adjectif)_
 
 ## <a id="en">_en_</a> [&uarr;](#e)
 
@@ -1288,8 +1290,8 @@ stade de développement prématuré.
 > _(nom masculin)_ disposition particulière des pierres d’un édifice en maçonnerie.
 
 - **_encyclopédie_**
-> _(nom féminin)_ ouvrage contenant un ensemble exhaustif de définitions enrichies,
-ou articles, sur à peu près tout ce que l’humanité a engrangé en terme de savoir ; c’est une sorte
+> _(nom féminin)_ ouvrage contenant un ensemble [exhaustif](#exhaustif) de définitions enrichies,
+ou articles, sur à peu près tout ce que l’humanité a engrangé en termes de savoir ; c’est une sorte
 de dictionnaire enrichi synthétisant le savoir humain.
 
 - **_engouement_**
@@ -1343,6 +1345,9 @@ derrière le talon, utilisée à des fins de contrôle du cheval.
 > _(adjectif)_ se dit d’une relation fondée sur l’échange de lettres manuscrites, ou d’une
 œuvre littéraire reprenant un échange, fictif ou non, de lettres manuscrites.
 
+- **_<a id="éponyme">éponyme</a>_**
+> _(adjectif)_ 
+
 - **_époustouflant_**
 > _(adjectif)_ ébahissant, stupéfiant, épatant, amplement déconcertant, extraordinaire.
 
@@ -1366,7 +1371,7 @@ mettre sur pied.
 > _(nom féminin)_ unité militaire de base dans les différents corps armés : aérien, naval et
 terrestre ; sous-ensemble de l’escadron.
 
-- **_escroc_**
+- **_<a id="escroc">escroc</a>_**
 > _(nom masculin)_ arnaqueur, entubeur, personne qui profite financièrement de ses victimes, par le
 mensonge et la manipulation.
 
@@ -1380,12 +1385,13 @@ mensonge et la manipulation.
 > _(nom féminin)_ dans les arts picturaux, premiers essais d'une œuvre afin d'en former une base, un squelette ;
 > croquis, [ébauche](#ébauche), approximation.
 
-- **_essence_**
-> _(nom féminin)_ substance fondamentale, cœur même d’un objet, ce qui subsiste lorsqu’un corps
-est débarrassé de son enveloppe et de tout artifice, et qui définit ce corps ; carburant raffiné à partir de
-pétrole.
+- **_<a id="essence">essence</a>_**
+> _(nom féminin)_ 
+> 1. substance fondamentale, cœur même d’un objet, ce qui subsiste lorsqu’un corps
+est débarrassé de son enveloppe et de tout artifice, et qui définit ce corps.
+> 2. carburant raffiné à partir de pétrole.
 
-- **_esthétique_**
+- **_<a id="esthétique">esthétique</a>_**
 > _(adjectif)_ beau, plaisant visuellement, recherché ; décoratif, [ornemental](#ornement).
 
 - **_estoc_**
@@ -1417,8 +1423,8 @@ est contenue dans un noyau délimité par une membrane nucléaire, par oppositio
 
 ## <a id="ev">_ev_</a> [&uarr;](#e)
 
-- **_évangéliste_**
-> _(nom masculin)_ apostolat, religieux chrétien qui recherche l’évangélisation des masses, à
+- **_<a id="évangéliste">évangéliste</a>_**
+> _(nom masculin)_ [apostolat](#apostolat), religieux chrétien qui recherche l’évangélisation des masses, à
 savoir la conversion à son Église des infidèles ou des croyants non chrétiens.
 
 - **_évêque_**
@@ -1443,6 +1449,9 @@ c’est une pratique essentiellement religieuse.
 
 - **_<a id="exhalaison">exhalaison</a>_**
 > _(nom féminin)_ [émanation](#émanation), dégagement gazeux ou [olfactif](#olfactif) en provenance d’un corps, [effluve](#effluve).
+
+- **_<a id="exhaustif">exhaustif</a>_**
+> _(adjectif)_
 
 - **_exhibition_**
 > _(nom féminin)_ exposition, affichage, dévoilement.
@@ -1811,7 +1820,7 @@ transposer.
 ## <a id="ge">_ge_</a> [&uarr;](#g)
 
 - **_gemme_**
-> _(nom féminin)_ petit pierre esthétique, souvent fine ou précieuse ; elle peut être remodelée (polie, taillée, etc.) puis incrustée par exemple.
+> _(nom féminin)_ petit pierre [esthétique](#esthétique), souvent fine ou précieuse ; elle peut être remodelée (polie, taillée, etc.) puis incrustée par exemple.
 
 - **_gêne_**
 > _(nom féminin)_ sentiment de malaise, d’inconfort mental comme physique ; résultant aussi bien d’une question indiscrète ou d’une écharde dans la voûte plantaire.
@@ -2068,7 +2077,7 @@ _e.g._ faire une crise d'hystérie.
 ## <a id="im">_im_</a> [&uarr;](#i)
 
 - **_immanent_**
-> _(adjectif)_ en philosophie, qui est propre à un objet, qui fait partie de son essence.
+> _(adjectif)_ en philosophie, qui est propre à un objet, qui fait partie de son [essence](#essence).
 
 - **_immarcescible_**
 > _(adjectif)_ qui ne peut être altéré ou corrompu.
@@ -2525,6 +2534,8 @@ ouvrier
 
 pagophile
 
+panégyrique
+
 pantagruélique
 
 parachever
@@ -2774,6 +2785,8 @@ sémantique
 
 sentient
 
+sérac
+
 serpe
 
 ## _<a id="si">si</a>_ [&uarr;](#s)
@@ -2828,6 +2841,8 @@ suppurer
 
 supputer
 
+<a id="suranné">suranné</a>
+
 ## _<a id="sv">sv</a>_ [&uarr;](#s)
 
 svelte
@@ -2880,7 +2895,9 @@ tradition
 
 trille
 
-<a id="trône">trône</a>
+- **_<a id="trône">trône</a>_**
+> _(nom masculin)_ siège du souverain, symbole de son autorité et de sa puissance ;
+> _(argot)_ cuvette des toilettes.
 
 truculent
 
