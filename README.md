@@ -76,7 +76,7 @@
 
 ## <a id="ac">_ac_</a> [&uarr;](#a)
 
-- **_acabit_**
+- **_<a id="acabit">acabit</a>_**
 > _(nom masculin)_ valeur d’un objet au sens large ; l’[analogie](#analogie) entre un adversaire “à la hauteur” et “du même acabit” permet de mieux saisir ce substantif.
 
 - **_acception_**
@@ -127,12 +127,12 @@
 > _(adjectif)_ se dit d’une personne rusée, habile pour parvenir à ses fins.
 
 - **_aigri_**
-> _(adjectif)_ plein de rancœur, d’amertume, de ressentiment.
+> _(adjectif)_ plein de [rancœur](#rancœur), d’[amertume](#amertume), de [ressentiment](#ressentiment).
 
 ## <a id="al">_al_</a> [&uarr;](#a)
 
-- **_alacrité_**
-> _(nom féminin)_ caractérise la vigueur d’esprit ou de corps d’une personne ; engouement à l’égard
+- **_<a id="alacrité">alacrité</a>_**
+> _(nom féminin)_ caractérise la vigueur d’esprit ou de corps d’une personne ; [engouement](#engouement) à l’égard
 d’un évènement, entrain, enjouement.
 
 - **_alambiqué_**
@@ -175,9 +175,9 @@ d’un évènement, entrain, enjouement.
 - **_amenuiser_**
 > _(verbe transitif)_ raréfier, réduire les ressources, ordinairement matérielles, de manière drastique, jusqu’à la quasi-disparition de celles-ci.
 
-- **_amertume_**
+- **_<a id="amertume">amertume</a>_**
 > _(nom féminin)_ propriété d’un aliment déterminée par le goût, c’est donc une caractéristique gustative au même titre que l’acidité, et généralement désagréable en bouche ;
-> _(fig)_ sentiment de rancœur, aigreur.
+> _(fig)_ sentiment de [rancœur](#rancœur), aigreur.
 
 - **_amnésie_**
 > _(nom féminin)_ condition qui se caractérise par des troubles passagers ou non de la mémoire chez le patient, et dont la fréquence et l’intensité varient selon l’individu et l’avancée du syndrome.
@@ -212,8 +212,8 @@ d’un évènement, entrain, enjouement.
 - **_anathème_**
 > _(nom masculin)_ sentence d’excommunication, exclusion d’une communauté religieuse pour hérésie ; blâme, accusation, s’emploie dans des expressions telles que “jeter l’anathème”, ou “être frappé d’anathème”.
 
-- **_anéantir_**
-> _(verbe transitif)_ annihiler, éliminer, littéralement réduire à néant ; à la voix passive, désespéré au point de ne plus avoir de volonté, mentalement détruit.
+- **_<a id="anéantir">anéantir</a>_**
+> _(verbe transitif)_ [annihiler](#annihiler), éliminer, littéralement réduire à [néant](#néant) ; à la voix passive, désespéré au point de ne plus avoir de volonté, mentalement détruit.
 
 - **_anecdotique_**
 > _(adjectif)_ qui relève du détail, sans importance, minime.
@@ -224,8 +224,8 @@ d’un évènement, entrain, enjouement.
 - **_<a id="angoisse">angoisse</a>_**
 > _(nom féminin)_ inquiétude disproportionnée à l’origine d’un profond malaise, [anxiété](#anxiété), peur, panique.
 
-- **_annihiler_**
-> _(verbe transitif)_ réduire au néant, anéantir.
+- **_<a id="annihiler">annihiler</a>_**
+> _(verbe transitif)_ réduire au [néant](#néant), [anéantir](#anéantir).
 
 - **_anomie_**
 > _(nom féminin)_ état d’une société sans normes pour en assurer l’ordre.
@@ -250,7 +250,7 @@ d’un évènement, entrain, enjouement.
 > _(nom féminin)_ idée antagoniste, littéralement thèse contraire ; figure de style qui se traduit par l’opposition de deux mots non consécutifs dans le texte.
 
 - **_antre_**
-> _(nom féminin)_ repaire, tanière, avec une indéniable connotation péjorative, notamment par un sous-entendu d’isolement et couramment, de lieu de préparation de vils projets.
+> _(nom féminin)_ repaire, [tanière](#tanière), avec une indéniable connotation péjorative, notamment par un sous-entendu d’isolement et couramment, de lieu de préparation de vils projets.
 
 - **_<a id="anxiété">anxiété</a>_**
 > _(nom féminin)_ malaise, tourment de l’esprit, stress, [angoisse](#angoisse).
@@ -300,7 +300,7 @@ d’un évènement, entrain, enjouement.
 - **_arborescence_**
 > _(nom féminin)_ structure hiérarchique en arbre, utilisée en théorie des graphes, qui comporte une racine, des nœuds et des feuilles ; en informatique, elle est notamment utilisée pour représenter l’organisation du système de fichiers, ou des données en mémoire.
 
-- **_archaïque_**
+- **_<a id="archaïque">archaïque</a>_**
 > _(adjectif)_ ancien, vieux, dépassé ; primitif.
 
 - **_archétype_**
@@ -315,8 +315,8 @@ d’un évènement, entrain, enjouement.
 - **_arriviste_**
 > _(adjectif)_ profiteur, opportuniste, doté d’une ambition évidente fréquemment orientée vers un objectif d’ascension sociale.
 
-- **_arrogance_**
-> _(nom féminin)_ insolence, provocation ; comportement plutôt contrôlé d’une personne qui se caractérise par un étalage confiant de son savoir et intellect, avec une intention claire de déstabiliser et de provoquer son ou ses interlocuteurs, qui lui sont d’ordinaire aînés dans le domaine à propos duquel ils sont provoqués.
+- **_<a id="arrogance">arrogance</a>_**
+> _(nom féminin)_ [insolence](#insolence), provocation ; comportement plutôt contrôlé d’une personne qui se caractérise par un étalage confiant de son savoir et intellect, avec une intention claire de déstabiliser et de provoquer son ou ses interlocuteurs, qui lui sont d’ordinaire aînés dans le domaine à propos duquel ils sont provoqués.
 
 ## <a id="as">_as_</a> [&uarr;](#a)
 
@@ -464,7 +464,7 @@ sociale, de tout code ; violence, agressivité.
 
 - **_bile_**
 > _(nom féminin)_ liquide du corps humain, secrété par le foie, et favorisant la digestion des lipides ;
-> _(fig)_ rancœur, colère bouillante, haine aveugle.
+> _(fig)_ [rancœur](#rancœur), colère bouillante, haine aveugle.
 
 - **_biomasse_**
 > _(nom féminin)_ ensemble des éléments biologiques, donc vivants, d’un environnement défini,
@@ -740,7 +740,7 @@ trapézoïdale.
 déduction, intuition juste.
 
 - **_clepsydre_**
-> _(nom féminin)_ instrument archaïque de mesure du temps, par écoulement de l’eau au
+> _(nom féminin)_ instrument [archaïque](#archaïque) de mesure du temps, par écoulement de l’eau au
 compte-gouttes dans un vase.
 
 - **_<a id="clergé">clergé</a>_**
@@ -1034,7 +1034,7 @@ psychologique qui induit une inexistence de la volonté chez le sujet.
 > _(nom masculin)_ désir, requête, envie particulière.
 
 - **_désinvolture_**
-> _(nom féminin)_ insolence, provocation, arrogance, irrespect.
+> _(nom féminin)_ [insolence](#insolence), provocation, [arrogance](#arrogance), irrespect.
 
 - **_<a id="dessein">dessein</a>_**
 > _(nom masculin)_ intention, projet, plan.
@@ -1294,8 +1294,8 @@ stade de développement prématuré.
 ou articles, sur à peu près tout ce que l’humanité a engrangé en termes de savoir ; c’est une sorte
 de dictionnaire enrichi synthétisant le savoir humain.
 
-- **_engouement_**
-> _(nom masculin)_ entrain, enjouement, alacrité, sentiment d’excitation à l’approche
+- **_<a id="engouement">engouement</a>_**
+> _(nom masculin)_ entrain, enjouement, [alacrité](#alacrité), sentiment d’excitation à l’approche
 d’un évènement attendu.
 
 - **_entériner_**
@@ -1303,13 +1303,13 @@ d’un évènement attendu.
 acte juridique.
 
 - **_entrain_**
-> _(nom masculin)_ engouement, enjouement, motivation en vue d’une activité.
+> _(nom masculin)_ [engouement](#engouement), enjouement, motivation en vue d’une activité.
 
 - **_entraver_**
 > _(verbe transitif)_ gêner, perturber, ralentir, poser des entraves.
 
 - **_envergure_**
-> _(nom féminin)_ diamètre, taille, calibre, acabit ; dimension horizontale d’un être vivant
+> _(nom féminin)_ diamètre, taille, calibre, [acabit](#acabit) ; dimension horizontale d’un être vivant
 mesurée par la distance entre les extrémités de ses membres supérieurs tenus parallèles au sol.
 
 - **_envieux_**
@@ -2128,7 +2128,7 @@ infundibuliforme
 
 insidieux
 
-insolence
+<a id="insolence">insolence</a>
 
 inspiration
 
@@ -2426,6 +2426,8 @@ naturalisme
 
 naumachie
 
+<a id="néant">néant</a>
+
 nébuleux
 
 négligent
@@ -2675,7 +2677,7 @@ rafistoler
 
 raillerie
 
-rancœur
+<a id="rancœur">rancœur</a>
 
 rapière
 
@@ -2699,7 +2701,7 @@ répudier
 
 resplendissant
 
-ressentiment
+<a id="ressentiment">ressentiment</a>
 
 retrouvailles
 
@@ -2867,7 +2869,7 @@ synonyme
 
 talent
 
-tanière
+<a id="tanière">tanière</a>
 
 tarasconnade
 
