@@ -60,10 +60,10 @@
 > _(adjectif)_ affreux, horrible, d’une telle horreur que c’en est presque inconcevable.
 
 - **_abracadabrantesque_**
-> _(adjectif)_ surréaliste, incroyable, follement surprenant, carrément improbable.
+> _(adjectif)_ [surréaliste](#surréaliste), incroyable, follement surprenant, carrément improbable.
 
 - **_abroger_**
-> _(verbe transitif)_ retirer un texte législatif, le rendant ainsi obsolète.
+> _(verbe transitif)_ retirer un texte législatif, le rendant ainsi [obsolète](#obsolète).
 
 - **_abscons_**
 > _(adjectif)_ dénué de sens, d’une complexité voulue si grande qu’elle en est caricaturale et incompréhensible.
@@ -132,8 +132,8 @@
 ## <a id="al">_al_</a> [&uarr;](#a)
 
 - **_<a id="alacrité">alacrité</a>_**
-> _(nom féminin)_ caractérise la vigueur d’esprit ou de corps d’une personne ; [engouement](#engouement) à l’égard
-d’un évènement, entrain, enjouement.
+> _(nom féminin)_ caractérise la [vigueur](#vigueur) d’esprit ou de corps d’une personne ; [engouement](#engouement) à l’égard
+d’un évènement, [entrain](#entrain), enjouement.
 
 - **_alambiqué_**
 > _(adjectif)_ trop subtil, tiré par les cheveux, qui torture l’esprit.
@@ -1047,7 +1047,7 @@ l’action inverse d’instituer.
 > _(nom masculin)_ monture hippique, cheval destiné à un usage militaire, qualificatif des
 chevaux montés par les chevaliers.
 
-- **_désuet_**
+- **_<a id="désuet">désuet</a>_**
 > _(adjectif)_ se dit d’un mot qui n’est plus employé dans la langue française
 qu’anecdotiquement, tandis qu’il l’était couramment à une certaine époque ; qui n’est plus usité,
 passé de mode, vieilli, [suranné](#suranné).
@@ -1295,14 +1295,14 @@ ou articles, sur à peu près tout ce que l’humanité a engrangé en termes de
 de dictionnaire enrichi synthétisant le savoir humain.
 
 - **_<a id="engouement">engouement</a>_**
-> _(nom masculin)_ entrain, enjouement, [alacrité](#alacrité), sentiment d’excitation à l’approche
+> _(nom masculin)_ [entrain](#entrain), enjouement, [alacrité](#alacrité), sentiment d’excitation à l’approche
 d’un évènement attendu.
 
 - **_entériner_**
 > _(verbe transitif)_ approuver la validité d’une chose, admettre une requête ; ratifier un
 acte juridique.
 
-- **_entrain_**
+- **_<a id="entrain">entrain</a>_**
 > _(nom masculin)_ [engouement](#engouement), enjouement, motivation en vue d’une activité.
 
 - **_entraver_**
@@ -2484,7 +2484,9 @@ obscurité
 
 obsession
 
-obsolète
+- **_<a id="obsolète">obsolète</a>_**
+> _(adjectif)_ qui n'est plus valable ou n'est plus d'usage ;
+> caduque, [désuet](#désuet), [suranné](#suranné).
 
 occidental
 
@@ -2843,7 +2845,14 @@ suppurer
 
 supputer
 
-<a id="suranné">suranné</a>
+- **_<a id="suranné">suranné</a>_**
+> _(adjectif)_ qui est dépassé et peu, voire plus employé ;
+> _c.f._ [désuet](#désuet), [obsolète](#obsolète).
+
+- **_<a id="surréaliste">surréaliste</a>_**
+> _(adjectif)_
+> 1. relatif au mouvement du surréalisme.
+> 2. qui transcende la réalité, dont on a peine à croire.
 
 ## _<a id="sv">sv</a>_ [&uarr;](#s)
 
@@ -2964,6 +2973,9 @@ vicissitude
 victimaire
 
 vigilance
+
+- **_<a id="vigueur">vigueur</a>_**
+> _(nom féminin)_ force, endurance, aussi bien du corps que de l'esprit.
 
 vil
 
