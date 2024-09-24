@@ -345,7 +345,7 @@ d’un évènement, [entrain](#entrain), enjouement.
 > _(nom masculin)_ réapparition spontanée d’un caractère ancestral chez un descendant.
 
 - **_atrabilaire_**
-> _(adjectif)_ extrêmement irritable et désagréable, irascible.
+> _(adjectif)_ extrêmement irritable et désagréable, [irascible](#irascible).
 
 - **_attentionné_**
 > _(adjectif)_ qui prend soin d’autrui, attentif à ses soucis et prompt à accomplir ses envies.
@@ -1925,6 +1925,9 @@ grandes expressions.
 - **_haploïde_**
 > _(adjectif)_ se dit d’un organisme ne possédant qu’un exemplaire de chaque chromosome.
 
+- **_hapax_**
+> _(nom masculin)_ mot dont on a connaissance que d'une utilisation dans l'ensemble des textes.
+
 - **_haranguer_**
 > _(verbe transitif)_ monologuer face à une assemblée d’un certain statut ;
 > _(fig)_ faire la morale longuement et péniblement.
@@ -2124,9 +2127,11 @@ _e.g._ faire une crise d'hystérie.
 > _(par extension)_ peut concerner tout groupement d'équipements techniques ou sociaux-économiques,
 > _e.g._ l'infrastructure réseau d'une entreprise.
 
-infundibuliforme
+- **_infundibuliforme_**
+> _(adjectif)_ qui a une forme d'entonnoir.
 
-insidieux
+- **_insidieux_**
+> _(adjectif)_ qui veut du mal à quelqu'un par des moyens cachés ; pernicieux, fourbe, vicieux, perfide.
 
 <a id="insolence">insolence</a>
 
@@ -2142,7 +2147,7 @@ intrinsèque
 
 ## <a id="ir">_ir_</a> [&uarr;](#i)
 
-irascible
+- **_<a id="irascible">irascible</a>_**
 
 ire
 
@@ -2170,7 +2175,14 @@ ivresse
 
 # <a id="j"><center>J</center></a>
 
-## _ja_
+> [ja](#ja) -
+[je](#je) -
+[jo](#jo) -
+[ju](#ju)
+
+---
+
+## _<a id="ja">ja</a>_ [&uarr;](#j)
 
 jacquerie
 
@@ -2188,13 +2200,13 @@ jaser
 
 jasmin
 
-## _je_
+## _<a id="je">je</a>_ [&uarr;](#j)
 
 jérémiade
 
 jeûne
 
-## _jo_
+## _<a id="jo">jo</a>_ [&uarr;](#j)
 
 jouir
 
@@ -2202,7 +2214,7 @@ journée
 
 jovial
 
-## _ju_
+## _<a id="ju">ju</a>_ [&uarr;](#j)
 
 jubiler
 
@@ -2473,6 +2485,8 @@ nouvelle
 # O
 
 oasis
+
+obduration
 
 oblitérer
 
