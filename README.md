@@ -1033,7 +1033,7 @@ psychologique qui induit une inexistence de la volonté chez le sujet.
 - **_desiderata_**
 > _(nom masculin)_ désir, requête, envie particulière.
 
-- **_désinvolture_**
+- **_<a id="désinvolture">désinvolture</a>_**
 > _(nom féminin)_ [insolence](#insolence), provocation, [arrogance](#arrogance), irrespect.
 
 - **_<a id="dessein">dessein</a>_**
@@ -1676,7 +1676,7 @@ transposer.
 > _e.g._ fomenter un coup d'État.
 
 - **_forfanterie_**
-> _(nom féminin)_ plastonnerie, fanfaronnerie, crânerie ; attitude de désinvolture et d’intarissable vanité, vue comme un trait de caractère s’appliquant à une personne.
+> _(nom féminin)_ plastonnerie, fanfaronnerie, crânerie ; attitude de [désinvolture](#désinvolture) et d’intarissable vanité, vue comme un trait de caractère s’appliquant à une personne.
 
 - **_fortuit_**
 > _(adjectif)_ imprévu, inattendu, inopiné.
@@ -2133,7 +2133,9 @@ _e.g._ faire une crise d'hystérie.
 - **_insidieux_**
 > _(adjectif)_ qui veut du mal à quelqu'un par des moyens cachés ; pernicieux, fourbe, vicieux, perfide.
 
-<a id="insolence">insolence</a>
+- **_<a id="insolence">insolence</a>_**
+> _(nom féminin)_ excès de confiance en soi qui débouche sur une tendance à la provocation 
+> ; [arrogance](#arrogance), [désinvolture](#désinvolture). 
 
 inspiration
 
