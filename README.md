@@ -392,7 +392,7 @@ auteur tenter un coup dont il n’est pas assuré du succès.
 > _(verbe transitif)_ plaisanter avec légèreté, ne pas prendre au sérieux un principe ; on l’utilise notamment dans l’expression “on ne badine pas avec”.
 
 - **_baie_**
-> _(nom féminin)_ fruit sphérique de petite taille à pépins; renflement, creux, dans un littoral, en forme d’arc de cercle ou de fer à cheval, la baie se situant au dessus de la crique et en dessous du golfe en terme de taille.
+> _(nom féminin)_ fruit sphérique de petite taille à pépins ; renflement, creux, dans un littoral, en forme d’arc de cercle ou de fer à cheval, la baie se situant au dessus de la crique et en dessous du golfe en terme de taille.
 
 - **_balbutier_**
 > _(verbe intransitif)_ peiner à articuler, à formuler une phrase cohérente oralement ou syntaxiquement.
@@ -1733,8 +1733,13 @@ transposer.
 - **_funambule_**
 > _(nom masculin)_ individu pratiquant le funambulisme, c'est-à-dire le parcours pédestre d'un fil tendu au dessus du sol ou du vide, en équilibre.
 
-- **_funeste_**
-> _(adjectif)_ relatif à la mort, qui indique ou apporte le malheur.
+- **_<a id="funèbre">funèbre</a>_**
+> _(adjectif)_ 
+> 1. relatif aux funérailles.
+> 2. _(fig)_ qui inspire la tristesse et annonce la mort, de mauvais augure ; [funeste](#funeste).
+
+- **_<a id="funeste">funeste</a>_**
+> _(adjectif)_ relatif à la mort, qui indique ou apporte le malheur ; [funèbre](#funèbre).
 
 - **_funiculaire_**
 > _(nom masculin)_ petit train adapté aux fortes dénivelées, dont la locomotion s'effectue par un large câble au milieu des rails.
@@ -2583,6 +2588,8 @@ pestilentiel
 petrichor
 
 pétrir
+
+phalène
 
 pilastre
 
