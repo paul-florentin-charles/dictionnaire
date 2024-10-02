@@ -2142,7 +2142,10 @@ _e.g._ faire une crise d'hystérie.
 > _(nom féminin)_ excès de confiance en soi qui débouche sur une tendance à la provocation 
 > ; [arrogance](#arrogance), [désinvolture](#désinvolture). 
 
-inspiration
+- **_inspiration_**
+> _(nom féminin)_
+> 1. acte respiratoire qui consiste à faire affluer de l'air extérieur vers les poumons, par opposition à l'expiration.
+> 2. _(fig)_ source de créativité artistique ; _(par extension)_ modèle à la base d'un acte ou d'un projet.
 
 institution
 
@@ -2268,6 +2271,8 @@ lapidation
 lapis-lazuli
 
 lascar
+
+lascif
 
 laxiste
 
