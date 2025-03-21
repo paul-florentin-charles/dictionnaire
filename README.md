@@ -581,7 +581,7 @@ lieu.
 > _(nom masculin)_ commandeur suprême des croyants dans l’islam, chef politique et religieux
 musulman.
 
-- **_caligineux_** 
+- **_<a id="caligineux">caligineux</a>_** 
 > _(adjectif)_ obscur, trouble, brumeux ;
 > _(fig)_ étroit d’esprit, manquant de clairvoyance.
 
@@ -1371,6 +1371,9 @@ mettre sur pied.
 > _(nom féminin)_ unité militaire de base dans les différents corps armés : aérien, naval et
 terrestre ; sous-ensemble de l’escadron.
 
+- **_escarcelle_**
+> _(nom féminin)_ petit sac similaire à une bourse, en plus volumineux et attaché à la ceinture.
+
 - **_<a id="escroc">escroc</a>_**
 > _(nom masculin)_ arnaqueur, entubeur, personne qui profite financièrement de ses victimes, par le
 mensonge et la manipulation.
@@ -2147,7 +2150,9 @@ _e.g._ faire une crise d'hystérie.
 > 1. acte respiratoire qui consiste à faire affluer de l'air extérieur vers les poumons, par opposition à l'expiration.
 > 2. _(fig)_ source de créativité artistique ; _(par extension)_ modèle à la base d'un acte ou d'un projet.
 
-institution
+- **_institution_**
+> _(nom féminin)_ organisation, nom générique donné à une entité représentant un domaine de compétences
+> ; elle peut être privée comme publique.
 
 intransigeant
 
@@ -2159,7 +2164,8 @@ intrinsèque
 
 - **_<a id="irascible">irascible</a>_**
 
-ire
+- **_ire_**
+> _(nom féminin)_ colère, _i.e._ l'ire de Poséidon se traduisant par des flots en furie.
 
 iris
 
@@ -2452,7 +2458,7 @@ naumachie
 
 <a id="néant">néant</a>
 
-nébuleux
+<a id="nébuleux">nébuleux</a>
 
 négligent
 
@@ -2822,6 +2828,9 @@ sérac
 serpe
 
 ## _<a id="si">si</a>_ [&uarr;](#s)
+
+- **_<a id="sibyllin">sibyllin</a>_**
+> _(adjectif)_ relatif aux sibylles, oracles grecques ; _(fig)_ au sens obscur, [nébuleux](#nébuleux), [caligineux](#caligineux).
 
 silence
 
