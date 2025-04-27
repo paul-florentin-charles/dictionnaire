@@ -2214,6 +2214,8 @@ jars
 
 jaser
 
+jaseran
+
 jasmin
 
 ## _<a id="je">je</a>_ [&uarr;](#j)
