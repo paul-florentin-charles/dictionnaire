@@ -287,6 +287,9 @@ d’un évènement, [entrain](#entrain), enjouement.
 - **_appréhension_**
 > _(nom féminin)_ anxiété en vue d’un évènement proche, dont l’issue nous est floue et relève d’une certaine importance, on parle alors de “degré d’appréhension” d’une personne.
 
+- **_aptonyme_**
+> _(nom masculin)_ se dit d'un nom ou prénom évoquant l'activité de celui ou celle le portant.
+
 ## <a id="aq">_aq_</a> [&uarr;](#a)
 
 - **_aquilin_**
@@ -1378,6 +1381,10 @@ terrestre ; sous-ensemble de l’escadron.
 > _(nom masculin)_ arnaqueur, entubeur, personne qui profite financièrement de ses victimes, par le
 mensonge et la manipulation.
 
+- **_espalier_**
+> _(nom masculin)_ structure d'arbre plate et allongée obtenue en le taillant ; 
+> elle est particulièrement utilisée pour des arbres fruitiers.
+
 - **_esperluette_**
 > _(nom féminin)_ symbole stylisé se substituant à la conjonction de coordination “et”, e commercial ; &.
 
@@ -2155,8 +2162,10 @@ _e.g._ faire une crise d'hystérie.
 > ; elle peut être privée comme publique.
 
 intransigeant
+> _(adjectif)_ qui ne montre aucune clémence, qui ne tolère aucun écart.
 
 intrépide
+> _(adjectif)_ qui ne recule pas devant l'inattendu ou le danger ; brave, courageux, presque téméraire.
 
 intrinsèque
 
