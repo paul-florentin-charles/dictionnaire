@@ -2161,10 +2161,10 @@ _e.g._ faire une crise d'hystérie.
 > _(nom féminin)_ organisation, nom générique donné à une entité représentant un domaine de compétences
 > ; elle peut être privée comme publique.
 
-intransigeant
+- **_intransigeant_**
 > _(adjectif)_ qui ne montre aucune clémence, qui ne tolère aucun écart.
 
-intrépide
+- **_intrépide_**
 > _(adjectif)_ qui ne recule pas devant l'inattendu ou le danger ; brave, courageux, presque téméraire.
 
 intrinsèque
