@@ -154,6 +154,9 @@ d’un évènement, [entrain](#entrain), enjouement.
 - **_alliciant_**
 > _(adjectif)_ attirant, séduisant, avec une forte connotation charnelle, voire sexuelle.
 
+- **_alpenglow_**
+> _(nom masculin)_ teinte carmine, voire rosée que peuvent prendre les reliefs ou les nuages quand le Soleil se couche à l'opposé.
+
 - **_altruisme_**
 > _(nom masculin)_ bonté de l’âme, générosité inconditionnelle, s’oppose à l’égoïsme.
 
